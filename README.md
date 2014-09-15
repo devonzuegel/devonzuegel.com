@@ -2,23 +2,6 @@
 Bare essentials for building a modern website with best practices using jade and less. livereload used to aid development.
 
 
-## Getting Started
-
-1. [Install DocPad](https://github.com/bevry/docpad)
-
-1. Clone the project and run the server
-
-	``` bash
-	git clone git://github.com/jh3y/html5-boilerplate-jade-less-livereload.docpad.git
-	cd html5-boilerplate-jade-less-livereload.docpad
-	npm install
-	docpad run
-	```
-
-1. [Open http://localhost:9778/](http://localhost:9778/)
-
-1. Start hacking away by modifying the `src` directory
-
 ## Q&A
 
 **Q: I've installed a plugin, but it doesn't appear to be doing anything!**
