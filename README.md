@@ -19,6 +19,11 @@ Bare essentials for building a modern website with best practices using jade and
 
 1. Start hacking away by modifying the `src` directory
 
+## Q&A
+
+**Q: I've installed a plugin, but it doesn't appear to be doing anything!**
+*Try cancelling the running site and executing `$ docpad run` once again. The `package.json` file doesn't live-reload on save.*
+
 
 ## License
 
