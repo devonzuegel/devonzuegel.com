@@ -89,6 +89,19 @@ docpadConfig = {
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
 
+  # Collections
+  # ===========
+  # These are special collections that our website makes available to us
+
+  collections:
+    # For instance, this one will fetch in all documents that have pageOrder set within their meta data
+    pages: (database) ->
+      database.findAllLive({pageOrder: $exists: true}, [pageOrder:1,title:1])
+
+    # This one, will fetch in all documents that will be outputted to the posts directory
+    posts: (database) ->
+      database.findAllLive({relativeOutDirPath:'posts'},[date:-1])
+
 
 	# =================================
 	# DocPad Events
@@ -117,6 +130,11 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
+
+  plugins:
+    ghpages:
+      deployBranch: 'master'
+      deployRemote: 'deploy'
 }
 
 # Export our DocPad Configuration
