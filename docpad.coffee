@@ -89,18 +89,12 @@ docpadConfig = {
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
 
-  # Collections
   # ===========
-  # These are special collections that our website makes available to us
+  # Collections
 
-  collections:
-    # For instance, this one will fetch in all documents that have pageOrder set within their meta data
-    pages: (database) ->
-      database.findAllLive({pageOrder: $exists: true}, [pageOrder:1,title:1])
-
-    # This one, will fetch in all documents that will be outputted to the posts directory
-    posts: (database) ->
-      database.findAllLive({relativeOutDirPath:'posts'},[date:-1])
+	collections:
+	    posts: ->
+	      @getCollection("html").findAllLive({relativeOutDirPath: "posts"},[{date:-1}])
 
 
 	# =================================
@@ -134,7 +128,10 @@ docpadConfig = {
   plugins:
     ghpages:
       deployBranch: 'master'
-      deployRemote: 'deploy'
+      deployRemote: 'pages'
+
+  regenerateDelay: 0    # default
+
 }
 
 # Export our DocPad Configuration

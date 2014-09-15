@@ -12,9 +12,8 @@ body
       |to improve your experience.
   
   .nav: .container: ul
-    //- each p in getCollection('pages').toJSON()
-    //-   li(typeof="sioc:Page", about=p.url, class=(document.url === p.url) ? 'active' : null)
-    //-     a(href=p.url, property="dc:title")= p.title
+    each p in getCollection('posts').toJSON()
+      li: a(href=p.url) #{p.title}
 
   #content!= content
 
