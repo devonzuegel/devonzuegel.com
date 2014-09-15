@@ -30,7 +30,7 @@ docpadConfig = {
 			styles: [
 				'css/style.css'
 				'css/vendor/normalize.css'
-            				'css/vendor/main.css'
+				'css/vendor/main.css'
 			]
 
 			# The website's scripts
@@ -39,6 +39,30 @@ docpadConfig = {
 				'js/plugins.js'
 				'js/main.js'
 			]
+
+			# Contact info
+			email: [
+				'devonzuegel@gmail.com'
+				'devonz@cs.stanford.edu'
+			]
+			
+			social: {
+
+				github: {
+					username: 'devonzuegel'
+					url: '//github.com/devonzuegel'
+				}
+
+				twitter: {
+					username: 'DevonZuegel'
+					url: '//twitter.com/devonzuegel'
+				}
+
+				quora: { }
+
+			}
+
+
 
 
 		# -----------------------------
