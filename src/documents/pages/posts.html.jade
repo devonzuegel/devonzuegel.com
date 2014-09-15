@@ -1,0 +1,10 @@
+---
+title: 'Posts'
+tags: ['intro','page', 'posts']
+collection: pages
+---
+
+h1 #{document.title}
+
+each p in getCollection('posts').toJSON()
+	a(href=p.url) #{p.title}

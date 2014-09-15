@@ -11,29 +11,25 @@ body
         |upgrade your browser
       |to improve your experience.
 
+  #nav-spacer
   nav.navbar.navbar-default.navbar-fixed-top.custom(role='navigation')
     .container-fluid
+
       //- Brand and toggle get grouped for better mobile display 
       .navbar-header
         button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
           span.sr-only Toggle navigation
           span: i.fa.fa-bars
-          //- span.icon-bar
-          //- span.icon-bar
-          //- span.icon-bar
         a.navbar-brand(href='#') Brand
+
       //- Collect the nav links, forms, and other content for toggling 
       #bs-example-navbar-collapse-1.collapse.navbar-collapse
         ul.nav.navbar-nav
-          each post in getCollection('posts').toJSON().concat(getCollection('pages').toJSON())
-            li(class=(document.url === post.url) ? 'active' : null)
-              a(href=post.url)
-                | #{post.title}
-          //- each page in getCollection('pages').toJSON()
-            li(class=(document.url === page.url) ? 'active' : null)
-              a(href=page.url)
-                | #{page.title}
-  #nav-spacer
+          each p in getCollection('pages').toJSON()
+            li(class=(document.url === p.url) ? 'active' : null)
+              a(href=p.url)
+                | #{p.title}
+                
   #content!= content
 
   != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()
