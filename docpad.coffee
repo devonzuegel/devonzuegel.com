@@ -28,16 +28,21 @@ docpadConfig = {
 
 			# The website's styles
 			styles: [
-				'css/style.css'
-				'css/vendor/normalize.css'
-				'css/vendor/main.css'
+				# '../css/vendor/bootstrap/bootstrap-theme.css'
+				# '../css/vendor/bootstrap/bootstrap.css'
+				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.css'
+				'../css/style.css'
+				'../css/vendor/normalize.css'
+				'../css/vendor/main.css'
+				'//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'
 			]
 
 			# The website's scripts
 			scripts: [
-				'//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'
-				'js/plugins.js'
-				'js/main.js'
+				'//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'
+				'../js/plugins.js'
+				'../js/main.js'
+				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'
 			]
 
 			# Contact info
@@ -94,7 +99,12 @@ docpadConfig = {
 
 	collections:
 	    posts: ->
-	      @getCollection("html").findAllLive({relativeOutDirPath: "posts"},[{date:-1}])
+	      @getCollection("html").findAllLive({relativeOutDirPath: "posts"},[{date:-1}]).on "add", (model) ->
+	      	model.setMetaDefaults({layout:"post"})
+
+	    pages: (database) ->
+	      database.findAllLive({collection: 'pages'}, [pageOrder:1,title:1]).on "add", (model) ->
+	      	model.setMetaDefaults({layout:"page"})
 
 
 	# =================================

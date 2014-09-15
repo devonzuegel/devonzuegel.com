@@ -1,6 +1,7 @@
 ---
-title: First Post
-tags: ['intro','page']
+title: Post 1
+tags: ['intro','post']
+collection: posts
 ---
 
 # First post
