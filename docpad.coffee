@@ -40,8 +40,9 @@ docpadConfig = {
 			# The website's scripts
 			scripts: [
 				'//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'
-				'../js/plugins.js'
-				'../js/main.js'
+				# '../js/plugins.js'
+				# '../js/main.js'
+				'//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.js'
 				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'
 			]
 

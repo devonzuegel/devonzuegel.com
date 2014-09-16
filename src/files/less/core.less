@@ -1,5 +1,6 @@
 @import '/base/variables';
 @import '/base/typography';
+@import '/base/mixins';
 
 body {
 	overflow-y: scroll;
@@ -23,6 +24,7 @@ body {
 		}
 
 	}
+
 	.navbar-default .navbar-toggle:hover, 
 	.navbar-default .navbar-toggle:focus,
 	.navbar-default .navbar-toggle .icon-bar {
@@ -32,8 +34,12 @@ body {
 	.container-fluid {
 		max-width: @width-1;
 		padding: 0 @padding-1;
-		border-bottom: 1px solid #e7e7e7;
+
+		@media (max-width: 758px) {
+			border-bottom: 1px solid #e7e7e7;
+		}
 	}
+	
 }
 
 // compensates for sticky nav's height

@@ -8,4 +8,4 @@ h1 #{document.title}
 
 each p in getCollection('posts').toJSON()
 	h3: a(href=p.url) #{p.title}
-	.time #{p.date}
+	.time #{moment(p.date).format('ll')}
