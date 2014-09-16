@@ -1,0 +1,80 @@
+
+
+/* -----------
+ * NAVIGATION */
+
+nav {
+	font-family: 'DINComp', sans-serif;
+	text-transform: uppercase;
+	
+	.navbar-brand {
+		text-transform: none;
+		color: darken(@yellow, 15%) !important;
+		border-top: 5px solid transparent;
+		font-size: 2em;
+
+		&:hover {
+			text-shadow: 0 0 0.2em lighten(@yellow, 18%);
+			color: darken(@yellow, 16%) !important;
+		}
+	}
+
+}
+
+.navbar-default .navbar-nav {
+
+	@media(min-width: 768px) {
+		.active > a {
+			color: #666;
+			border-top: 5px solid lighten(@yellow, 12%);
+
+			&:hover {
+				color: black;
+				border-top: 5px solid darken(@yellow, 10%);
+			}
+
+		}
+
+		li > a {
+			padding: 15px 4px 5px 4px;
+			margin-left: 20px;
+			background: none !important;
+			border-top: 5px solid transparent;
+			color: #ccc;
+
+			&:hover {
+				color: black;
+				border-top: 5px solid darken(@yellow, 10%);
+			}
+		}
+
+	}
+
+	@media(max-width: 768px) {
+		.active > a {
+			background: lighten(@yellow, 30%);
+			color: #666;
+
+			&:hover {
+				color: black;
+				background: lighten(@yellow, 25%);
+			}
+
+		}
+
+		li > a {
+			padding: 5px 5px 5px 10px;
+			margin: 5px 0px;
+			background: none;
+			color: #ccc;
+
+			&:hover {
+				background: lighten(@yellow, 25%);
+				color: black;
+			}
+		}
+
+	}
+
+}
+

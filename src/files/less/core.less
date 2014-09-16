@@ -2,11 +2,12 @@
 @import '/base/typography';
 @import '/base/mixins';
 
+@import '/includes/nav';
+
 body {
 	overflow-y: scroll;
 	font: Helvetica 14px;
 	font-weight: 200;
-	// color: @color1;
 }
 
 .navbar {
@@ -32,12 +33,12 @@ body {
 	}
 
 	.container-fluid {
-		max-width: @width-1;
-		padding: 0 @padding-1;
+		max-width: @width-1 - 50px;
+		padding: 0 10px 5px 10px;
 
-		@media (max-width: 758px) {
-			border-bottom: 1px solid #e7e7e7;
-		}
+		// @media (max-width: 758px) {
+			border-bottom: 1px solid #f3f3f3;
+		// }
 	}
 	
 }
