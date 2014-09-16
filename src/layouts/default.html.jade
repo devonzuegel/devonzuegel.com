@@ -18,9 +18,9 @@ body
       //- Brand and toggle get grouped for better mobile display 
       .navbar-header
         button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
-          span.sr-only Toggle navigation
+          //- span.sr-only Toggle navigation
           span: i.fa.fa-bars
-        a.navbar-brand(href='#') Brand
+        a.navbar-brand(href='../../') Devon Zuegel
 
       //- Collect the nav links, forms, and other content for toggling 
       #bs-example-navbar-collapse-1.collapse.navbar-collapse
@@ -29,7 +29,7 @@ body
             li(class=(document.url === p.url) ? 'active' : null)
               a(href=p.url)
                 | #{p.title}
-                
+
   #content!= content
 
   != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()
