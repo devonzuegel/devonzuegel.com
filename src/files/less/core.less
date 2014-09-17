@@ -10,44 +10,40 @@ body {
 	font-weight: 200;
 }
 
-.navbar {
-	background: white;
-	border: none;
-
-	.navbar-toggle {
-		border: none;
-		background: none !important;
-
-		&:hover {
-			border: none;
-			background-color: none !important;
-			color: #666;
-		}
-
-	}
-
-	.navbar-default .navbar-toggle:hover, 
-	.navbar-default .navbar-toggle:focus,
-	.navbar-default .navbar-toggle .icon-bar {
-		background-color: none !important;
-	}
-
-	.container-fluid {
-		max-width: @width-1 - 50px;
-		padding: 0 10px 5px 10px;
-
-		// @media (max-width: 758px) {
-			border-bottom: 1px solid #f3f3f3;
-		// }
-	}
-	
-}
-
-// compensates for sticky nav's height
-#nav-spacer {	height: 50px; }
-
 #content {
 	max-width: @width-1;
 	margin: auto;
-	padding: @padding-1;
+	padding: 40px @padding-1;
+}
+
+.circle {
+	height: 150px;
+	width: 150px;
+	.border-radius(150px);
+	overflow: hidden;
+
+	img {
+		max-height: 150px;
+	}
+}
+
+#content {
+	#main-content {
+		@media (min-width: 992px) {
+			padding-right: 25px;
+		}
+	}
+
+	#side-bar {
+		padding: 0px 25px;
+
+		@media (min-width: 992px) {
+			border-left: 1px solid #eee;
+		}
+
+		@media (max-width: 992px) {
+			margin-top: 30px;
+			border-top: 1px solid #eee;
+		}
+	}
 }

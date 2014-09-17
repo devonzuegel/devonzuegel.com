@@ -52,16 +52,24 @@ docpadConfig = {
 				'devonz@cs.stanford.edu'
 			]
 			
-			social: {
+			contact: {
 
 				github: {
-					username: 'devonzuegel'
+					title: 'Github'
+					address: 'github.com/devonzuegel'
 					url: '//github.com/devonzuegel'
 				}
 
 				twitter: {
-					username: 'DevonZuegel'
+					title: 'Twitter'
+					address: '@DevonZuegel'
 					url: '//twitter.com/devonzuegel'
+				}
+
+				email: {
+					title: 'Email'
+					address: 'devonz@cs.stanford.edu'
+					url: 'mailto:deovnz@cs.stanford.edu'
 				}
 
 				quora: { }

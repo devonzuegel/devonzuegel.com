@@ -9,17 +9,52 @@ nav {
 	
 	.navbar-brand {
 		text-transform: none;
-		color: darken(@yellow, 15%) !important;
+		font-family: 'Roboto Slab', serif;
+		font-weight: 300;
+		color: @yellow-dark !important;
 		border-top: 5px solid transparent;
 		font-size: 2em;
 
 		&:hover {
-			text-shadow: 0 0 0.2em lighten(@yellow, 18%);
-			color: darken(@yellow, 16%) !important;
+			text-shadow: 0 0 0.1em lighten(@yellow, 18%);
+			color: @yellow !important;
 		}
 	}
 
 }
+
+.navbar {
+	background: white;
+	border: none;
+
+	.navbar-toggle {
+		border: none;
+		background: none !important;
+
+		&:hover {
+			border: none;
+			background-color: none !important;
+			color: #666;
+		}
+
+	}
+
+	.navbar-default .navbar-toggle:hover, 
+	.navbar-default .navbar-toggle:focus,
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: none !important;
+	}
+
+	.container-fluid {
+		max-width: @width-1 - 50px;
+		padding: 0 10px 5px 10px;
+		border-bottom: 1px solid #e7e7e7;
+	}
+	
+}
+
+// compensates for sticky nav's height
+#nav-spacer {	height: 50px; }
 
 .navbar-default .navbar-nav {
 
@@ -27,6 +62,7 @@ nav {
 		.active > a {
 			color: #666;
 			border-top: 5px solid lighten(@yellow, 12%);
+			text-shadow: 0 0 0.05em lighten(black, 85%);
 
 			&:hover {
 				color: black;

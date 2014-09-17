@@ -30,6 +30,11 @@ body
               a(href=p.url)
                 | #{p.title}
 
-  #content!= content
+  #content
+    .col-md-8#main-content!= content
+    .col-md-4#side-bar
+      each s in site.contact
+        h4 #{s.title}
+        a(href=s.url) #{s.address}
 
   != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()

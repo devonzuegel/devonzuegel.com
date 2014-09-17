@@ -1,4 +1,11 @@
-@include font-face("DINComp", font-files("../fonts/DINComp-Light.ttf", "./../../fonts/DINComp.woff"));
+@import url('http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700');
+@import url('http://fonts.googleapis.com/css?family=Roboto:900,700,300italic,300');
+
+@font-face {
+    font-family: 'DINComp';
+    src: url('../fonts/DINWeb.woff') format('woff');
+}
+
 
 /* -----------
  * HEADINGS */
@@ -10,10 +17,19 @@ h1, h2, h3, h4, h5, .time {
 h1 {
 	font-size: 3em !important;
 	font-weight: 700;
+	margin-top: 0 !important;
 }
 
 h3 {
 	font-size: 1.4em !important;
+}
+
+h4 {
+	text-transform: uppercase;
+	margin-bottom: 2px !important;
+	margin-top: 25px !important;
+	font-weight: 600;
+	color: @yellow-dark !important;
 }
 
 .time {
@@ -29,7 +45,7 @@ h3 {
  * BODY & PARAGRAPHS */
  
 body {
-	font: 14px "Helvetica Neue", sans-serif;
+	font: 14px "Roboto", sans-serif;
 	font-weight: "thin";
 }
 
@@ -38,7 +54,7 @@ a {
 	padding-bottom: 1px;
 
 	&:hover {
-		color: darken(@blue, 20%);
+		color: darken(@blue, 10%);
 	}
 }
 
