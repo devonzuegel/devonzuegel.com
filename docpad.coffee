@@ -1,6 +1,9 @@
+resume =  require('./src/files/json/resume.json')
+
 # The DocPad Configuration File
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
+
 
 	# =================================
 	# Template Data
@@ -11,6 +14,8 @@ docpadConfig = {
 
 		# Specify some site properties
 		site:
+			resume: resume
+
 			# The production url of our website
 			url: "http://devon.zuegel.us"
 
@@ -77,8 +82,7 @@ docpadConfig = {
 			}
 
 
-
-
+		
 		# -----------------------------
 		# Helper Functions
 
