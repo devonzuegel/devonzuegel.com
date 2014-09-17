@@ -12,9 +12,10 @@ docpadConfig = {
 
 	templateData:
 
+		resume: resume
+
 		# Specify some site properties
 		site:
-			resume: resume
 
 			# The production url of our website
 			url: "http://devon.zuegel.us"
@@ -50,37 +51,6 @@ docpadConfig = {
 				'//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.js'
 				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'
 			]
-
-			# Contact info
-			email: [
-				'devonzuegel@gmail.com'
-				'devonz@cs.stanford.edu'
-			]
-			
-			contact: {
-
-				github: {
-					title: 'Github'
-					address: 'github.com/devonzuegel'
-					url: '//github.com/devonzuegel'
-				}
-
-				twitter: {
-					title: 'Twitter'
-					address: '@DevonZuegel'
-					url: '//twitter.com/devonzuegel'
-				}
-
-				email: {
-					title: 'Email'
-					address: 'devonz@cs.stanford.edu'
-					url: 'mailto:deovnz@cs.stanford.edu'
-				}
-
-				quora: { }
-
-			}
-
 
 		
 		# -----------------------------
