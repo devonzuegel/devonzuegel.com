@@ -10,24 +10,26 @@ body {
 	font-weight: 200;
 }
 
-#content {
-	max-width: @width-1;
-	margin: auto;
-	padding: 40px @padding-1;
-}
-
 .circle {
 	height: 150px;
 	width: 150px;
 	.border-radius(150px);
 	overflow: hidden;
+	padding: 0 !important;
+	margin: auto !important;
 
 	img {
 		max-height: 150px;
+		padding: 0 !important;
+		margin: 0 !important;
 	}
 }
 
 #content {
+	max-width: @width-1;
+	margin: auto;
+	padding: 40px @padding-1;
+
 	#main-content {
 		@media (min-width: 992px) {
 			padding-right: 25px;
@@ -35,15 +37,33 @@ body {
 	}
 
 	#side-bar {
-		padding: 0px 25px;
+		padding: 25px 0 25px 40px;
+		margin: auto !important;
 
 		@media (min-width: 992px) {
 			border-left: 1px solid #eee;
+
+			.circle {
+				margin: -10px auto 25px auto !important;
+			}
+
+			.contact-info {
+				margin: auto;
+			}
 		}
 
 		@media (max-width: 992px) {
 			margin-top: 30px;
 			border-top: 1px solid #eee;
+
+			.circle {
+				float: left;
+				margin: 25px 25px 0 0 !important;
+			}
+
+			.contact-info {
+				float: left;
+			}
 		}
 	}
 }

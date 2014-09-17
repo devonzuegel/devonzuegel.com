@@ -31,10 +31,14 @@ body
                 | #{p.title}
 
   #content
-    .col-md-8#main-content!= content
-    .col-md-4#side-bar
-      each s in site.contact
-        h4 #{s.title}
-        a(href=s.url) #{s.address}
+    .col-md-9: #main-content!= content
+    .col-md-3: #side-bar
+
+      .circle
+        img(src='https://scontent-a-pao.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10624925_10152355110703443_8470920206731569812_n.jpg?oh=b07b63c7d77ff1ae92838e9abcbf3d60&oe=549B0314')
+      .contact-info
+        each s in site.contact
+          h4 #{s.title}
+          a(href=s.url) #{s.address}
 
   != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()
