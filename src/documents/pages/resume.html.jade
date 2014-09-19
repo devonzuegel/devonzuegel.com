@@ -18,7 +18,9 @@ p
 			h3 #{e.title[0]} 
 				a.light(href=e.website) #{e.employer}
 			.time #{e.dates.start} - #{e.dates.end}
-			
+			ul
+				each bp in e.bullet_pts
+					li.smaller #{bp}	
 
 	.col-xs-4
 		h2 Skills

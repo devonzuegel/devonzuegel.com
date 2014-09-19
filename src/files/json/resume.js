@@ -264,7 +264,9 @@ module.exports = {
 				"end": "September 2014",
 			},
 			"website": "www.formation8.com",
-			"bullet_pts": [],
+			"bullet_pts": [
+				"Designed & built an app in Node.js with profiles for each portfolio company. It facilitates requests & updates between the companies & Formation 8 & acts as a repository for financial documents."
+			],
 
 		}, {
 			
@@ -290,7 +292,7 @@ module.exports = {
 		}, {
 			
 			"title": ["Section Leader"],
-			"employer": "Computer Science Dept, Stanford University",
+			"employer": "Stanford Computer Science Dept.",
 			"dates": {
 				"start": "January 2014",
 				"end": "present",
