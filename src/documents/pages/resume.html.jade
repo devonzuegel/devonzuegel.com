@@ -15,8 +15,10 @@ p
 	.col-xs-8
 		h2 Employment Experience
 		each e in employment_exp
-			h3 #{e.title[0]}
+			h3 #{e.title[0]} 
+				a.light(href=e.website) #{e.employer}
 			.time #{e.dates.start} - #{e.dates.end}
+			
 
 	.col-xs-4
 		h2 Skills

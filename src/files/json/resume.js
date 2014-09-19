@@ -290,7 +290,7 @@ module.exports = {
 		}, {
 			
 			"title": ["Section Leader"],
-			"employer": "Computer Science Department, Stanford University",
+			"employer": "Computer Science Dept, Stanford University",
 			"dates": {
 				"start": "January 2014",
 				"end": "present",
