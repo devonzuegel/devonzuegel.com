@@ -40,7 +40,6 @@ module.exports = {
 			"track": "Network Engineering & Analysis",
 		},
 		"minor": {
-			"degree": "B.S.",
 			"dept": "Economics",
 		}
 	},
@@ -161,73 +160,67 @@ module.exports = {
 
 
 	"skills": {
-		"programming languages": [
+		"programming_languages": [
 			// comfort is 0-5, 5 being most comfortable
 			{
 				"name": "Ruby",
 				"months_exp": 5,
 				"comfort": 3,
+				"include": false,
 			}, {
-				"name": "HTML / Jade",
+				"name": "Jade, Haml, Slim",
 				"months_exp": 5,				
 				"comfort": 5,
+				"include": true,
 			}, {
 				"name": "C",
 				"months_exp": 6,
 				"comfort": 3,
+				"include": true,
 			}, {
 				"name": "C++",
 				"months_exp": 5,
 				"comfort": 3,
+				"include": true,
 			}, {
 				"name": "Java",
 				"months_exp": 5,
 				"comfort": 3,
+				"include": false,
 			},
 		],
 
-		"web frameworks": [
+		"web_frameworks": [
 			{
 				"name": "Node.js",
 				"months_exp": 6,
 				"comfort": 5,
+				"include": true,
 			}, {
 				"name": "Ruby on Rails",
 				"months_exp": 6,
 				"comfort": 4,
+				"include": true,
 			},
-		],
-
-		"languages": [
-			{
-
-				"name": "English",
-				"level": "native",
-
-			}, {
-
-				"name": "Spanish",
-				"level": "working",
-
-			}, {
-
-
-				"name": "German",
-				"level": "Intermediate",
-
-			}
 		],
 
 		"adobe": [
 			{
 				"name": "Photoshop",
 				"months_exp": 48,
+				"include": false,
 			}, {
 				"name": "Illustrator",
 				"months_exp": 48,
+				"include": false,
 			}, {
 				"name": "InDesign", 
 				"months_exp": 8,
+				"include": false,
+			}, {
+				"name": "Adobe Creative Suite", 
+				"months_exp": 48,
+				"include": true,
 			}
 		],
 
@@ -235,9 +228,31 @@ module.exports = {
 			{
 				"name": "Wordpress",
 				"months_exp": 16,
+				"include": false,
 			}
 		]
 	},
+
+	"languages": [
+		{
+
+			"name": "English",
+			"level": "native",
+
+		}, {
+
+			"name": "Spanish",
+			"level": "working",
+
+		}, {
+
+
+			"name": "German",
+			"level": "Intermediate",
+
+		}
+	],
+
 
 	"employment_exp": [
 		{

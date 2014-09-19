@@ -5,4 +5,29 @@ collection: pages
 ---
 
 h1 #{document.title}
-p This page is under construction. Sorry!
+
+p 
+	| #{general.school} #{general.class_yr} // 
+	| #{general.major.degree} in #{general.major.dept}, Minor in #{general.minor.dept} // 
+	| #{general.gpa} GPA
+
+.row
+	.col-xs-8
+		h2 Employment Experience
+		each e in employment_exp
+			h3 #{e.title[0]}
+			.time #{e.dates.start} - #{e.dates.end}
+
+	.col-xs-4
+		h2 Skills
+		ul
+			each category in skills
+				each skill in category
+					if skill.include === true
+						li.no_bullet #{skill.name}
+
+		h2 Languages
+		ul
+			each lang in languages
+				li.no_bullet #{lang.name}
+					span.level #{lang.level}

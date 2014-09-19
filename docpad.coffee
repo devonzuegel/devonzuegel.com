@@ -4,7 +4,6 @@ resume =  require('./src/files/json/resume.js')
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
 
-
 	# =================================
 	# Template Data
 	# These are variables that will be accessible via our templates
@@ -13,6 +12,14 @@ docpadConfig = {
 	templateData:
 
 		resume: resume
+		contact: resume.contact
+		general: resume.general
+		courses: resume.courses
+		skills: resume.skills
+		languages: resume.languages
+		employment_exp: resume.employment_exp
+		projects: resume.projects
+		hobbies: resume.hobbies
 
 		# Specify some site properties
 		site:
