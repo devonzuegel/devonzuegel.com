@@ -21,20 +21,21 @@ p
   .col-sm-8
     h2 Employment Experience
     each e, i in employment_exp
-      h3 #{e.title[0]} 
-        a.light(href=e.website) #{e.employer}
+      h3 #{e.employer} 
+        a.light(href=e.website) #{e.title[0]}
       .time #{e.dates.start} - #{e.dates.end}
       ul
         each bp in e.bullet_pts
           li.smaller #{bp}
 
-    h2 Projects
+    h2 Open Source Projects
     each p in projects
-      h3: a(href=p.website) #{p.name}
-      .time #{p.dates.start} - #{p.dates.end}
-      ul
-        each bp in p.bullet_pts
-          li.smaller #{bp}
+      if p.include
+        h3: a(href=p.website) #{p.name}
+        .time #{p.dates.start} - #{p.dates.end}
+        ul
+          each bp in p.bullet_pts
+            li.smaller #{bp}
 
   .col-sm-4
     h2 Skills
@@ -54,3 +55,6 @@ p
     ul
       each h in hobbies
         li.no_bullet #{h}
+
+
+
