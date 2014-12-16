@@ -12,7 +12,7 @@ a(href='../../assets/Devon_Zuegel--Resume.pages.pdf').pull-right
 
 h1 #{document.title}
 
-p 
+p.smaller
   | #{general.school} #{general.class_yr} // 
   | #{general.major.degree} in #{general.major.dept}, Minor in #{general.minor.dept} // 
   | #{general.gpa} GPA
@@ -21,9 +21,11 @@ p
   .col-sm-8
     h2 Employment Experience
     each e, i in employment_exp
-      h3 #{e.employer} 
+      h3.block 
+        .block #{e.employer} 
         a.light(href=e.website) #{e.title[0]}
-      .time #{e.dates.start} - #{e.dates.end}
+      .block.time #{e.dates.start} - #{e.dates.end}
+      .space
       ul
         each bp in e.bullet_pts
           li.smaller #{bp}
@@ -32,7 +34,8 @@ p
     each p in projects
       if p.include
         h3: a(href=p.website) #{p.name}
-        .time #{p.dates.start} - #{p.dates.end}
+        .block.time #{p.dates.start} - #{p.dates.end}
+        .space
         ul
           each bp in p.bullet_pts
             li.smaller #{bp}

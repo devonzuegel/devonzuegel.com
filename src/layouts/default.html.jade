@@ -43,7 +43,7 @@ body
             a(href=c.url) #{c.address}
 
       .row.headlines
-        h3 Featured
+        h5 Featured
         ul: each p in getCollection('posts').toJSON()
           if (p.highlight)
             .headline: a(href=p.url).title #{p.title}

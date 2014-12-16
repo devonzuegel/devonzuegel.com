@@ -45,9 +45,11 @@ Upon closer inspection, however, the data <a href="http://blogs.wsj.com/moneybea
 
 Imposing artificial requirements is clearly not the answer for making substantial strides towards gender parity let alone expanding the labor pool. However, this is yet another reason why conservatives ought to develop and suggest their own solutions rather simply than sitting on the sidelines and criticizing existing strategies.
 
+<img class="alignright" src="http://www.smbc-comics.com/comics/20100516.gif" alt="Graphic by SMBC Comics" width="300" />
+
 <b>Then what should we do?</b>
 
-<i><img class="alignright" src="http://www.smbc-comics.com/comics/20100516.gif" alt="Graphic by SMBC Comics" width="300" />Exposure at a Young Age</i>
+<i>Exposure at a Young Age</i>
 
 Most girls have little exposure to designing, building, and wrecking things, and childhood explorations are extremely formative in determining the scope of children’s future interests. In turn, young women lacking familiarity with these aspects of engineering are unlikely to pursue it as a degree or career. Developing interest in STEM begins at a young age, and the first step is giving young girls more opportunities to explore and create things.
 
