@@ -5,7 +5,7 @@ author: 'Devon Zuegel, Joe Lonsdale'
 tags: ['women', 'technology']
 collection: posts
 date: 'Oct 18 2014'
-img: '//www.trbimg.com/img-53814c23/turbine/la-me-ln-isla-vista-shooting-suspect-vowed-war-on-women-sorority-20140524'
+img: '//stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png'
 highlight: true
 ---
 
