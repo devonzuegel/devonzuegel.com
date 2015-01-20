@@ -31,7 +31,10 @@ body
                 | #{p.title}
 
   #content
-    .col-md-9: #main-content!= content
+    .col-md-9
+      #main-content!= content
+      br
+        
     .col-md-3: #side-bar
 
       .row.contact
