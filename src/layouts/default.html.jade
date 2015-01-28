@@ -1,6 +1,6 @@
 include ../documents/views/includes/head
 
-body
+body#wrapper
   //if lt IE 7
     p.browsehappy
       |You are using an 
@@ -65,4 +65,8 @@ body
       //-   //- Pie ranch
       //-   img(src='https://scontent-2.2914.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/1544982_10203633710345232_1526605301374113992_n.jpg?oh=dac3222ccecc9a91119ca2f6a9476a6f&oe=556BC567')
       
+  #footer.col-lg-12
+    h4 Last modified on #{getLastModifiedDate()}
+
+
   != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()

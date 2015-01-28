@@ -1,4 +1,5 @@
 resume =  require('./src/files/json/resume.js')
+moment = require('moment')
 
 # The DocPad Configuration File
 # It is simply a CoffeeScript Object which is parsed by CSON
@@ -83,6 +84,8 @@ docpadConfig = {
 		getPreparedKeywords: ->
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
+
+		getLastModifiedDate: -> return moment(@site.date).format('LLLL')
 
   # ===========
   # Collections
