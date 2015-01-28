@@ -85,7 +85,7 @@ docpadConfig = {
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
 
-		getLastModifiedDate: -> return moment(@site.date).format('LLLL')
+		getLastModifiedDate: -> return moment(@document.date).format('LLLL')
 
   # ===========
   # Collections
