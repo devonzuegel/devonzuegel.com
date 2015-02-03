@@ -42,22 +42,23 @@ docpadConfig = {
 
 			# The website's styles
 			styles: [
-				# '../css/vendor/bootstrap/bootstrap-theme.css'
-				# '../css/vendor/bootstrap/bootstrap.css'
 				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.css'
 				'../css/style.css'
 				'../css/vendor/normalize.css'
+				'../css/vendor/highlightjs/zenburn.css'
 				'../css/vendor/main.css'
 				'//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'
+				# '../css/vendor/bootstrap/bootstrap-theme.css'
+				# '../css/vendor/bootstrap/bootstrap.css'
 			]
 
 			# The website's scripts
 			scripts: [
 				'//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'
-				# '../js/plugins.js'
-				# '../js/main.js'
 				'//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.js'
 				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'
+				# '../js/plugins.js'
+				# '../js/main.js'
 			]
 
 		
@@ -97,7 +98,7 @@ docpadConfig = {
 
 	    pages: (database) ->
 	      database.findAllLive({collection: 'pages'}, [pageOrder:1,title:1]).on "add", (model) ->
-	      	model.setMetaDefaults({layout:"page"})
+	      	model.setMetaDefaults({layout:'page'})
 
 
 	# =================================

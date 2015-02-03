@@ -9,6 +9,7 @@
   "dependencies": {
     "docpad": "~6.53.0",
     "docpad-plugin-ghpages": "^2.4.3",
+    "docpad-plugin-highlightjs": "^2.3.0",
     "docpad-plugin-jade": "~2.6.0",
     "docpad-plugin-less": "~2.2.0",
     "docpad-plugin-livereload": "^2.6.0",
