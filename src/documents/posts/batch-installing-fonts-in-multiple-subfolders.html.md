@@ -13,9 +13,9 @@ The sad hangover to my embarrassingly frequent font binges is actually installin
 
 Luckily, it's easy to install all fonts within the subfolders of a directory from the command line with the following steps:
 
-1. First, **locate the parent directory** of all of the font files you wish to install. In my case, the directory is `~/Downloads/fonts-to-install
+1. First, **locate the parent directory** of all of the font files you wish to install. In my case, the directory is `~/Downloads/fonts-to-install`.
 
-2. Next, **open your terminal** and **enter the following command** to install the fonts directly into Font Book. If you are dealing with `.otf` s or some other file type, replace `*.ttf` with `*.otf`.
+2. Next, **open your terminal** and **enter the following command** to install the fonts directly into Font Book. If you are dealing with `.otf` s or some other file type, replace `"*.ttf"` with `"*.otf"`.
 
 ``` bash
 find ~/Downloads/fonts-to-install\ Fonts/ -name "*.ttf" -exec cp -iv {} /Library/Fonts \;
