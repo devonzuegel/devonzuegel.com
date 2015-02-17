@@ -3,23 +3,27 @@ title: Why I am no longer a Libertarian
 author: 'Devon Zuegel'
 tags: ['libertarian', 'politics']
 collection: posts
-date: 'February 5 2015'
+date: 'February 15 2015'
 img: 'http://i.imgur.com/daE3UgZ.jpg'
 ---
 
 I no longer identify as "libertarian". I still believe that drug use and consensual prostitution ought to be legal, that expanded gun ownership for self defense would make our country safer, and that many forms of regulation stifle innovation.
 
-However, opportunities to have those views challenged or expanded are immediately squashed as soon as I use the phrase "As a libertarian..." to preface my thoughts. Once you define yourself with a particular label, your counterpart assumes he knows everything you're going to say, and his ears shut down.
+However, opportunities to have those views challenged or expanded are immediately squashed as soon as I use the phrase "As a libertarian..." to preface my thoughts. Once you define yourself with a particular label, your counterpart assumes he knows everything you're going to say, and his ears shut down. <img src='http://i.imgur.com/M2Rqh8u.png' style='margin:15px; float:right; max-width:60%'>
 
 The stock arguments for libertarians, Christian fundamentalists, climate change activists, and Republican party members are all well known, and we stop listening as soon as we know which vague group someone falls into. It's easier to neatly categorize their worldview into those stock arguments and write it off rather than take each part at face value and consider the sum of the parts in place of a simplistic monolith. Discussions of this sort rapidly devolve into a numbers game, where the metric of success is who has more arguments and credibility rather than whether or not you actually learn anything.
 
-Political signaling raises another, more concerning issue that's even more destructive than limiting others' perception of your worldview. I find that self-identifying with a particular collective label limits my intellectual development directly, separate from the benefits of discussion with others.
+Political signaling raises another issue that's even more destructive than limiting others' perception of your worldview. Self-identifying with a particular collective label puts structural limits my intellectual development, leaving only a little bit of space on either side of my ideology in which to grow. [Eliezer Yudkowsky's metaphor](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/) depicts this issue perfectly:
 
-I understand the urge to identify with understood labels. It's a way to signal that you're part of an in-group. In particular, for controversial ideologies like libertarianism, objectivism, or extreme forms of utilitarianism, it's a way to signal that you're interesting, well-read, and unconventional. These labels are a key tool in building and projecting a personal brand, but they come at the cost of actually learning anything.
+> *Politics is an extension of war by other means.  Arguments are soldiers.  Once you know which side you're on, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side; otherwise it's like stabbing your soldiers in the back—providing aid and comfort to the enemy.  People who would be level-headed about evenhandedly weighing all sides of an issue in their professional life as scientists, can suddenly turn into slogan-chanting zombies when there's a Blue or Green position on an issue.*
+
+There have been an embarrassing number of occasions in which I supported a belief simply because I felt like that's what a "real" Libertarian would say. Once you've labeled yourself with some -ism or another, you experience major [cognitive dissonance](http://www.simplypsychology.org/cognitive-dissonance.html) from disagreeing with one of your tribe's stock arguments. Over time, this forms into a habit to trawl for excuses that support those arguments or worse ignore the issue all together.
+
+This strong urge to identify with widely-understood labels is understandable. It's a way to be part of an in-group, and it makes you feel like you're a part of "something bigger". In particular, controversial ideologies like libertarianism, objectivism, or extreme forms of utilitarianism are a tool to signal that you're interesting, well-read, and unconventional. These labels are a key tool in building and projecting a personal brand, but they come at the high cost of actually learning anything. Identifying with a simplistic, essentially tribal ideology is one of the fastest ways to end a conversation and your own personal growth.
 
 
 
-<img src='http://i.imgur.com/M2Rqh8u.png' style='margin:15px; float:right; max-width:60%'>
+
 
 The conversation is done as soon as you know what the other person labels himself as, stock argument, stifles debate... also boxing yourself in, you have to defend "your ", you're not going to kill your soldiers
 
