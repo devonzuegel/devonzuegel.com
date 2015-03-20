@@ -1,11 +1,11 @@
 ---
-title: Workflow optimizations & customizations
+title: "Workflow optimizations &amp; customizations"
 author: "Devon Zuegel"
 tags: []
 highlight: true
 collection: posts
 date: "March 20 2015"
-img: https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205b832ad25180f7.jpg
+img: "https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205b832ad25180f7.jpg"
 ---
 
 :markdown
@@ -18,16 +18,7 @@ img: https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205
   I've written several posts about my programming and writing workflow through terminal customizations, Sublime preferences, syntax-specific settings, and so on, including:
 
 each p in getCollection('posts').findAll({workflow: true}).toJSON()
-    .headline
-      if p.img
-        .circle.small.pull-left
-          a(href=p.url): img(src=p.img)
-        .title.pull-left
-          h3: a(href=p.url) #{p.title}
-          .time #{moment(p.date).format('LL')}
-      else
-        h3: a(href=p.url) #{p.title}
-        .time #{moment(p.date).format('LL')}
+  include ../../partials/_headline
 
 :markdown
   ## Misc ##
