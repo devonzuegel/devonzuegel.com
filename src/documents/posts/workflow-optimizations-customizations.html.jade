@@ -1,0 +1,59 @@
+---
+title: Workflow optimizations & customizations
+author: "Devon Zuegel"
+tags: []
+highlight: true
+collection: posts
+date: "March 20 2015"
+img: https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205b832ad25180f7.jpg
+---
+
+:markdown
+  ![](https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205b832ad25180f7.jpg)
+
+  I'm a huge sucker for workflow customization and optimization. I like to tell myself that I'm saving myself time and headaches in the long run, but the reality is I spend more time optimizing my work flow than I actually end up saving from it. But it's fun, and it's even more fun to share my customizations with other people!
+
+  ## Posts ##
+
+  I've written several posts about my programming and writing workflow through terminal customizations, Sublime preferences, syntax-specific settings, and so on, including:
+
+each p in getCollection('posts').findAll({workflow: true}).toJSON()
+    .headline
+      if p.img
+        .circle.small.pull-left
+          a(href=p.url): img(src=p.img)
+        .title.pull-left
+          h3: a(href=p.url) #{p.title}
+          .time #{moment(p.date).format('LL')}
+      else
+        h3: a(href=p.url) #{p.title}
+        .time #{moment(p.date).format('LL')}
+
+:markdown
+  ## Misc ##
+
+  * Batch converting `.erb` files to `.slim` (requires erb2slim and html2slim gems) by recursing through all sub-directories:
+
+  ```shell
+  $ for f in **/*.erb; do erb2slim $f ${f/\.erb/.slim}; done
+  $ rm **/*/erb
+  ```
+
+  ## Other Tools I recommend ##
+
+  * [Emmet.io](http://docs.emmet.io/) is a toolkit that allows you to expand css-like abbreviations to markup. For example, when you press `TAB` it dynamically parses this...:
+
+      ```sass
+      ul#nav>li.items$*4>a{Item $}
+      ```
+
+      ... to the following:
+
+      ```html
+      <ul id="nav">
+          <li class="items1"><a href="">Item 1</a></li>
+          <li class="items2"><a href="">Item 2</a></li>
+          <li class="items3"><a href="">Item 3</a></li>
+          <li class="items4"><a href="">Item 4</a></li>
+      </ul>
+      ``` 

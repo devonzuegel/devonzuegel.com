@@ -33,6 +33,9 @@ The Review expands the scope of dialogue to those perspectives and discussions t
 
 The Stanford Review is expanding Stanford’s narrow political spectrum and its sparse marketplace of ideas, and I am honored to be a part of this organization. Our close community is united not by a political ideology but rather by the notion that no tradition is too sacrosanct to be scrutinized. We are the ones who challenge the status quo. We are the new campus radicals.
 
+
 Sincerely,
+
 Devon Kristine Zuegel
+
 *Editor-in-Chief of The Stanford Review, Volume LII*

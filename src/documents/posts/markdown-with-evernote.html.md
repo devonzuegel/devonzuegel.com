@@ -5,6 +5,7 @@ tags: ["mac", "markdown", "evernote"]
 collection: posts
 date: February 23 2015
 img: http://i1.wp.com/www.wptavern.com/wp-content/uploads/2013/11/m.gif
+workflow: true
 ---
 
 This is a test!
