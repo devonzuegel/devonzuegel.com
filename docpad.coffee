@@ -45,7 +45,7 @@ docpadConfig = {
 				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.css'
 				'../css/style.css'
 				'../css/vendor/normalize.css'
-				'../css/vendor/highlightjs/zenburn.css'
+				'../css/vendor/highlightjs/hybrid.css'
 				'../css/vendor/main.css'
 				'//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'
 				# '../css/vendor/bootstrap/bootstrap-theme.css'
@@ -135,6 +135,7 @@ docpadConfig = {
       deployRemote: 'pages'
 
   regenerateDelay: 0    # default
+	watchOptions: preferredMethods: ['watchFile','watch']
 
 }
 

@@ -1,11 +1,11 @@
 ---
 title: Consistency is Key: A Letter to the Stanford GSC
-orig_url: '//stanfordreview.org/article/consistency-is-key-a-letter-to-the-stanford-gsc'
-tags: ['justice', 'stanford']
-author: 'Devon Zuegel'
+orig_url: "//stanfordreview.org/article/consistency-is-key-a-letter-to-the-stanford-gsc"
+tags: ["justice", "stanford"]
+author: "Devon Zuegel"
 collection: posts
-date: 'April 20 2014'
-img: '//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA'
+date: "April 20 2014"
+img: "//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA"
 ---
 
 ![](//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA)

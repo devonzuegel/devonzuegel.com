@@ -1,18 +1,18 @@
 ---
 title: An Interview with Dr. Bhattacharya
-orig_url: '//stanfordreview.org/article/an-interview-with-dr-bhattacharya/'
-author: 'Devon Zuegel'
-tags: ['healthcare', 'obamacare', 'aca']
+orig_url: "//stanfordreview.org/article/an-interview-with-dr-bhattacharya/"
+author: "Devon Zuegel"
+tags: ["healthcare", "obamacare", "aca"]
 collection: posts
-date: 'December 6 2013'
-img: '//iis-db.stanford.edu/news/3405/3405-small_jay_square..jpg'
+date: "December 6 2013"
+img: "//iis-db.stanford.edu/news/3405/3405-small_jay_square..jpg"
 ---
 
 ![](//stanfordreview.org/wp-content/uploads/battacharya.png)
 
-*Jay Bhattacharya is an associate professor of Medicine at Stanford and, by courtesy, of Economics. He has been studying the healthcare market for 20 years. He received a BA in economics, an MD and a PhD from Stanford University, where he has taught since 2001.*
+*Jay Bhattacharya is an associate professor of Medicine at Stanford and, by courtesy, of Economics. He has been studying the healthcare market for 20 years. He received a BA in economics, an MD and a PhD from Stanford University, where he has taught since 2001.* 
 
-### What is the basic structure of the Affordable Care Act (ACA)?
+### What is the basic structure of the Affordable Care Act (ACA)? ###
 
 The big context is that there are about 15 to 16 million uninsured people in the US. People view it as a problem, because there’s a lot of financial risk associated with being uninsured, so the ACA aims to expand insurance coverage in two ways. The first is that all people under 138% of the federal poverty line now immediately qualify for Medicaid, while before there were other tests that had to be met. The Congressional Budget Office has said that it’ll cover about 13 million people. The second biggest mechanism is probably these insurance exchanges, which are essentially marketplaces where insurance companies can offer health insurance plans that are regulated by the government.
 
@@ -66,7 +66,7 @@ But there's also a second, very important economic reason that has gone too unno
 
 But the more common thing that's likely to happen is that a lot of employers will just drop coverage and pay the penalty, and it'll actually be better for the workers, too, especially if they are low-income. If their employer drops insurance, they can then raise wages, and the workers will still qualify for federal subsidies on the exchange. It's a win-win for workers and employers. I've done a published calculation (content.healthaffairs.org/content/32/9/1531.abstract) where I found that for 37 million employees who currently get insurance, it's financially beneficial for their employer to drop coverage for them. It's also financially beneficial for the worker. But there's no such thing as a free lunch-- we say that it's good for the employers, it's good for the employees, but it’s bad for taxpayers. The estimates of the costs of the law are way lower than what they ultimately will be, because they don't sufficiently account for the economic benefit to workers and employers of dropping coverage, especially for employees.
 
-### What are the economic effects of requiring insurance packages to include certain provisions and coverage, for example birth control?
+### What are the economic effects of requiring insurance packages to include certain provisions and coverage, for example birth control? ###
 
 In general, it raises the premiums-- the more things that are covered, the more that you have to charge to be able to pay the costs. If you're not paying it in the copay, then you're paying it in the premium. Nothing is free.
 

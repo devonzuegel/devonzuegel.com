@@ -1,11 +1,11 @@
 ---
 title: Building An Engineering Culture
-orig_url: '//formation8.com/resources/building-an-engineering-culture/'
-author: 'Chris Kelley, Devon Zuegel, & Joe Lonsdale'
-tags: ['intro','post', 'healthcare', 'obamacare', 'aca', 'millenials']
+orig_url: "//formation8.com/resources/building-an-engineering-culture/"
+author: "Chris Kelley, Devon Zuegel, & Joe Lonsdale"
+tags: ["intro","post", "healthcare", "obamacare", "aca", "millenials"]
 collection: posts
-date: 'September 2014'
-img: '//50.87.144.142/~feight/wp-content/uploads/2014/09/network.jpg'
+date: "September 2014"
+img: "//50.87.144.142/~feight/wp-content/uploads/2014/09/network.jpg"
 ---
 
 > “Excellence is an art won by training and habituation: we do not act rightly because we have virtue or excellence, but rather have these because we have acted rightly.”

@@ -1,11 +1,11 @@
 ---
 title: Is the U.S. Tax Code Fair?
-orig_url: '//stanfordreview.org/article/is-the-u-s-tax-code-fair/'
-author: 'Devon Zuegel'
-tags: ['taxes', 'tax day', 'fair tax']
+orig_url: "//stanfordreview.org/article/is-the-u-s-tax-code-fair/"
+author: "Devon Zuegel"
+tags: ["taxes", "tax day", "fair tax"]
 collection: posts
-date: 'February 18 2013'
-img: '//stanfordreview.org/wp-content/uploads/Screen-Shot-2013-02-19-at-11.19.11-AM-300x164.png'
+date: "February 18 2013"
+img: "//stanfordreview.org/wp-content/uploads/Screen-Shot-2013-02-19-at-11.19.11-AM-300x164.png"
 ---
 
 “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius to move in the opposite direction.”

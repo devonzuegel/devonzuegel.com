@@ -7,9 +7,11 @@ date: 'February 15 2015'
 img: 'http://i.imgur.com/daE3UgZ.jpg'
 ---
 
+# Why I am no longer a Libertarian
+
 I no longer identify as a libertarian. Sure, I still believe that drug use and consensual prostitution ought to be legal, that expanded gun ownership for self defense would make our country safer, and that many forms of regulation stifle innovation.
 
-However, I immediately squash any opportunity to have those views challenged or expanded as soon as I use the phrase "As a libertarian..." to preface my thoughts. Once you define yourself with a particular label, your counterpart assumes he knows everything you're going to say, and his ears shut down. <img src='http://i.imgur.com/M2Rqh8u.png' style='margin:15px; float:right; max-width:60%'>
+However, I've realized recently that I immediately squash any opportunity to have those views challenged or expanded as soon as I use the phrase "As a libertarian..." to preface my thoughts. Once you define yourself with a particular label, your counterpart assumes he knows everything you're going to say, and his ears shut down. <img src='http://i.imgur.com/M2Rqh8u.png' style='margin:15px; float:right; max-width:60%'/>
 
 The stock arguments for libertarians, Christian fundamentalists, climate change activists, and Republican party members are all well known, and we stop listening as soon as we know which vague group someone falls into. It's easier to neatly categorize their worldview into those stock arguments and write it off rather than take each part at face value. Discussions of this sort rapidly devolve into a numbers game, where the metric of success is who has more arguments rather than whether or not you actually learn anything.
 

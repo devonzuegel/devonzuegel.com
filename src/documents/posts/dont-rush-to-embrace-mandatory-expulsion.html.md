@@ -1,11 +1,11 @@
 ---
 title: Don’t Rush to Embrace Mandatory Expulsion Until All Rights Protected
-orig_url: '//stanfordreview.org/article/dont-rush-to-embrace-mandatory-expulsion/'
-author: 'Brandon Camhi & Devon Zuegel'
-tags: ['stanford', 'rape', 'arp', 'sexual assault', 'policy', 'justice']
+orig_url: "//stanfordreview.org/article/dont-rush-to-embrace-mandatory-expulsion/"
+author: "Brandon Camhi & Devon Zuegel"
+tags: ["stanford", "rape", "arp", "sexual assault", "policy", "justice"]
 collection: posts
-date: 'June 5 2014'
-img: '//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg'
+date: "June 5 2014"
+img: "//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg"
 ---
 
 ![](//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg)

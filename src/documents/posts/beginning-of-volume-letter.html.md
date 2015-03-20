@@ -1,11 +1,11 @@
 ---
-title: 'Beginning of Volume Letter'
-orig_url: '//stanfordreview.org/article/beginning-of-volume-letter/'
-author: 'Devon Zuegel'
-tags: ['article','post', 'beginning of volume', 'stanford review']
+title: "Beginning of Volume Letter"
+orig_url: "//stanfordreview.org/article/beginning-of-volume-letter/"
+author: "Devon Zuegel"
+tags: ["article","post", "beginning of volume", "stanford review"]
 collection: posts
-date: 'February 24 2014'
-img: '//stanfordreview.org/wp-content/uploads/political_square.png'
+date: "February 24 2014"
+img: "//stanfordreview.org/wp-content/uploads/political_square.png"
 ---
 
 Our generation has come to age alongside movements to legalize gay marriage and marijuana, frustration over Congress’s inability to cooperate, a housing crisis turned recession, and revelations about the NSA’s disregard for individual privacy. More and more young people are taking on massive debt to get a degree; meanwhile the unemployment rate among recent college graduates is the highest it’s been in decades. We’ve had to watch friends and family lose their jobs and have their homes foreclosed. We can no longer count on institutions that earlier generations relied on as constants.

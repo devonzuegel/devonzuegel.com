@@ -15,6 +15,13 @@ This is where I collect some of the ideas, historical facts, anecdotes, etc. tha
 
 [**Cybernetics**](http://en.wikipedia.org/wiki/Cybernetics) is the study of the structures, constraints, and possiblities of regulatory systems. It abstracts concepts such as learning, adaptation, emergence, and communication from their mechanical / physical / biological / cognitive / social contexts and studies the influence of feedback loops and circular causal relationships.
 
+#### Artificial Genocide
+[Atlantic article](http://www.theatlantic.com/magazine/archive/2002/04/seeing-around-corners/302471/)
+
+![](http://cdn.theatlantic.com/static/coma/images/issues/200204/figure5-vs.gif)
+
+- If societies can order themselves systematically but unconsciously, it stands to reason that they can also disorder themselves systematically but unconsciously
+
 #### Project Cybersyn <div class='time pull-right'>15 Feb 2015</div>
 <img src='http://www.redpepper.org.uk/wp-content/uploads/cybersyn.jpg' style='float:right; margin:15px; max-width:60%'/>
 

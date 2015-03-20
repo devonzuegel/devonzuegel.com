@@ -13,7 +13,6 @@ highlight: true
 
 ## Obamacare is a lousy deal for young people
 
-
 The government spends around $6 on seniors for every dollar it spends on children, according to Andrew Biggs of the American Enterprise Institute. There is a growing concern that older generations are committing “generational theft” by leaving behind enormous debt for young people to pay off in the future. Medicare alone has $35.2 trillion of unfunded obligations -- the cost of waging the eight-year Iraq War thirty times -- and spending for the program is expected to surge by 82 percent by 2023 as Baby Boomers continue to age. Furthermore, the benefits -- if any -- that Millennials will receive when we become eligible for Medicare are likely to be far less than what we are forced to pay in as workers. Millennials are projected to become the first generation in US history to have a lower standard of living than their parents. Regina Herzlinger, a professor at Harvard Business School, went so far as to say that Medicare cheats the young. “We’re really stealing from them,” she claimed. “It’s not right.”
 
 The Affordable Care Act (ACA), also known as “Obamacare”, is another instance of generational theft. The legislation relies on those who are young and healthy to subsidize older, sicker people, and it’s doing so by forcing Millennials to pay for benefits they don’t need. Not only is it a direct cost to those young people, but it places a massive opportunity cost on all of society by draining resources from those who will drive our economy for the next generation.
