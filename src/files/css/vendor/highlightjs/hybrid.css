@@ -15,17 +15,10 @@ vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
 }
 
 code {
-  background: #1F1F1F;
-  color: #ECECEC;
+  background: #eee;
+  color: black;
   font-family: Menlo, Monaco, monospace;
 }
-/*.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
-  background: #1d1f21;
-  -webkit-text-size-adjust: none;
-}*/
 
 /*selection color*/
 .hljs::selection,

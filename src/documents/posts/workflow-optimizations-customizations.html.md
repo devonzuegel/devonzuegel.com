@@ -2,6 +2,7 @@
 title: Workflow optimizations & customizations
 author: "Devon Zuegel"
 tags: []
+highlight: true
 collection: posts
 date: "March 20 2015"
 img: http://wallpoper.com/images/00/44/69/33/whelk-shell-3_00446933.jpg

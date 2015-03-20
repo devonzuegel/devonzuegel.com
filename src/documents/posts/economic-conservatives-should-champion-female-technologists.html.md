@@ -6,7 +6,6 @@ tags: ["women", "technology"]
 collection: posts
 date: "Oct 18 2014"
 img: "//stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png"
-highlight: true
 ---
 
 As a student in the 90s, Marissa Mayer was <a href="http://www.businessinsider.com/marissa-mayer-called-a-stanford-campus-icon-for-being-a-blonde-in-computer-science-classes-2013-9">dubbed a campus icon</a> in a <i>Stanford Daily</i> column about distinctive individuals on campus. The article referred to her as “the blonde woman in the upper-division computer science classes” without a single mention of her name, yet those terse descriptors were more than enough to identify the now-CEO of Yahoo, as she was one of the small handful of women in the department at the time.

@@ -40,9 +40,12 @@ alias lg='l | grep -i'
 
 My git aliases are a close second to the directory listing commands. The ones I use most frequently are:
 
-* `gac 'My commit message'`: combines the git commands for adding all files and committing them with an inline message.
-* `gch #{branchname}`: 
-* `gb`:
+| Alias                         | Original Command               |
+| :---------------------------- | :----------------------------- |
+| `gac 'My commit message'`     | `git add -A && git commit`     |
+| `gp`                          | `git push`                     |
+| `gch #{branchname}`           | `git checkout #{branchname}`   |
+| `gb`                          | `git branch`                   |
 
 You can find my entire `.zshrc` file below. Feel free to use, abuse, and modify my aliases as you wish!
 
