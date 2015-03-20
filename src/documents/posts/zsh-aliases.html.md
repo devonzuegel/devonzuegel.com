@@ -30,10 +30,11 @@ alias l='ls -GF -lt | awk '\''{
 }'\'' | tail +2'  # Remove first line from output (formerly "total")
 ```
 
+<img src='../assets/lg-alias.png' width='240px' style='margin:5px 0 15px 15px; float:right'>
+
 When looking to filter through filenames quickly, I use `lg #{regex}`, which pipes the result of `l` to a case-insensitive `grep` command.
 
 ```shell
-# Grep (case-insensitive)
 alias lg='l | grep -i'
 ```
 
@@ -48,8 +49,8 @@ My git aliases are a close second to the directory listing commands. The ones I 
 | `gch #{branchname}`           | `git checkout #{branchname}`   |
 | `gb`                          | `git branch`                   |
 
+---
+
 You can find my entire `.zshrc` file below. Feel free to use, abuse, and modify my aliases as you wish!
 
-<div>
 <script src="https://gist.github.com/devonzuegel/6c1f260d5e9ff101e0df.js"></script>
-</div>
