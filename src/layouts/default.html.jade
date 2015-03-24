@@ -1,4 +1,4 @@
-include ../documents/views/includes/head
+include ../partials/_head.jade
 
 body#wrapper
   //if lt IE 7
@@ -47,9 +47,10 @@ body#wrapper
 
       .row.headlines
         h5 Featured
-        ul: each p in getCollection('posts').toJSON()
-          if (p.highlight)
-            .headline: a(href=p.url).title #{p.title}
+        ul.normal-line-height
+          each p in getCollection('posts').toJSON()
+            if (p.highlight)
+              .headline: a(href=p.url).title #{p.title}
 
       //- .row
 

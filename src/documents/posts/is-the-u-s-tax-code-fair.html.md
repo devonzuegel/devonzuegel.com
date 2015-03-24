@@ -10,7 +10,7 @@ img: "//stanfordreview.org/wp-content/uploads/Screen-Shot-2013-02-19-at-11.19.11
 
 > _“Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius to move in the opposite direction.”_
 > 
-> _~ E.F. Schumacher_
+> _~ E.F. Schumacher_ 
 
 The entire country stops on April 15th. For weeks leading up to Tax Day, families and businesses scramble to get their finances organized. According to an IRS study, the median individual taxpayer spent $258 for tax preparation in 2007, 60% of individual taxpayers hire accountants, and 30% purchase software. Nationally, 6.1 billion hours and $163 billion are spent in tax preparation each year. The national cost of simply complying with the tax code—let alone paying taxes themselves—is enormous.
 
