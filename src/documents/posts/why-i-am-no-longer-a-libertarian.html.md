@@ -7,8 +7,6 @@ date: 'February 15 2015'
 img: 'http://i.imgur.com/daE3UgZ.jpg'
 ---
 
-# Why I am no longer a Libertarian
-
 I no longer identify as a libertarian. Sure, I still believe that drug use and consensual prostitution ought to be legal, that expanded gun ownership for self defense would make our country safer, and that many forms of regulation stifle innovation.
 
 However, I've realized recently that I immediately squash any opportunity to have those views challenged or expanded as soon as I use the phrase "As a libertarian..." to preface my thoughts. Once you define yourself with a particular label, your counterpart assumes he knows everything you're going to say, and his ears shut down. <img src='http://i.imgur.com/M2Rqh8u.png' style='margin:15px; float:right; max-width:60%'/>

@@ -8,8 +8,6 @@ date: "April 20 2014"
 img: "//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA"
 ---
 
-![](//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA)
-
 Richard Dawkins is very clear on his opinion of creationism and its supporters. In an article published by The Guardian, he stated, “Any science teacher who denies that the world is billions ... of years old is teaching children a preposterous, mind-shrinking falsehood.” He continues, “Ignorant, closed-minded, false teachers who stand in their way come as close as I can reckon to committing true sacrilege.”
 
 Student group Atheists, Humanists, and Agnostics (AHA!) invited Dawkins to speak at Stanford during the fall quarter about his autobiography, An Appetite for Wonder. The event was sponsored by the Graduate Student Council (GSC) as well as the ASSU Undergraduate Senate, Stanford Speakers Bureau, and the Secular Student Alliance.
