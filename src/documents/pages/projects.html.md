@@ -17,7 +17,7 @@ The algorithm requires 3 components:
 
 - a language model to compute `P(E)` (the prior)
 - a translation model to compute `P(S|E)` (the probability that a Spanish word `s` translates to an English word `e`)
-- a decoder that produces that most probable
+- a decoder that produces the most probable translation
 
 #### Pseudocode ####
 
@@ -45,6 +45,8 @@ You can find the open source code for the project on [Github](//github.com/devon
 ## Octagon ##
 ###### <div class='time'>Summer 2014</div><br>
 
+![right-sm](http://collectivehealth.com/wp-content/uploads/2014/08/formation-8-logo-700x192.png)
+
 This past summer, I designed and built an app called Octagon, a tool for venture capital firms. Octagon helps VCs better manage relationships with portfolio companies by visualizing important metrics about company growth and providing a repository for financial documents and quarterly updates. It also facilitates interaction between investors and board members and the startups in their portfolios in an analogous manner to CRM software. Octagon is currently in beta testing at Formation|8.
 
 I was responsible for the full-stack of the app, though I was lucky enough for the last few weeks of the project to work with a friend named Zack who helped me immensely with the front-end, especially user interaction and fully utilizing the capabilities of our graphing libraries.
@@ -69,8 +71,9 @@ We decided that a browser extension would be far more effective than the origina
 The Paper Trail extension is currently under development. You can find an rough interactive prototype on [Invision](//invis.io/SZ1M1F6AJ) and the open source code for the actual extension on [Github](//github.com/devonzuegel/papertrail-extension).
 
 ## In Other Words ##
-###### <div class='time'>January - May 2011</div><br>
-![right-15px](http://www.freestyle.mvla.net/~DevonZ/project3/images/photo1.JPG)
+###### <div class='time'>January - May 2011</div><br> ######
+
+![right-md](http://www.freestyle.mvla.net/~DevonZ/project3/images/photo1.JPG)
 
 My brother Jeffrey was born with Cerebral Palsy and is on the autistic spectrum. Life with Jeffrey is challenging for both of us because he doesn’t always communicate effectively in the conventional way, in “English.” However, he has found alternative modes with the help of his team of teachers, therapists, family, and friends.
 
