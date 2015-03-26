@@ -4,15 +4,7 @@ tags: ['intro','page']
 collection: pages
 ---
 
-script(src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js')
-
-a(href='../../assets/Devon_Zuegel--Resume.pages.pdf').pull-right
-  button(type='button' class='btn btn-default btn-sm')
-    | PDF
-
-h1 #{document.title}
-
-p.smaller
+.smaller
   | #{general.school} #{general.class_yr} // 
   | #{general.major.degree} in #{general.major.dept}, Minor in #{general.minor.dept} // 
   | #{general.gpa} GPA
@@ -26,6 +18,8 @@ p.smaller
         a.light(href=e.website) #{e.title[0]}
       .block.time #{e.dates.start} - #{e.dates.end}
       .space
+      .space
+      .space
       ul
         each bp in e.bullet_pts
           li.smaller #{bp}
@@ -35,6 +29,8 @@ p.smaller
       if p.include
         h3: a(href=p.website) #{p.name}
         .block.time #{p.dates.start} - #{p.dates.end}
+        .space
+        .space
         .space
         ul
           each bp in p.bullet_pts
