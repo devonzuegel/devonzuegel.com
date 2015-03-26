@@ -70,6 +70,7 @@ The Paper Trail extension is currently under development. You can find an rough 
 
 ## In Other Words ##
 ###### <div class='time'>January - May 2011</div><br>
+![right-15px](http://www.freestyle.mvla.net/~DevonZ/project3/images/photo1.JPG)
 
 My brother Jeffrey was born with Cerebral Palsy and is on the autistic spectrum. Life with Jeffrey is challenging for both of us because he doesn’t always communicate effectively in the conventional way, in “English.” However, he has found alternative modes with the help of his team of teachers, therapists, family, and friends.
 
