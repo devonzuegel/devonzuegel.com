@@ -21,7 +21,7 @@ Building an engineering- and technology-led culture is the hardest and most impo
 
 “I have a great idea in a huge market, I just wish we had some great people to build it. Can you help us find a couple of elite engineers?”
 
-coinsThis question is like asking a famous sales leader if they can find a few customers for you; it’s missing the point of engaging that advisor. Yes, recruiting is hard. The old-fashioned institutional mentality views engineers as cogs in a machine, whirring along and stamping out parts. As individuals and groups with this view get exposed to Silicon Valley-style technology companies, their instinct morphs to view engineers as shiny coins, to have and collect.
+This question is like asking a famous sales leader if they can find a few customers for you; it’s missing the point of engaging that advisor. Yes, recruiting is hard. The old-fashioned institutional mentality views engineers as cogs in a machine, whirring along and stamping out parts. As individuals and groups with this view get exposed to Silicon Valley-style technology companies, their instinct morphs to view engineers as shiny coins, to have and collect.
 
 This is still the wrong model, and the leader above is asking the wrong question. The problems an engineering team works on are some of the most important aspects of the job for any prospective hire. A strong, technology-driven culture signals to these recruits that the company values challenging problems. The companies that are most successful in recruiting great engineers focus on establishing a technology-centric culture early on and maintaining it as the business grows into other functions.
 
