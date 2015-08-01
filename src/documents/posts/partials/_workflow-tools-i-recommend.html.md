@@ -1,4 +1,4 @@
-## Misc ##
+## Misc Tools ##
 
 * Batch converting `.erb` files to `.slim` (requires erb2slim and html2slim gems) by recursing through all sub-directories:
 
@@ -6,8 +6,6 @@
 $ for f in **/*.erb; do erb2slim $f ${f/\.erb/.slim}; done
 $ rm **/*/erb
 ```
-
-## Other Tools I recommend ##
 
 * [Emmet.io](http://docs.emmet.io/) is a toolkit that allows you to expand css-like abbreviations to markup. For example, when you press `TAB` it dynamically parses this...:
 
