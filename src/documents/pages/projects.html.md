@@ -4,8 +4,24 @@ tags: []
 collection: pages
 ---
 
+## My Evernote ##
+###### <div class='time'>July 2015</div><br> ######
+
+
+## Zen Writer ##
+###### <div class='time'>June 2015</div><br> ######
+
+The most difficult 
+
+## OrigamiJS ##
+###### <div class='time'>March 2015</div><br> ######
+
+Over spring break I decided I wanted to play around with coffeescript, so I built a little script to hierarchically fold elements on a webpage. I originally built it so I could fold long blog posts and class notes I had written in Markdown, inspired by the great header folding in [Marked2](http://marked2app.com/), my favorite Markdown previewer, so by default it will fold traditional `<h*>` and `<p>` elements as defined by Markdown. Origamijs also allows clients to define their own hierarchy, in the case that they're using unique tags or prefer to ignore certain levels of the traditional Markdown tag hierarchy.
+
+You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs).
+
 ## Fiesta: Machine Translator ##
-###### <div class='time'>March 2015</div><br>
+###### <div class='time'>March 2015</div><br> ######
 
 Zoe Robert, John Luttig, and I built a Spanish to English machine translator, which we called Fiesta. It is based on the IBM Model 1 algorithm and also implements several Spanish-specific strategies for improving results.
 
@@ -43,7 +59,7 @@ do until convergence
 You can find the open source code for the project on [Github](//github.com/devonzuegel/fiesta).
 
 ## Octagon ##
-###### <div class='time'>Summer 2014</div><br>
+###### <div class='time'>Summer 2014</div><br> ######
 
 ![right-sm](http://collectivehealth.com/wp-content/uploads/2014/08/formation-8-logo-700x192.png)
 
@@ -54,7 +70,7 @@ I was responsible for the full-stack of the app, though I was lucky enough for t
 You can find the open source code for the project on [Github](//github.com/devonzuegel/octagon).
 
 ## Paper Trail ##
-###### <div class='time'>March 2014 - present</div><br>
+###### <div class='time'>March 2014 - present</div><br> ######
 
 Some of the greatest impact individuals can have on politics is driven by daily purchasing decisions. Any time an individual patronizes a corporation, (s)he is fueling the company's lobbying and donorship capabilities and is indirectly supporting their political causes. Unfortunately, the impact of corporate political contributions is largely opaque to the general public, and the research about corporations’ political activity is a tedious, complex task.
 

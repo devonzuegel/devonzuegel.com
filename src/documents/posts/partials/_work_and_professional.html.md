@@ -2,7 +2,7 @@
 
 ### The Stanford Review ###
 
-I'm also formerly the Editor in Chief of *[The Stanford Review](http://stanfordreview.org)*, a bi-weekly contrarian paper that publishes investigative news and opinions articles. Some of my favorite subjects to think &amp; write about are healthcare reform, the interplay between privacy &amp; technology, tax policy, rationality, artificial intelligence, and the Second Amendment.
+I am Editor Emeritus of *[The Stanford Review](http://stanfordreview.org)*, a bi-weekly paper that publishes investigative news and opinions articles. Some of my favorite subjects to think &amp; write about are healthcare reform, the interplay between privacy &amp; technology, tax policy, rationality, artificial intelligence, and the Second Amendment.
 
 ### Section Leading ###
 

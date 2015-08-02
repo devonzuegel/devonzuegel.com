@@ -7,7 +7,9 @@
 /* -----------
  * HEADINGS */
 * {
-	font-weight: 300;
+	font-weight: 300 !important;
+	color: #444;
+	font-size: 15px;
 }
 
 h2, h3, h4, h5, .time {
@@ -30,9 +32,17 @@ h2 {
 }
 
 h3 {
+	font-weight: 500 !important;
 	font-family: @body-font;
-	font-size: 1.3em !important;
+	font-size: 1.4em !important;
 	margin: 15px 0 5px 0 !important;
+
+	.block {
+		font-weight: 500 !important;
+		font-family: @body-font;
+		font-size: 16px;
+		line-height: 1.53em;
+	}
 
 	a {
 		font-family: @italic-body-font;
@@ -138,9 +148,9 @@ ul, ol {
 }
 
 .smaller {
-	&:extend(.normal-line-height);
+	// &:extend(.normal-line-height);
 	font-size: 90%;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 .headline {
