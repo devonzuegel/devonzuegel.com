@@ -7,18 +7,37 @@ collection: pages
 ## My Evernote ##
 ###### <div class='time'>July 2015</div><br> ######
 
+I love Evernote. On any given day I usually create about 15 notes, ranging from highlighted blog posts and articles to trip itineraries and to-do lists. The bulk of these notes are clippings from around the web that I've read and annotated with Evernote's [Clearly extension](//evernote.com/clearly/).
+
+Evernote has lots of great sharing capabilities, including joint notebooks, public links, and social sharing. However, I've always wanted to publish a sort of feed that shares a select set from my annotated notes and displays what my friends have read. What I want is a bit like Medium, but where the posts aren't necessarily from that platform, simply clipped with Evernote into a notebook.
+
+As a fun way to solve this little problem of mine and to teach myself more about Rails testing frameworks, I'm working on a little app called [My Evernote](//myevernote.co). When I'm done, it'll automatically sync all of your notes except those you especially tag `#private`. Then each evening you receive an email asking which of the synced notes you want to "publish" on your feed. It's a simple app, but I quickly learned that the Evernote documentation for Rails is basically non-existent, so it's also been a fun way to add to that.
+
+![](../assets/my-evernote.png)
+
+You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
 
 ## Zen Writer ##
 ###### <div class='time'>June 2015</div><br> ######
 
-The most difficult 
+The most difficult part of writing is that first draft. Putting your ideas to paper to generate that initial content is hard, because it's natural to edit your thoughts while translating them into words. However, this can severely hamper progress and creativity during early drafts. I've learned that I write better content faster if I don't censor myself initially and then only allow myself to revise and edit after I've exhausted my ideas. However, it's extremely difficult to contain that urge to filter out the less well-formed ideas.
+
+During spring quarter finals, I was assigned a 10 page paper. Just three days before it was due I had a one page draft despite hours of research and staring at a blank screen. I had lots of ideas in my head, but every time I started typing I ended up using the delete button almost as much as all my other keys combined.
+
+Since I wasn't making any progress anyways, I decided to take a break and built a tiny text editor called [Zen Writer](//zenwriter.io). It disables the delete button, highlights the current line, and fades out past content so that your attention is focused on moving forward and generating more content.
+
+It didn't take much work to build a rough version, and as soon as I finished I was back to writing that first draft of my paper. In the first 15 minutes, I generated about 600 words. When I went back to revise what I'd written, I was surprised to find that most of my changes were to fix minor typos rather than large, conceptual revisions.
+
+I finished that first draft in just over 2 hours and spent another hour the following day to revise my work, and the resulting paper was among the best I've written in my time at Stanford. Since then, I use Zen Writer every time I get stuck writing, from emails to blog posts to READMEs. I hope other people find it useful too, though I will warn you that it's still very rough and simple!
+
+You can find the open source code for the project on [Github](//github.com/devonzuegel/zen-writer) and the app at [zenwriter.io](//zenwriter.io).
 
 ## OrigamiJS ##
 ###### <div class='time'>March 2015</div><br> ######
 
-Over spring break I decided I wanted to play around with coffeescript, so I built a little script to hierarchically fold elements on a webpage. I originally built it so I could fold long blog posts and class notes I had written in Markdown, inspired by the great header folding in [Marked2](http://marked2app.com/), my favorite Markdown previewer, so by default it will fold traditional `<h*>` and `<p>` elements as defined by Markdown. Origamijs also allows clients to define their own hierarchy, in the case that they're using unique tags or prefer to ignore certain levels of the traditional Markdown tag hierarchy.
+Over spring break I decided I wanted to play around with coffeescript, so I built a little script to hierarchically fold elements on a webpage. I originally built it so I could fold long blog posts and class notes I had written in Markdown. The idea was inspired by the great header folding in [Marked2](http://marked2app.com/), my favorite Markdown previewer, so by default Origamijs folds traditional `<h*>` and `<p>` elements as defined by Markdown. Origamijs also allows clients to define their own hierarchy, in the case that they're using unique tags or prefer to ignore certain levels of the traditional Markdown tag hierarchy.
 
-You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs).
+You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs) and example usage [here](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html).
 
 ## Fiesta: Machine Translator ##
 ###### <div class='time'>March 2015</div><br> ######
