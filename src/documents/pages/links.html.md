@@ -6,20 +6,18 @@ collection: pages
 
 This is where I collect some of the ideas, historical facts, anecdotes, etc. that I would like more people to know about or just plain don't want to forget. I update it sporadically, and the process is not systematic in any way.
 
-
-
 ## Cybernetics & Artificial Intelligence
 
 [**Cybernetics**](http://en.wikipedia.org/wiki/Cybernetics) is the study of the structures, constraints, and possiblities of regulatory systems. It abstracts concepts such as learning, adaptation, emergence, and communication from their mechanical / physical / biological / cognitive / social contexts and studies the influence of feedback loops and circular causal relationships.
 
-<!-- 
+ 
 #### Artificial Genocide
 [Atlantic article](http://www.theatlantic.com/magazine/archive/2002/04/seeing-around-corners/302471/)
 
 ![](http://cdn.theatlantic.com/static/coma/images/issues/200204/figure5-vs.gif)
 
-- If societies can order themselves systematically but unconsciously, it stands to reason that they can also disorder themselves systematically but unconsciously
--->
+> If societies can order themselves systematically but unconsciously, it stands to reason that they can also disorder themselves systematically but unconsciously
+
 
 
 #### Project Cybersyn <div class='time pull-right' style='margin:2px'>15 Feb 2015</div>
@@ -31,12 +29,7 @@ This system played a key role in the newly nationalized sectors of Chile's econo
 
 > *The futuristic operations room was furnished with seven swivel chairs (considered the best for creativity).*
 
-
-
-
 <!-- ## Rationality & Cognitive Biases -->
-
-
 
 ## Political Philosophy
 
