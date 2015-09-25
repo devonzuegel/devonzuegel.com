@@ -6,6 +6,8 @@ Recently I've shifted away from just reading text (paper or otherwise), as I'm a
 
 - The [*You Are Not So Smart* podcast](http://youarenotsosmart.com/), which explores self delusion, common logical fallacies, and the influence of cognitive biases on our thinking.
 
+- [*The Better Angels of Our Nature*](http://www.amazon.com/The-Better-Angels-Our-Nature/dp/1491518243) describes the steady decline of violence over the course of human history. I was initially skeptical of Pinker's thesis, but I can't see any way that you wouldn't be convinced of his argument after reading through the exhaustive research in this book. As a bonus, *The Better Angels of Our Nature* will leave you extremely optimistic about human progress, though at the same time you'll be horrified by how people have treated each other throughout most of human history.
+
 - [*Harry Potter &amp; the Methods of Rationality*](http://hpmor.com), an alternate universe in which Harry is a child prodigy raised by scientists and "enters the wizarding world armed with Enlightenment ideals and the experimental spirit". I highly suggest the [HPMOR podcast](http://www.hpmorpodcast.com/), which can be found on [Stitcher](http://www.stitcher.com/), among other places. My fitness this winter can be attributed more to this audiobook than any other single thing-- I'd start off on a run or walk with my dogs and realize hours later that I'd burned through 10 chapters and it was getting dark out. Long story short-- HMPOR is fantastic.
 
 - [*Freakonomics Radio*](http://freakonomics.com/radio/freakonomics-radio-podcast-archive/), a weekly podcast that discusses "the hidden side of everything". My favorite episodes include:
