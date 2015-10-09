@@ -71,6 +71,9 @@ img {
 	margin: auto;
 	padding: 40px @padding-1;
 
+	display:block;
+	overflow:auto;
+
 	#main-content {
 		padding-bottom: 25px;
 
@@ -146,24 +149,21 @@ img {
 	float: right;
 }
 
+#contact {
+	display:block;
+	overflow:auto;
+}
 
-#wrapper {
+#footer {
+	margin-top: 15px;
+	padding: 5px;
+	width:100%;
+	border-top: 1px solid #eee;
 
-	min-height:100%;
-	position:relative;
-
-	#footer {
-		margin-top: 15px;
-		padding: 5px;
-		width:100%;
-		border-top: 1px solid #eee;
-
-		h4 {
-			margin: 0 !important;
-			text-align: center;
-			font-size: 70%;
-			font-weight: 100;
-		}
+	h4 {
+		margin: 0 !important;
+		text-align: center;
+		font-size: 70%;
+		font-weight: 100;
 	}
-
 }

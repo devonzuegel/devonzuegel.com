@@ -26,7 +26,7 @@ docpadConfig = {
 		site:
 
 			# The production url of our website
-			url: "http://devon.zuegel.us"
+			url: "http://devonzuegel.com"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: []
@@ -136,7 +136,7 @@ docpadConfig = {
       deployRemote: 'pages'
 
   regenerateDelay: 0    # default
-	watchOptions: preferredMethods: ['watchFile','watch']
+	watchOptions: preferredMethods: ['watchFile', 'watch']
 
 }
 
