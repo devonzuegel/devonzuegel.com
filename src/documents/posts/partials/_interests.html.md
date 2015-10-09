@@ -2,6 +2,7 @@
 
 An abridged list of things I want to learn more about and related links to interesting articles, essays, and studies on those topics. You can find a more long-form set of links [here](../pages/links).
 
+- Urban planning and transporation
 - Cryptography, stenography, &amp; information theory
   - [An abridged history](http://people.csail.mit.edu/rivest/pubs/Riv12d.slides.pdf)
 - Health, nutrition, &amp; fitness
@@ -22,4 +23,5 @@ An abridged list of things I want to learn more about and related links to inter
   - Deontological
   - Consequentialism, especially utilitarianism
     - Vegetarianism &amp; veganism
+    - Effective Altruism
 - Economics (as traditionally applied to the economy as well as all other facets of social interaction)
