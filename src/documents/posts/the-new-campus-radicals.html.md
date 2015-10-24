@@ -6,7 +6,6 @@ tags: ['intro','post', 'stanford', 'the stanford review']
 collection: posts
 date: 'June 2 2014'
 img: '//lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw'
-highlight: true
 ---
 
 ![](//lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw)
