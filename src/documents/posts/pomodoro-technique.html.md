@@ -16,7 +16,7 @@ These circumstances aren't always easy to replicate, particularly when I'm worki
 
 I've experimented with many strategies to combat this flow problem. To ease my perfectionist tendencies while writing rough drafts, I built a tiny text editor called [Zen Writer](//zenwriter.io) which disables the delete button, among a few other focus-oriented features. I use the [Self Control](//selfcontrolapp.com) app to block distracting websites, and I write out my goals whenever I sit down to get a chunk of work done to ensure I'm making the most out of my time. I continually tweak my text editor and terminal settings (though that may be more of a distraction than a productivity boost). However, these are relatively small in scope, so they've been met with only limited success.
 
-![The Pomodoro Cycle](../assets/pomodoro-cycle.jpg)
+![The Pomodoro Cycle](../assets/pomodoro-technique/pomodoro-cycle.jpg)
 
 The single most effective strategy I've discovered is the [pomodoro technique](http://pomodorotechnique.com/). I've probably gotten more productivity gains from pomodoro alone than all of the other tools combined. The idea is to alternate 25-minute spurts of work and brief 5-minute breaks, and then after every fourth repetition you take a 15-minute break. You promise yourself to be totally focused during the work periods and totally disengaged from it during the breaks. Some people are extremely strict with the length of these periods. When I am strict I find that I can just chug through my work, but it takes a lot of discipline to do this. I'll be the first to admit that I don't always adhere to it perfectly. Even though I was really quite bad at the technique when I started using the it, my productivity immediately increased, and as I've become better at working with this strategy my output has continued to increase along with it.
 
@@ -49,6 +49,6 @@ As I've used pomodoro over the past few months, I've picked up some tricks for m
 
 - **Use an app to track your pomodoro cycles.** My personal favorite is an OSX app called [Pomodoro One](//itunes.apple.com/us/app/pomodoro-one/id907364780?mt=12), but there are tons of apps on various platforms that are also very good.
 
-![Pomodoro One](../assets/pomodoro-lg.png)
+![Pomodoro One](../assets/pomodoro-technique/pomodoro-lg.png)
 
 Pomodoros have been immensely helpful in increasing my productivity and quality of work. It's easier to grasp complexity when you're fully focused, and it makes work more fun, too. [Let me know what you think of pomodoro!](//twitter.com/devonzuegel) I'd love to hear how other people use it and other strategies to hone their work.

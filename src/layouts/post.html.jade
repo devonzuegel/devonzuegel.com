@@ -5,7 +5,7 @@ layout: default
 article#post.post
   h1 #{document.title}
   a(href=document.orig_url).light by #{document.author}
-  .time(style='margin-top:2px') #{moment(document.date).format('LL')}
+  .time(style='margin-top:2px') #{moment(document.date_published).format('DD MMMM YYYY')}
   .space
   .space
   .space
