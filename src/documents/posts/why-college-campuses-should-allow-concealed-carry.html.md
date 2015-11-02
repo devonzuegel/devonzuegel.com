@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/why-college-campuses-should-allow-concea
 author: 'Devon Zuegel'
 tags: ['intro','post', 'guns', 'concealed carry', 'self defense']
 collection: posts
-date: 'Jan 19 2013'
+date_published: 'Jan 19 2013'
 img: '//stanfordreview.org/wp-content/uploads/Shooting_range_Glockwikimediacommons-300x225.jpg'
 highlight: true
 ---

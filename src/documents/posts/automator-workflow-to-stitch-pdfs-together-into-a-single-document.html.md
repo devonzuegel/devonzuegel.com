@@ -3,7 +3,7 @@ title: Automator Workflow to stitch PDFs into a single document
 author: Devon Zuegel
 tags: ["pdf", "automator", "workflow"]
 collection: posts
-date: March 20 2015
+date_published: March 20 2015
 img: http://green-romp.com/blog/wp-content/uploads/2013/08/Automator_icon.png
 workflow: true
 ---

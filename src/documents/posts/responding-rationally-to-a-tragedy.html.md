@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/responding-rationally-to-a-tragedy/'
 author: 'Devon Zuegel'
 tags: ['guns', 'shooting', 'isla vista']
 collection: posts
-date: 'May 27 2014'
+date_published: 'May 27 2014'
 img: '//www.trbimg.com/img-53814c23/turbine/la-me-ln-isla-vista-shooting-suspect-vowed-war-on-women-sorority-20140524'
 ---
 

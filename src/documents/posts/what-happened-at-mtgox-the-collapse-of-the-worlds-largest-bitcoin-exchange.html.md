@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/what-happened-at-mtgox-the-collapse-of-t
 author: 'Devon Zuegel'
 tags: ['mt gox', 'bitcoin', 'exchange']
 collection: posts
-date: 'April 23 2014'
+date_published: 'April 23 2014'
 img: '//stanfordreview.org/wp-content/uploads/mtgox_where_is_our_money-1024x682.jpg'
 ---
 

@@ -3,7 +3,7 @@ title: 'A Primer on the Streetcars vs Buses debate'
 author: 'Devon Zuegel'
 tags: ['transit', 'BRT']
 collection: posts
-date: '22 October 2015'
+date_published: '22 October 2015'
 img: http://www.mappery.com/maps/Berlin-Rapid-Transit-Map.mediumthumb.gif
 highlight: true
 ---
@@ -37,7 +37,7 @@ It's a controversial question whether streetcar (also known as trams, trolleys) 
     + Opponents argue that these aesthetic characteristics are trivial and petty. However, transit officials are always looking for ways to make public transit more attractive for middle class commuters who overwhelmingly depend on cars even for short distances within most American cities. **The comparative comfort and friendliness of streetcars shifts ridership from automobiles to public transit more effectively than stigmatized buses**. If widely adopted, this could hugely decrease congestion and the environmental impacts of Americans' dependence on cars, which many argue is worth the extra cost.
 
 > “People who wouldn’t get on a bus at gunpoint will take the Metro. And the streetcar’s even friendlier because it’s aboveground."
-> 
+>
 > – Earl Blumenauer, Portland's former commissioner of public works
 
 - Streetcars may promote economic development more effectively.

@@ -3,7 +3,7 @@ title: My zsh aliases
 author: "Devon Zuegel"
 tags: []
 collection: posts
-date: "March 18 2015"
+date_published: "March 18 2015"
 img: http://wallpoper.com/images/00/44/69/33/whelk-shell-3_00446933.jpg
 workflow: true
 ---

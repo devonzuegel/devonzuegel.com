@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/mortgaging-the-millennials-future/'
 author: 'Devon Zuegel'
 tags: ['intro','post', 'healthcare', 'obamacare', 'aca', 'millenials']
 collection: posts
-date: 'January 24 2014'
+date_published: 'January 24 2014'
 img: '//lh3.googleusercontent.com/ILy2T6hLMXc90tFuQr7MWRUj9mKoGB6f-dANvsXRRwgmTsR7wmdK7U1D3DDuGuyNpwZTxhlgbJxp_pYTGIgWGOA3jj0o4i_U0bADZiWJtR0WSEYhL_RM7XVE0Q'
 highlight: true
 ---

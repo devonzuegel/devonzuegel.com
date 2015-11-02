@@ -4,7 +4,7 @@ orig_url: "//stanfordreview.org/article/an-interview-with-dr-bhattacharya/"
 author: "Devon Zuegel"
 tags: ["healthcare", "obamacare", "aca"]
 collection: posts
-date: "December 6 2013"
+date_published: "December 6 2013"
 img: "//iis-db.stanford.edu/news/3405/3405-small_jay_square..jpg"
 ---
 
