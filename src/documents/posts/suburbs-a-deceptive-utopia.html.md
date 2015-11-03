@@ -1,0 +1,38 @@
+---
+title: The Death and Life of (not-so-)Great American Suburbs
+author: Devon Zuegel
+tags: ["transit", "public transit", "buses", "streetcars", "suburbs", "cities"]
+collection: posts
+date_published: November 3 2015
+img: http://graphics8.nytimes.com/images/2013/04/07/sunday-review/07DIVIDE/07DIVIDE-tmagArticle.jpg
+---
+
+The American model of **suburbanization appears utopian at first glance, and this is why it is so dangerous**. All things equal, most people opt for more space and separation from their neighbors. An expansive, emerald green yard is a badge of status, and many parents prefer raising children in the controlled, predictable suburban environment. Property prices decline as you move further from city centers; for most families, more space in suburbia for the same price as a tiny city apartment seems like a no-brainer.
+
+Unfortunately, **these benefits of urban sprawl are far more tangible than the immense sacrifices that come with it**. In the early days of mass motorization, few recognized that these sacrifices even existed. 20th-century planners such as New York City's Robert Moses saw the automobile as the answer to all of the nation's transportation challenges and their projects garnered broad public support. The automobile was the symbol of freedom, of physical and economic mobility –– in short, the American Dream. The result was a prioritization of massive highways and the rise of sprawling suburbs, newly-connected to city centers by the highway system. Beyond giant highway projects, these attitudes also translated into [tax structures](http://www.motherjones.com/environment/2014/02/9-reasons-united-states-car-dependent-europe), road standards, subsidies, zoning laws, and more that supported mass motorization in the US, many of which are still in place today. **These incentives enabled the car to take center stage and in turn encouraged low-density sprawl** across the United States over the course of the 20th century.
+
+Since then, the car has become a much more complex symbol. It has been tarnished by visions of bumper to bumper traffic and commute times well over 45 minutes. However, there remains a concerning **disconnect in our understanding of the relationship between the decision to live in the suburbs and the resulting dependence on cars**. This disconnect is just one example of how **Americans have continuously undervalued the abstract, long-term costs of suburbanization**. Some of these costs include:
+
+- Cars and suburbanization go hand-in-hand with **single-use development**.
+    + Splitting everyday destinations into different locations while not providing competitive public transit options encourages people to drive more, which:
+        * increases traffic,
+        * undercuts the likelihood of random social interactions,
+        * encourages us to walk less (and gain weight), and
+        * undermines work-family balance by increasing distances between the home and office.
+    + Since business and manufacturing areas are deserted at night, they are breeding grounds for crime. It is dangerous for individuals to venture into these office parks and industrial areas alone, because there are no witnesses. The presence of **strangers in these areas are "an automatic menace"** in a way that strangers on a bustling, multi-use street are not.
+    + Jane Jacobs [argued](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities) in *The Death and Life of Great American Cities* that a critical mass of people on a street deters most violent crimes. In other words, "healthy sidewalks transform the city's high volume of strangers from a liability to an asset".
+- Suburbanites rely on their vehicles more frequently –– even for short trips –– than their city-dwelling counterparts.
+    + The Ontario College of Family Physicians found that "people living in suburban areas are more likely to be obese than people living in urban areas".
+- Long commutes make us unhappy and unhealthy.
+    + **Long commuting times are one of the most robust predictors of social isolation**, according to Harvard political scientist Robert Putnam. "There’s a simple rule of thumb," [explained](http://www.newyorker.com/magazine/2007/04/16/there-and-back-again) Putnam. "Every ten minutes of commuting results in ten per cent fewer social connections. Commuting is connected to social isolation, which causes unhappiness."
+    + People who drive to work gain more weight than those who do not, according to [a study published in the *American Journal of Preventative Care*](http://www.cfah.org/hbns/2013/commuting-to-work-by-car-linked-to-weight-gain).
+    + Commutes longer than 45 minutes increase a couple's likelihood of divorce by 40%, according to [a study from Umea University in Sweden](http://www.thelocal.se/20110524/33966).
+- Suburban neighborhoods miss out on the vibrancy and diveristy of city culture. (Some might argue this is an advantage, if they prefer privacy and quiet over excitement and novelty.)
+- Suburbanization is really, really bad for the environment.
+    + The average American spends 200 hours –– over 8 straight days –– on their daily commute. This is one of the key contributors to our emissions.
+    + Low-density communities use far more water than high-density communities.
+    + Sprawling development encroaches on wildlife habitat far more than dense city living.
+
+We have finally begun to comprehend the negative consequences of America's mass motorization, and urban planners have begun to prioritize public transit and mixed-use developments. **Millennials don't drive or value cars as much as previous generations** did, relying much more on their feet, bikes, transit, or Uber to get around.
+
+However, the momentum of history is working against us. Financial incentives, existing infrustructure, and cultural norms still shepherd us towards the green pastures of suburbia. These structures are changing, but we have a long way to go before we replace the car as America's principal form of tranportation and suburbia as its most iconic type of community.
