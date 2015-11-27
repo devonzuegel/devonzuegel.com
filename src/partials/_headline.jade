@@ -4,7 +4,7 @@
       a(href=p.url): img(src=p.img)
     .title.pull-left
       h3: a(href=p.url) #{p.title}
-      .time #{moment(p.date).format('LL')}
+      .time #{moment(p.date_published).format('DD MMMM YYYY')}
   else
     h3: a(href=p.url) #{p.title}
-    .time #{moment(p.date).format('LL')}
+    .time #{moment(p.date_published).format('DD MMMM YYYY')}

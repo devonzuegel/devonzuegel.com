@@ -2,10 +2,10 @@
 title: My text editor is absolutely sublime
 author: Devon Zuegel
 tags: ['sublime text', 'theme', 'text editing', 'programming', 'workflow optimization' ]
-collection: posts
+<!-- collection: posts -->
 date_published: "27 October 2015"
 img: https://d13yacurqjgara.cloudfront.net/users/13536/screenshots/1022371/sublime-text_teaser.png
-workflow: true
+<!-- workflow: true -->
 ---
 
 TODO...
