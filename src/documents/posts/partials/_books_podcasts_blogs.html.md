@@ -2,7 +2,7 @@
 
 Recently I've shifted away from just reading text (paper or otherwise), as I'm always trying to optimize my time and I've discovered that it's easy to find time to listen to podcasts and audiobooks throughout my day while I'm getting dressed or walking to my classes. Currently, some of my favorites include:
 
-#### Books ####
+### Books ###
 
 - [*The Power Broker*](http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245) is the biography of Robert Moses, who was the NYC Parks Commissioner from the 1920s through the 1960s. Moses is more responsible for reshaping the entire face of New York City than any other individual, and his thinking influenced urban planners nationwide and beyond throughout the 20th century. Over the course of his career, Moses personally conceived and completed projects costing 27 billion dollars, more than any other US government employee ever. These projects ranged from highways and bridges to housing complexes and city parks, many of which required bulldozing entire neighborhoods and in turn displacing hundreds of thousands of NYC residents. Despite the immense impact he's had on the field of urban planning, Moses was never elected to public office. The book is not only a look into Moses' fascinating life but also a unique perspective on American history and urban planning during that half century. Aside from the intensity of the story itself, the research that went into this masterpiece is just awe-inspring. The author Robert Caro is the best researcher-writer whose work I have ever read. His exhaustive series on LBJ is also fantastic; although it's more well-known and even more ridiculously in-depth than The Power Broker, I enjoyed the story about Moses a bit more because his impact was more concrete and on a more understandable scale. Also, *The Power Broker* is a story about taking a seemingly insignificant position and wielding it in a way that massively amplifies its power, whereas LBJ's story is more about climbing the ladder until you're at the top. As a side note, the narrator for the Audible recording of is fantastic.
 
@@ -18,7 +18,7 @@ Recently I've shifted away from just reading text (paper or otherwise), as I'm a
 
 - Hayek's [*The Road to Serfdom*](http://www.amazon.com/The-Road-Serfdom-Documents-The-Definitive/dp/0226320553) argues that when economic power is centralized in central planning by the government, it almost inevitably results in tyrannical dictatorship and the creation of a repressive society.
 
-#### Podcasts ####
+### Podcasts ###
 
 - [*Freakonomics Radio*](http://freakonomics.com/radio/freakonomics-radio-podcast-archive/) is a weekly podcast that discusses "the hidden side of everything". My favorite episodes include:
   - ["The Troubled Cremation of Stevie the Cat"](http://freakonomics.com/2014/12/11/the-troubled-cremation-of-stevie-the-cat-a-freakonomics-radio-rebroadcast/)
@@ -33,7 +33,4 @@ Recently I've shifted away from just reading text (paper or otherwise), as I'm a
 
 - [*Backstory*](http://backstoryradio.org/how-to-listen/podcast-2/) is hosted by three U.S. historians whose areas of expertise are the 1700s, 1800s, and 1900s respectively. Each episode takes a single theme (e.g. "Body Politics: Disability in America", "Banned: A History of Censorship", "Fear Tactics: A History of Domestic Terrorism"), and over the course of an hour they use that theme as a lens to look through a range of time periods in American history. The show is very high quality, and I've learned a lot of things about US history that I likely never would have learned otherwise.
 
-- [*Criminal*]
-
-
-
+- [*Criminal*](http://thisiscriminal.com/) tells "stories of people who've done wrong, been wronged, or gotten caught somewhere in the middle".
