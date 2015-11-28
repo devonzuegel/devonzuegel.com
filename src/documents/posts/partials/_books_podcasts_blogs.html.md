@@ -1,6 +1,6 @@
 ## Books, podcasts, & blogs that I like ##
 
-Recently I've shifted away from just reading text (paper or otherwise), as I'm always trying to optimize my time and I've discovered that it's easy to find time to listen to podcasts and audiobooks throughout my day while I'm getting dressed or walking to my classes. Currently, some of my favorites include:
+Recently I've shifted away from just reading text (paper or otherwise), as I'm always trying to optimize my time and I've discovered that it's easy to find time to listen to podcasts and audiobooks throughout my day while I'm getting dressed or walking to my classes. Currently, my favorites include:
 
 ### Books ###
 
@@ -34,3 +34,20 @@ Recently I've shifted away from just reading text (paper or otherwise), as I'm a
 - [*Backstory*](http://backstoryradio.org/how-to-listen/podcast-2/) is hosted by three U.S. historians whose areas of expertise are the 1700s, 1800s, and 1900s respectively. Each episode takes a single theme (e.g. "Body Politics: Disability in America", "Banned: A History of Censorship", "Fear Tactics: A History of Domestic Terrorism"), and over the course of an hour they use that theme as a lens to look through a range of time periods in American history. The show is very high quality, and I've learned a lot of things about US history that I likely never would have learned otherwise.
 
 - [*Criminal*](http://thisiscriminal.com/) tells "stories of people who've done wrong, been wronged, or gotten caught somewhere in the middle".
+
+And a few others (in no particular order) for which I'll (maybe) get around to writing descriptions later:
+
+- [*Imaginary Worlds*](https://imaginaryworldspodcast.org)
+- [*Open Account*](https://itunes.apple.com/us/podcast/open-account-with-suchin-pak/id1037408626?mt=2)
+- [*EconTalk*](https://econtalk.org)
+- [*Radiolab*](https://radiolab.org/series/podcasts)
+- [*Hidden Brain*](www.npr.org/podcasts/510308/hidden-brain)
+- [*This American Life*](http://www.thisamericanlife.org/podcast)
+- [*Open Source with Christopher Lydon*](http://radioopensource.org/)
+- [*15 Minute History*](http://15minutehistory.org)
+- [*The Memory Palace*](http://thememorypalace.us)
+- [*Dan Carlin's Hardcore History*](http://www.dancarlin.com/hardcore-history-series)
+- [*Rationally Speaking*](http://rationallyspeakingpodcast.org)
+- [*The Economist Radio*](https://radio.economist.com)
+- [*StartUp Podcast*](https://gimletmedia.com/show/startup/)
+- [*Reply All*](https://gimletmedia.com/show/reply-all/)
