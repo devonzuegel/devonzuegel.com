@@ -4,7 +4,7 @@ orig_url: "//stanfordreview.org/article/beginning-of-volume-letter/"
 author: "Devon Zuegel"
 tags: ["article","post", "beginning of volume", "stanford review"]
 collection: posts
-date_published: "February 24 2014"
+date_published: 2014-02-24
 img: "//stanfordreview.org/wp-content/uploads/political_square.png"
 ---
 

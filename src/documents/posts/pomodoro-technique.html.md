@@ -5,7 +5,7 @@ tags: []
 highlight: true
 workflow: true
 collection: posts
-date_published: "August 4 2015"
+date_published: 2015-08-04
 img: http://pomodororossonyc.com/wp-content/uploads/2014/06/photodune-680322-tomato-xs.jpg
 ---
 

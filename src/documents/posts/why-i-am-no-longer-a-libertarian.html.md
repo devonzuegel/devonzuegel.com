@@ -3,7 +3,7 @@ title: Why I am no longer a Libertarian
 author: 'Devon Zuegel'
 tags: ['libertarian', 'politics']
 collection: posts
-date_published: 'February 15 2015'
+date_published: 2015-02-15
 img: 'http://i.imgur.com/daE3UgZ.jpg'
 ---
 

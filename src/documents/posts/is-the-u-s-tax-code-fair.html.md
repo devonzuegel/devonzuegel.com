@@ -4,7 +4,7 @@ orig_url: "//stanfordreview.org/article/is-the-u-s-tax-code-fair/"
 author: "Devon Zuegel"
 tags: ["taxes", "tax day", "fair tax"]
 collection: posts
-date_published: "February 18 2013"
+date_published: 2013-02-18
 img: "//stanfordreview.org/wp-content/uploads/Screen-Shot-2013-02-19-at-11.19.11-AM-300x164.png"
 ---
 

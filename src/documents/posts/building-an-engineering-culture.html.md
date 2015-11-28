@@ -4,7 +4,7 @@ orig_url: "//formation8.com/resources/building-an-engineering-culture/"
 author: "Chris Kelley, Devon Zuegel, & Joe Lonsdale"
 tags: ["intro","post", "healthcare", "obamacare", "aca", "millenials"]
 collection: posts
-date_published: "September 2014"
+date_published: 2014-08-26
 img: "//50.87.144.142/~feight/wp-content/uploads/2014/09/network.jpg"
 ---
 

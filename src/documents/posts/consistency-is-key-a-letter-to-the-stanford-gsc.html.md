@@ -4,7 +4,7 @@ orig_url: "//stanfordreview.org/article/consistency-is-key-a-letter-to-the-stanf
 tags: ["justice", "stanford"]
 author: "Devon Zuegel"
 collection: posts
-date_published: "April 20 2014"
+date_published: 2014-04-20
 img: "//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA"
 ---
 

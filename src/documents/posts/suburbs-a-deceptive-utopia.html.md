@@ -3,7 +3,7 @@ title: The Death and Life of (not-so-)Great American Suburbs
 author: Devon Zuegel
 tags: ["transit", "public transit", "buses", "streetcars", "suburbs", "cities"]
 collection: posts
-date_published: November 3 2015
+date_published: 2015-11-03
 img: http://graphics8.nytimes.com/images/2013/04/07/sunday-review/07DIVIDE/07DIVIDE-tmagArticle.jpg
 ---
 

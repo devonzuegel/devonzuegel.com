@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/editors-note-the-new-campus-radicals/'
 author: 'Devon Zuegel'
 tags: ['intro','post', 'stanford', 'the stanford review']
 collection: posts
-date_published: 'June 2 2014'
+date_published: 2014-06-02
 img: '//lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw'
 ---
 

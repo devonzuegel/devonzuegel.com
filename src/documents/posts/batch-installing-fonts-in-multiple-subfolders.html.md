@@ -3,7 +3,7 @@ title: Batch installing fonts in multiple subdirectories
 author: "Devon Zuegel"
 tags: ["mac", "fonts", "batch", "install", "command line"]
 collection: posts
-date_published: "February 2 2015"
+date_published: 2015-02-02
 img: http://i.stack.imgur.com/o76m6.png
 workflow: true
 ---

@@ -4,7 +4,7 @@ orig_url: "Economic Conservatives Should Champion Female Technologists"
 author: "Devon Zuegel, Joe Lonsdale"
 tags: ["women", "technology"]
 collection: posts
-date_published: "Oct 18 2014"
+date_published: 2014-10-18
 img: "//stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png"
 ---
 

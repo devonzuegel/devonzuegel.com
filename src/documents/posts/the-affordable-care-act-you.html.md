@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/the-affordable-care-act-you/'
 author: 'Devon Zuegel'
 tags: ['healthcare', 'aca', 'medicare', 'obamacare', 'vaden health center']
 collection: posts
-date_published: 'December 9 2013'
+date_published: 2013-12-09
 img: '//stanfordreview.org/wp-content/uploads/obamacare_survey_pie_chart.png'
 ---
 

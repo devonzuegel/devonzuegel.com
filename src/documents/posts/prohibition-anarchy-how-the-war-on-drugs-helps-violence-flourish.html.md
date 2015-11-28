@@ -4,7 +4,7 @@ orig_url: '//stanfordreview.org/article/prohibition-anarchy-how-the-war-on-drugs
 author: 'Devon Zuegel'
 tags: ['prohibition', 'war on drugs', 'violence']
 collection: posts
-date_published: 'May 23 2014'
+date_published: 2014-05-23
 img: '//stanfordreview.org/wp-content/uploads/Mexico-articleLarge.jpg'
 ---
 

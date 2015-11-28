@@ -3,7 +3,7 @@ title: A Public Bus Named Desire 
 author: Devon Zuegel
 tags: ["transit", "public transit", "buses", "streetcars"]
 collection: posts
-date_published: November 27 2015
+date_published: 2015-11-27
 img: http://i.imgur.com/B0WjzI5.jpg
 ---
 
