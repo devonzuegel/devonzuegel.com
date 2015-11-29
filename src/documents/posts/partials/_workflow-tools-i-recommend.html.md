@@ -37,23 +37,6 @@ Given a two-dimensional array, `print_table` pretty prints a table that looks a 
 
 ![](https://cloud.githubusercontent.com/assets/6979755/9891532/af277164-5bbb-11e5-8456-89fc69e2fdb7.png)
 
-* [Emmet.io](http://docs.emmet.io/) is a toolkit that allows you to expand css-like abbreviations to markup. For example, when you press `TAB` it dynamically parses this...:
-
-    ```sass
-    ul#nav>li.items$*4>a{Item $}
-    ```
-
-    ... to the following:
-
-    ```html
-    <ul id="nav">
-        <li class="items1"><a href="">Item 1</a></li>
-        <li class="items2"><a href="">Item 2</a></li>
-        <li class="items3"><a href="">Item 3</a></li>
-        <li class="items4"><a href="">Item 4</a></li>
-    </ul>
-    ```
-
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) enables syntax highlighting and collapsible trees with indent guides when working with raw JSON in your browser. One of my favorite features is that holding down `cmd` while collapsing a subtree collapses all of its siblings, too.
 
   <div class='space'></div>
