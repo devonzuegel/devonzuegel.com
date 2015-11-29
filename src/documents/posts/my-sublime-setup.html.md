@@ -59,51 +59,17 @@ Sublime User Preferences files are where you define your color scheme, theme, an
 
 <script src="https://gist.github.com/devonzuegel/814f072e819d83873932.js"></script>
 
-> {{ INSERT GIST HERE }}
-
 Sublime allows allows you to define language-specific user preferences. This particularly comes in handy for Markdown and plain-text editing, since they are so different from programming-centric uses of Sublime. For instance, I prefer not to have lines wrap around while I'm programming, but I can't live without it while working with real paragraphs rather than concise lines of code that are < 80 characters long. Also, I prefer my code-left-aligned, while I like having broad margins on either side of my text while writing.
 
 To access and edit language-specific preference files, go to **Sublime Text > Preferences > Package Settings > Markdown Editing > MultiMarkdown Settings –– User** (replacing "Markdown Editing" and "Multimarkdown Settings –– User" with the language with which you're working).
 
-> {{ INSERT GIST HERE }}
-
-```json
-{
-    "color_scheme": "Packages/User/Color Highlighter/themes/pisco-sour.tmTheme",
-    "draw_centered": true,
-    "extensions":
-    [
-        "mmd",
-        "md",
-        "md"
-    ],
-    "highlight_line": true,
-    "indentation": 4,
-    "line_numbers": true,
-    "line_padding_bottom": 5,
-    "line_padding_top": 5,
-    "mde.list_indent_auto_switch_bullet": true,
-    "mde.list_indent_bullets":
-    [
-        "*",
-        "-",
-        "+"
-    ],
-    "mde.match_header_hashes": true,
-    "rulers":
-    [
-    ],
-    "tab_size": 4,
-    "word_wrap": true,
-    "wrap_width": 92
-}
-```
+<script src="https://gist.github.com/devonzuegel/a5d84bef5bdfc03008b9.js"></script>
 
 ## Useful packages ##
 
 You can download a `.zip` of the packages mentioned below [here](../assets/my-sublime-setup/packages.zip)
 
-<video src='../assets/my-sublime-setup/alignment.mov' style='width: 200px; margin: 20px; float: right' autobuffer='autobuffer'></video>
+<video src='../assets/my-sublime-setup/alignment.mov' style='width: 200px; margin: 20px; float: right' autobuffer='autobuffer' autoplay></video>
 
 #### Alignment ####
 
@@ -196,3 +162,13 @@ These two packages enable you to quickly cycle through color schemes and themes 
   { "keys": ["ctrl+d"], "command": "tom_doc" },
 ]
 ```
+
+<style type="text/css">
+    .gist .highlight, .gist .highlight * {
+        font-family: "Inconsolata XL";
+        background-color: white !important;
+    }
+    table tr {
+        border: none !important;
+    }
+</style>
