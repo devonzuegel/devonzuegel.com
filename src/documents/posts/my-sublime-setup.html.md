@@ -1,5 +1,5 @@
 ---
-title: My text editor is absolutely sublime
+title: My Text Editor is Absolutely Sublime
 author: Devon Zuegel
 tags: ['sublime text', 'theme', 'text editing', 'programming', 'workflow optimization' ]
 collection: posts
@@ -8,13 +8,13 @@ img: https://d13yacurqjgara.cloudfront.net/users/13536/screenshots/1022371/subli
 workflow: true
 ---
 
-I am a huge fan of Sublime Text. It is beautiful and easy to use fresh out of the box, and it does everything I need it to do. However, my favorite characteristic of Sublime is that it is *extremely* extensible. I have (perhaps too obsessively) customized my editor so much to the point that many people don't recognize it as Sublime, and because I've been able to mold it behavior to fit my needs. I find that I'm much more productive on it than with any other editor, including others' versions of Sublime.
+I am a huge fan of [Sublime Text](http://www.sublimetext.com/). It is beautiful and easy to use fresh out of the box, and it does everything I need it to do. However, my favorite thing about Sublime is that it is *extremely* extensible. I have (perhaps too obsessively) customized my editor to the point that many people don't recognize it. Because I've been able to mold it behavior to fit my needs, I find that I'm much more productive on it than with any other editor, including others' Sublime instances.
 
 I love sharing little tips and tricks I've incorporated into my workflow, so I'm excited to write up this post surveying the key customizations I've made. I hope you enjoy reading it as much as I've enjoyed writing it.
 
-Better yet, I love learning new ways to better use Sublime! If there's anything here that I've missed, feel free to [email](mailto:devonz@cs.stanford.edu) or [tweet](http://twitter.com/devonzuegel) at me with your additions.
+Better yet, I love learning new ways to better use Sublime! If there's anything here that I've missed, **please [email](mailto:devonz@cs.stanford.edu) or [tweet](http://twitter.com/devonzuegel) at me with your additions**.
 
-## Useful Key Bindings ##
+## Useful key bindings ##
 
 | **Shortcut**                 | **Result**                                            |
 | --                           | --                                                    |
@@ -30,46 +30,15 @@ Better yet, I love learning new ways to better use Sublime! If there's anything 
 | `opt + drag cursor`          | Make multiple selections (alternate)                  |
 | `cmd + k + 1`                | Fold 1st layer of code (replace `1` with `2, 3, ...` to fold 2nd, 3rd, ... layers)                                                             |
 
-## My theme & color scheme ##
+## My custom key bindings ##
 
-A Sublime color scheme defines the syntax highlighting and canvas color of your editor, while a theme defines the styling of the sidebars, tabs, and find-and-replace menu.
-
-#### Pisco Sour color scheme ####
-
-- You can download my Pisco Sour color scheme [here]((../assets/my-sublime-setup/pisco-sour.tmTheme).
-- I created this theme with [tmTheme Editor](http://tmtheme-editor.herokuapp.com). Feel free to use or update my theme however you want.
-
-#### Spaceblack theme ####
-
-- You can download the Spaceblack theme [here]((../assets/my-sublime-setup/Spaceblack.sublime-theme).
-
-#### Screenshots ####
-
-Here are a few screenshots of my Sublime setup:
-
-| **Multimarkdown** | **Python**  |
-| :---:             | :---:       |
-| ![](../assets/my-sublime-setup/md-sample.png) | ![](../assets/my-sublime-setup/py-sample.png) |
-| **Ruby**          | **Haskell** |
-| ![](../assets/my-sublime-setup/rb-sample.png) | ![](../assets/my-sublime-setup/hs-sample.png) |
-
-## My User Preferences files ##
-
-Sublime User Preferences files are where you define your color scheme, theme, and a variety of other customizations like line padding, minimap toggling, and line highlighting. You can find your `/User/Preferences.sublime-settings` file by pressing `cmd + /` or by going up to the **Sublime Text > Preferences > Settings – User** menu. Here is my User Preferences file:
-
-<script src="https://gist.github.com/devonzuegel/814f072e819d83873932.js"></script>
-
-Sublime allows allows you to define language-specific user preferences. This particularly comes in handy for Markdown and plain-text editing, since they are so different from programming-centric uses of Sublime. For instance, I prefer not to have lines wrap around while I'm programming, but I can't live without it while working with real paragraphs rather than concise lines of code that are < 80 characters long. Also, I prefer my code-left-aligned, while I like having broad margins on either side of my text while writing.
-
-To access and edit language-specific preference files, go to **Sublime Text > Preferences > Package Settings > Markdown Editing > MultiMarkdown Settings –– User** (replacing "Markdown Editing" and "Multimarkdown Settings –– User" with the language with which you're working).
-
-<script src="https://gist.github.com/devonzuegel/a5d84bef5bdfc03008b9.js"></script>
+<script src="https://gist.github.com/devonzuegel/cfce33d637a06583cda7.js"></script>
 
 ## Useful packages ##
 
-You can download a `.zip` of the packages mentioned below [here](../assets/my-sublime-setup/packages.zip)
+*You can download a `.zip` containing all of the packages mentioned below [here](../assets/my-sublime-setup/packages.zip).*
 
-<video src='../assets/my-sublime-setup/alignment.mov' style='width: 200px; margin: 20px; float: right' autobuffer='autobuffer' autoplay></video>
+<video src='../assets/my-sublime-setup/alignment.mov' style='width: 200px; margin: 20px; float: right' autobuffer='autobuffer' autoplay loop></video>
 
 #### Alignment ####
 
@@ -132,43 +101,39 @@ Enables quick viewing and editing of all your packages. It's a bit shocking that
 
 These two packages enable you to quickly cycle through color schemes and themes (respectively) from any file rather than having to open your preferences file, manually update their file paths, switch back to your original open file to see the changes, and repeat each time you want to test out a new style. These packages aren't so critical for long-term use (I haven't changed my theme in months, and I don't plan on doing so in the near future), but they are really nice when you are first setting up your coding environment.
 
-## Custom key bindings ##
 
-```js
-// NOTE: `super` corresponds to `command`
-[
-  // Utils.
-    { "keys": ["super+shift+i"], "command": "reindent"},
-    { "keys": ["alt+up"], "command": "move_to", "args": {"to": "bol", "extend": false} },
-    { "keys": ["alt+down"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+## My theme & color scheme ##
 
-  // Evernote hotkeys.
-  { "keys": ["super+shift+o"], "command": "open_evernote_note" },
-  { "keys": ["ctrl+super+s"], "command": "save_evernote_note" },
-  { "keys": ["ctrl+super+n"], "command": "new_evernote_note" },
+A Sublime color scheme defines the syntax highlighting and canvas color of your editor, while a theme defines the styling of the sidebars, tabs, and find-and-replace menu.
 
-  // Open current file in Marked.
-  { "keys": ["super+shift+m"], "command": "marked" },
+#### Pisco Sour color scheme ####
 
-  // Copy path of current file.
-  { "keys": ["ctrl+alt+c"], "command": "copy_path" },
+- You can download my Pisco Sour color scheme [here]((../assets/my-sublime-setup/pisco-sour.tmTheme).
+- I created this theme with [tmTheme Editor](http://tmtheme-editor.herokuapp.com). Feel free to use or update my theme however you want.
 
-  // Origami panes.
-  { "keys": ["super+ctrl+n"], "command": "create_pane", "args": {"direction": "down"} },
-  { "keys": ["super+ctrl+shift+n"], "command": "create_pane", "args": {"direction": "right"} },
-  { "keys": ["super+ctrl+backspace"], "command": "destroy_pane", "args": {"direction": "self"} },
+#### Spaceblack theme ####
 
-  // Runs tom_doc for currenty ruby function
-  { "keys": ["ctrl+d"], "command": "tom_doc" },
-]
-```
+- You can download the Spaceblack theme [here]((../assets/my-sublime-setup/Spaceblack.sublime-theme).
 
-<style type="text/css">
-    .gist .highlight, .gist .highlight * {
-        font-family: "Inconsolata XL";
-        background-color: white !important;
-    }
-    table tr {
-        border: none !important;
-    }
-</style>
+#### Screenshots ####
+
+Here are a few screenshots of my Sublime setup:
+
+| **Multimarkdown** | **Python**  |
+| :---:             | :---:       |
+| ![](../assets/my-sublime-setup/md-sample.png) | ![](../assets/my-sublime-setup/py-sample.png) |
+| **Ruby**          | **Haskell** |
+| ![](../assets/my-sublime-setup/rb-sample.png) | ![](../assets/my-sublime-setup/hs-sample.png) |
+
+
+## My User Preferences files ##
+
+Sublime User Preferences files are where you define your color scheme, theme, and a variety of other customizations like line padding, minimap toggling, and line highlighting. You can find your `/User/Preferences.sublime-settings` file by pressing `cmd + /` or by going up to the **Sublime Text > Preferences > Settings – User** menu. Here is my User Preferences file:
+
+<script src="https://gist.github.com/devonzuegel/814f072e819d83873932.js"></script>
+
+Sublime allows allows you to define language-specific user preferences. This particularly comes in handy for Markdown and plain-text editing, since they are so different from programming-centric uses of Sublime. For instance, I prefer not to have lines wrap around while I'm programming, but I can't live without it while working with real paragraphs rather than concise lines of code that are < 80 characters long. Also, I prefer my code-left-aligned, while I like having broad margins on either side of my text while writing.
+
+To access and edit language-specific preference files, go to **Sublime Text > Preferences > Package Settings > Markdown Editing > MultiMarkdown Settings –– User** (replacing "Markdown Editing" and "Multimarkdown Settings –– User" with the language with which you're working).
+
+<script src="https://gist.github.com/devonzuegel/a5d84bef5bdfc03008b9.js"></script>
