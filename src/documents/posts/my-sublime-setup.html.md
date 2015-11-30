@@ -14,26 +14,6 @@ I love sharing little tips and tricks I've incorporated into my workflow, so I'm
 
 Better yet, I love learning new ways to better use Sublime! If there's anything here that I've missed, **please [email](mailto:devonz@cs.stanford.edu) or [tweet](http://twitter.com/devonzuegel) at me with your additions**.
 
-## Useful key bindings ##
-
-| **Shortcut**                 | **Result**                                            |
-| --                           | --                                                    |
-| select, `cmd + g`            | Selects all instances of the originally selected text |
-| select, `cmd + d`            | Similar to `cmd + g`, except it adds each following instance one at a time                                                                 |
-| `cmd + f`                    | search current document for string (or regex, if the `*` button to the left is toggled on)                                                      |
-| `cmd + shift + f`            | expanded find menu; find & replace; advanced search, enabling you to specify what folders / types of files you wish to search               |
-| `cmd + shift + i` | Auto indents code (works better for languages like C++ or Ruby, which have block endings defined more than just whitespace)                            |
-| `ctrl + cmd + up/down arrow` | Move current line(s) up/down                          |
-| `cmd + shift + d`            | Duplicate current line(s)                             |
-| `cmd + x`                    | Cut current line(s)                                   |
-| hold `cmd` while selecting   | Make multiple selections                              |
-| `opt + drag cursor`          | Make multiple selections (alternate)                  |
-| `cmd + k + 1`                | Fold 1st layer of code (replace `1` with `2, 3, ...` to fold 2nd, 3rd, ... layers)                                                             |
-
-## My custom key bindings ##
-
-<script src="https://gist.github.com/devonzuegel/cfce33d637a06583cda7.js"></script>
-
 ## Useful packages ##
 
 *You can download a `.zip` containing all of the packages mentioned below [here](../assets/my-sublime-setup/packages.zip).*
@@ -100,6 +80,28 @@ Enables quick viewing and editing of all your packages. It's a bit shocking that
 #### Schemr & Themr ####
 
 These two packages enable you to quickly cycle through color schemes and themes (respectively) from any file rather than having to open your preferences file, manually update their file paths, switch back to your original open file to see the changes, and repeat each time you want to test out a new style. These packages aren't so critical for long-term use (I haven't changed my theme in months, and I don't plan on doing so in the near future), but they are really nice when you are first setting up your coding environment.
+
+
+
+## Useful key bindings ##
+
+| **Shortcut**                 | **Result**                                            |
+| --                           | --                                                    |
+| select, `cmd + g`            | Selects all instances of the originally selected text |
+| select, `cmd + d`            | Similar to `cmd + g`, except it adds each following instance one at a time                                                                 |
+| `cmd + f`                    | search current document for string (or regex, if the `*` button to the left is toggled on)                                                      |
+| `cmd + shift + f`            | expanded find menu; find & replace; advanced search, enabling you to specify what folders / types of files you wish to search               |
+| `cmd + shift + i` | Auto indents code (works better for languages like C++ or Ruby, which have block endings defined more than just whitespace)                            |
+| `ctrl + cmd + up/down arrow` | Move current line(s) up/down                          |
+| `cmd + shift + d`            | Duplicate current line(s)                             |
+| `cmd + x`                    | Cut current line(s)                                   |
+| hold `cmd` while selecting   | Make multiple selections                              |
+| `opt + drag cursor`          | Make multiple selections (alternate)                  |
+| `cmd + k + 1`                | Fold 1st layer of code (replace `1` with `2, 3, ...` to fold 2nd, 3rd, ... layers)                                                             |
+
+## My custom key bindings ##
+
+<script src="https://gist.github.com/devonzuegel/cfce33d637a06583cda7.js"></script>
 
 
 ## My theme & color scheme ##
