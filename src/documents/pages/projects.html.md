@@ -80,7 +80,7 @@ You can find the open source code for the project on [Github](//github.com/devon
 ## Octagon ##
 ###### <div class='time'>Summer 2014</div><br> ######
 
-![right-sm](http://collectivehealth.com/wp-content/uploads/2014/08/formation-8-logo-700x192.png)
+![right-sm](http://michaelandassociate.com/fifteen/wp-content/uploads/2014/11/formation8.jpg)
 
 This past summer, I designed and built an app called Octagon, a tool for venture capital firms. Octagon helps VCs better manage relationships with portfolio companies by visualizing important metrics about company growth and providing a repository for financial documents and quarterly updates. It also facilitates interaction between investors and board members and the startups in their portfolios in an analogous manner to CRM software. Octagon is currently in beta testing at Formation|8.
 
@@ -108,7 +108,7 @@ The Paper Trail extension is currently under development. You can find an rough 
 ## In Other Words ##
 ###### <div class='time'>January - May 2011</div><br> ######
 
-![right-md](http://www.freestyle.mvla.net/~DevonZ/project3/images/photo1.JPG)
+![right-md](http://bookshow.blurb.com/bookshow/cache/P2866696/md/cover_2.jpeg)
 
 My brother Jeffrey was born with Cerebral Palsy and is on the autistic spectrum. Life with Jeffrey is challenging for both of us because he doesn’t always communicate effectively in the conventional way, in “English.” However, he has found alternative modes with the help of his team of teachers, therapists, family, and friends.
 
