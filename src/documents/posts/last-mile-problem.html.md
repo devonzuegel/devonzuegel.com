@@ -7,9 +7,6 @@ date_published: 2015-12-03
 img: http://www.transbuddha.com/wp-content/uploads/2014/04/20090209-20090207-nyc-00010.jpg
 ---
 
-![](http://www.transbuddha.com/wp-content/uploads/2014/04/20090209-20090207-nyc-00010.jpg)
-
-
 The **last mile problem** is the critical utilization barrier for many transit networks. It occurs when the origin or destination of a trip is difficult to access by a short walk. This bottleneck can outweigh the benefits of even the fastest, most comfortable transit systems. Travelers who lack access to (or knowledge of) solid options for getting to and from transit hubs will not even consider public transit as a viable option–– and rightly so. The choice between a transit journey requiring a long walk that might double the length of the trip to simply get to the station versus a convenient, single-mode trip in your car is a foregone conclusion. The vast majority of Americans, even the transit lovers amongst us, will opt for the car ride.
 
 <img src='http://4.bp.blogspot.com/-7gx12V89jYw/VFms_9Wo2II/AAAAAAAACgY/8Z2xznBBbdk/s1600/LMP.PNG' style='width: 60%; float: right; margin: 20px'/>
