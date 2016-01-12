@@ -4,6 +4,15 @@ tags: []
 collection: pages
 ---
 
+## Instanote ##
+###### <div class='time'>January 2016</div><br> ######
+
+About a month ago, I started using Instapaper obsessively. However, it left me with one major problem –– all of my Instapaper bookmarks and highlights were isolated from the knowledge that I (obsessively) store in Evernote, and I wanted to have them all in one place. After all, a [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base) is useless if it doesn't contain half of the things I read throughout the day.
+
+Instanote solves this problem by syncing the text of my archived Instapaper bookmarks with their respective highlights into Evernote every 10 minutes. I figured other people might have the same frustration with Instapaper, so I built out a little Heroku app that allows other people to sign up too rather than just hard-coding my login info into a hacky script.
+
+You can sign up at [instanote-archive.herokuapp.com](https://instanote-archive.herokuapp.com) and see the source code on [Github](https://github.com/devonzuegel/instanote-archive).
+
 ## Congressional Bill Outcome Predictor ##
 
 ###### <div class='time'>December 2015</div><br> ######
