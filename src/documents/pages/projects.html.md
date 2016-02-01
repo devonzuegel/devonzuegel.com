@@ -4,6 +4,13 @@ tags: []
 collection: pages
 ---
 
+## TiddlyLisp ##
+###### <div class='time'>January 2016</div><br> ######
+
+To learn the fundamentals of Lisp, I built a little interpreter based on Michael Nielsen's fantastic blog post [*Lisp as the Maxwell's Equations of Software*](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/). I included extensions to resolve some of the challenge problems he mentioned at the end of the post, too.
+
+You can find the code for the interpreter on [Github](//github.com/devonzuegel/tiddly-lisp).
+
 ## Instanote ##
 ###### <div class='time'>January 2016</div><br> ######
 
