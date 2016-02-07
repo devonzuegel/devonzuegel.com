@@ -1,0 +1,42 @@
+---
+title: My Text Editor is Absolutely Sublime
+author: Devon Zuegel
+tags: ['sublime text', 'theme', 'text editing', 'programming', 'workflow optimization' ]
+collection: posts
+date_published: 2015-11-28
+img: https://d13yacurqjgara.cloudfront.net/users/13536/screenshots/1022371/sublime-text_teaser.png
+workflow: true
+---
+
+.row
+  .col-sm-8
+    :markdown
+      I am a huge fan of [Sublime Text](http://www.sublimetext.com/). It is beautiful and easy to use fresh out of the box, and it does everything I need it to do. However, my favorite thing about Sublime is that it is *extremely* extensible. I have (perhaps too obsessively) customized my editor to the point that many people don't recognize it. Because I've been able to mold it behavior to fit my needs, I find that I'm much more productive on it than with any other editor, including others' Sublime instances.
+
+  .col-sm-4
+    h2(style='margin-top:15px') Navigation
+    ul.no-bullet.paragr-line-height
+      - var sections = {  'packages': 'Useful packages', 'key-bindings': 'Useful key bindings', 'custom-key-bindings': 'My custom key bindings', 'theme-and-scheme': 'My theme & color scheme', 'user-preferences': 'My User Preferences files' };
+      each title, name in sections
+        li: a(href="##{name}") #{title}
+
+include ./partials/my-sublime-setup/intro.html.md
+
+i I update this post sporadically as I learn new things about Sublime. Last time I updated it was <b>#{getLastModifiedDateSimple()}</b>.
+
+
+a(name='packages').anchor
+include ./partials/my-sublime-setup/packages.html.md
+
+a(name='key-bindings').anchor
+include ./partials/my-sublime-setup/key-bindings.html.md
+
+a(name='custom-key-bindings').anchor
+include ./partials/my-sublime-setup/custom-key-bindings.html.md
+
+a(name='theme-and-scheme').anchor
+include ./partials/my-sublime-setup/theme-and-scheme.html.md
+
+a(name='user-preferences').anchor
+include ./partials/my-sublime-setup/user-preferences.html.md
+

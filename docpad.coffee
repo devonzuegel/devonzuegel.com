@@ -89,6 +89,8 @@ docpadConfig = {
 
 		getLastModifiedDate: -> return moment(@document.date).format('DD MMMM YYYY [at] hh:mm a')
 
+		getLastModifiedDateSimple: -> return moment(@document.date).format('DD MMMM YYYY')
+
   # ===========
   # Collections
 
