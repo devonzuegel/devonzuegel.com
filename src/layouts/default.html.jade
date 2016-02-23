@@ -49,22 +49,28 @@ body
               a(href=c.url) #{c.address}
 
         .row.headlines
-          h5 Writing
+          h5 Programming Music
+          .space.triple
+          iframe( src='https://embed.spotify.com/?uri=spotify%3Auser%3A123589098%3Aplaylist%3A4qo0rRTKF8bFogGPWc7eJ3&theme=white'
+                  width='300' height='380' frameborder='0' allowtransparency='true')
+          .space.triple
+
+        .row.headlines
+          h5 Top posts
           ul.normal-line-height
             each p in getCollection('posts').toJSON()
               if (p.highlight)
                 .headline: a(href=p.url).title #{p.title}
 
         .row.headlines
-          h5 Twitter
+          h5 Tweet tweet
           .space.triple
           ul.normal-line-height
             a(class='twitter-timeline' href='https://twitter.com/devonzuegel'
               data-widget-id='701927500104933376'
               data-chrome='noheader noborders nofooter' style='margin:auto')
               | Tweets by @devonzuegel
-          script.
-            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+          script !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 
     #footer.col-lg-12
       h4 Last modified on #{getLastModifiedDate()}
