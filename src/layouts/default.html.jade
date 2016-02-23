@@ -30,17 +30,18 @@ body
               a(href=p.url)
                 | #{p.title}
           li: a(href='/assets/Devon_Zuegel--Resume.pdf') Resume
+
   #wrapper
 
     #content
-      .col-md-9
+      .col-md-8
         #main-content!= content
         br
 
-      .col-md-3: #side-bar
+      .col-md-4: #side-bar
 
         .row.contact
-          .circle
+          .circle.large
             img(src='../assets/hackers_of_sv-thumb.jpg')
           .contact-info
             each c in resume.contact.social
@@ -53,6 +54,17 @@ body
             each p in getCollection('posts').toJSON()
               if (p.highlight)
                 .headline: a(href=p.url).title #{p.title}
+
+        .row.headlines
+          h5 Twitter
+          .space.triple
+          ul.normal-line-height
+            a(class='twitter-timeline' href='https://twitter.com/devonzuegel'
+              data-widget-id='701927500104933376'
+              data-chrome='noheader noborders nofooter' style='margin:auto')
+              | Tweets by @devonzuegel
+          script.
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 
     #footer.col-lg-12
       h4 Last modified on #{getLastModifiedDate()}

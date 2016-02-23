@@ -4,7 +4,15 @@ author: Devon Zuegel
 tags: ["media", "history", "communication", "message", "information"]
 collection: posts
 date_published: 2016-02-06
+inprogress: true
 img: https://marksayers.files.wordpress.com/2011/05/78214-050-2458b88f.jpg
+---
+
+there are a lot of ideas and historical references packed in a small amount of space and it is kinda hard to read imo
+example: "Time was synchronized with railroad schedules, financial markets were coordinated with telegraph lines, and the most powerful ideas of the era were characterized by their ability to create a shared experience amongst individuals previously separated by geography."
+the passive voice makes the complexity even harder to follow
+Say your thesis up front!
+
 ---
 
 The history of communication has been a pendulum, swinging between consolidated communalism and fragmented individualization and back again. The introduction of new media technologies is the core of these trends. In changing the way we relate to knowledge and to each other, they [fundamentally alter sense ratios and patterns of perception beyond the object-level content of ideas](http://www.philosophicalsociety.com/Archives/McLuhan's%20Insight%20Into%20The%20Media.htm).
