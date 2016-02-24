@@ -4,10 +4,9 @@ tags: ['intro','page', 'posts']
 collection: pages
 ---
 
-.space
-.space
-	
+.space.double
+
 .row
 
-	each p in getCollection('posts').toJSON()
+	each p in getCollection('published_posts').toJSON()
 		include ../../partials/_headline

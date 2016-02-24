@@ -95,11 +95,16 @@ docpadConfig = {
   # Collections
 
 	collections:
-	    posts: (database) ->
-	      database.findAllLive({ collection: 'posts', inprogress: $exists: false }, [date_published: -1]).on 'add', (model) ->
+	    posts: (db) ->
+	      db.findAllLive({ collection: 'posts' }, [date_published: -1]).on 'add', (model) ->
 	      	model.setMetaDefaults({ layout: 'post' })
-	    pages: (database) ->
-	      database.findAllLive({ collection: 'pages' }, [pageOrder:1,title:1]).on "add", (model) ->
+
+	    published_posts: (db) ->
+	      db.findAllLive({ collection: 'posts', inprogress: $exists: false }, [date_published: -1]).on 'add', (model) ->
+	      	model.setMetaDefaults({ layout: 'post' })
+
+	    pages: (db) ->
+	      db.findAllLive({ collection: 'pages' }, [pageOrder:1,title:1]).on "add", (model) ->
 	      	model.setMetaDefaults({ layout: 'page' })
 
 

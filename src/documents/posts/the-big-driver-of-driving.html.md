@@ -2,8 +2,9 @@
 title: The Drivers of Driving
 author: Devon Zuegel
 tags: ["transit", "public transit", "suburbs", "cities", "cars", "automobiles"]
-<!-- collection: posts -->
+collection: posts
 date_published: ??????????
+inprogress: true
 img: http://www.paneuropeannetworks.com/wp-content/uploads/2015/08/Highway-c-Brigitte-Werner-424x228.jpg
 ---
 
