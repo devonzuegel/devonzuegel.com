@@ -5,12 +5,13 @@ tags: []
 highlight: true
 collection: posts
 date_published: 2015-09-24
-img: 'https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205b832ad25180f7.jpg'
+img: '../assets/headline-images/workflow-optimizations-customizations.jpg'
+//- img: 'https://s-media-cache-ak0.pinimg.com/originals/e6/7d/6f/e67d6f8cb1fc7e07205b832ad25180f7.jpg'
 ---
 
 include ./partials/_workflow-intro.html.md
 
-each p in getCollection('posts').findAll({workflow: true}).toJSON()
+each p in getCollection('posts').findAll({ workflow: true }).toJSON()
   include ../../partials/_headline
 
 include ./partials/_workflow-tools-i-recommend.html.md

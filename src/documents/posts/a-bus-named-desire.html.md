@@ -4,7 +4,8 @@ author: Devon Zuegel
 tags: ["transit", "public transit", "buses", "streetcars"]
 collection: posts
 date_published: 2015-11-27
-img: http://i.imgur.com/B0WjzI5.jpg
+img: ../assets/headline-images/public-bus-named-desire.jpg
+<!-- img: http://i.imgur.com/B0WjzI5.jpg -->
 ---
 
 When I first stumbled across the streetcar vs bus rapid transit (BRT) debate, I was strongly biased towards streetcars. My opinion was largely shaped by the few weeks I spent in Berlin this past summer. While I was in Germany, I relied most heavily on Berlin's friendly yellow Metrotrams. I really only used the U-bahn and S-bahn when I had to make long, cross-city trips, where the travel time difference was more than 10 or 15 minutes. I used the bus system only once, despite the fact that it was just as extensive as the Metrotram lines.

@@ -40,4 +40,4 @@ Given a two-dimensional array, `print_table` pretty prints a table that looks a 
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) enables syntax highlighting and collapsible trees with indent guides when working with raw JSON in your browser. One of my favorite features is that holding down `cmd` while collapsing a subtree collapses all of its siblings, too.
 
   <div class='space'></div>
-  ![](https://lh6.googleusercontent.com/68vofGty-EmFi1WHH-y0IbwRXeJpKTg3eTZOjZQoZAhJ6vuY7cL0G6yJ0CsE5sooUtJkSbqwUbI=s1280-h800-e365-rw)
+  ![](../../assets/workflow-optimizations-customizations/json-formatter-example.webp)

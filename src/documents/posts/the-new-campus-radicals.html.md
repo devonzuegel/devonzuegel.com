@@ -5,10 +5,11 @@ author: 'Devon Zuegel'
 tags: ['intro','post', 'stanford', 'the stanford review']
 collection: posts
 date_published: 2014-06-02
-img: '//lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw'
+img: ../assets/headline-images/new-campus-radicals.png
+<!-- img: //lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw -->
 ---
 
-![](//lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw)
+<img src='../assets/headline-images/new-campus-radicals.png' style='width:100%'/>
 
 Stanford students constantly break rules. We all have a friend who dropped out to start a company, and half of the band’s Wikipedia page is devoted to its famous irreverence. The website for admitted students explains that “in this community of diverse perspectives, ideas are the common currency”. To an outsider, Stanford is a hub of innovation and openness, constantly challenging the status quo.
 

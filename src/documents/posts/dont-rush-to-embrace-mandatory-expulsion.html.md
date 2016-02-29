@@ -5,10 +5,11 @@ author: "Brandon Camhi & Devon Zuegel"
 tags: ["stanford", "rape", "arp", "sexual assault", "policy", "justice"]
 collection: posts
 date_published: 2014-06-05
-img: "//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg"
+img: "../assets/headline-images/mandatory-expulsion.jpg"
+<!-- img: "//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg" -->
 ---
 
-![](//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg)
+![](../assets/headline-images/mandatory-expulsion.jpg)
 
 On Thursday June 5th, hundreds of students gathered in White Plaza to protest Stanford’s sexual assault response policies. The rally was spawned by an email from Leah Francis (Class ’14) that detailed her experience navigating Stanford’s Alternate Review Process (ARP). Francis called for “mandatory expulsion for individuals found guilty of sexual assault.” Francis’ experience is heartbreaking and unsettling. Rapists should be punished severely, and expulsion should definitely be seriously considered. However, for mandatory expulsion to be implemented, the ARP must be reformed to better protect the rights of the accused. In its current form, the ARP does not adequately ensure that defendants receive a fair hearing.
 

@@ -4,7 +4,8 @@ author: 'Devon Zuegel'
 tags: ['transit', 'BRT']
 collection: posts
 date_published: 2015-10-22
-img: http://www.mappery.com/maps/Berlin-Rapid-Transit-Map.mediumthumb.gif
+img: ../assets/headline-images/Berlin-Rapid-Transit-Map.gif
+<!-- img: http://www.mappery.com/maps/Berlin-Rapid-Transit-Map.mediumthumb.gif -->
 highlight: true
 ---
 

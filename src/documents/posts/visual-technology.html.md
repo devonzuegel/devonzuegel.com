@@ -4,15 +4,19 @@ author: Devon Zuegel
 tags: ["media", "communication", "message", "information", "technology", "space"]
 collection: posts
 date_published: 2016-02-25
-inprogress: true
-img: http://economictimes.indiatimes.com/thumb/msid-47130352,width-640,resizemode-4/horsehead-nebula.jpg
+img: ../assets/headline-images/horsehead-nebula.jpg
+<!-- img: http://economictimes.indiatimes.com/thumb/msid-47130352,width-640,resizemode-4/horsehead-nebula.jpg -->
 ---
 
 Technology enables us to see the world in ways inaccessible to our natural senses. In opening these new worlds to us, it encourages introspection and discovery, inflates our cosmic egos, and then puts us back in our place.
 
+<img src='https://media.giphy.com/media/DuF06NRYdMZ68/giphy.gif' style='float:right; width:350px; margin: 0 20px 10px 20px'/>
+<!-- <img src='http://theblankbook.com.au/wp-content/uploads/2014/04/monkey_mirror.jpg' style='float:right; width:350px; margin: 20px'/> -->
+<img src='http://vignette4.wikia.nocookie.net/list/images/2/23/Arnolfini.jpg/revision/latest?cb=20120522172314' style='float:right; width:350px; margin: 0 20px 20px 20px'/>
+
 #### Discovery of perspective ####
 
-Visual technology plays a key role in human cognition and our sense of self. One primitive example is the mirror, which literally enables self reflection. <img src='http://vignette4.wikia.nocookie.net/list/images/2/23/Arnolfini.jpg/revision/latest?cb=20120522172314' style='float:right; width:400px; margin: 20px'/> Mirrors are so deeply ingrained in our conscious that they are part of its definition. The mirror test –– the ability to recognize one's own reflection –– is a common method for determining whether an animal possesses self awareness, cognition, and social identity.
+Visual technology plays a key role in human cognition and our sense of self. One primitive example is the mirror, which literally enables self reflection. Mirrors are so deeply ingrained in our conscious that they are part of its definition. The mirror test –– the ability to recognize one's own reflection –– is a common method for determining whether an animal possesses self awareness, cognition, and social identity.
 
 The mirror is a simple reminder that our understanding of reality is incomplete and subjective. This simple device trains us to step outside of our usual place to see ourselves from a different perspective. Lewis Mumford argued that the introduction of high quality mirrors played a major role in the rise of self-examining work in the Renaissance. He credited newly-enabled "mirror conversations" for Rembrandt's self portraits, the expanding genres of confessional novels and autobiographical writing, and a general preoccupation with one's image.
 
@@ -27,7 +31,7 @@ Inspired by Brunelleschi's mirror, Alberti further embraced the rules of geometr
 It also played a key role in the then-emerging modern science. For hundreds of years, medieval astronomers had been puzzled by the light and dark patches on the moon, unable to even identify them as topography. Just a generation later, Galileo used the rules of perspective to accurately estimate the depth of these mountains and craters.
 
 
-<img src='http://phototechmag.com/wp-content/uploads/2012/09/edmuy.jpg' style='float:right; width:350px; margin: 20px'/>
+<img src='http://phototechmag.com/wp-content/uploads/2012/09/edmuy.jpg' style='float:right; width:350px; margin: 0 20px 20px 20px'/>
 
 #### Creation and a god complex ####
 
@@ -37,20 +41,20 @@ In the late 1800s, Eadweard Muybridge's stop-motion photographs famously answere
 
 However, photography is not simply another iteration in our understanding of reality. It is a superpower that allows us to control time. Cameras gave us the power to capture a moment –– to freeze it, share it, and study it at will. Further advancements brought us the time lapse, slow motion video, and long exposure photography, allowing us to capture the world on timescales inaccessible to our natural senses.
 
-<div>
 <!-- <img src='http://a1.files.blazepress.com/image/upload/MTI4OTkyNzU2NjcxNDg2NDMw.gif' style='width: 24%'/> -->
-<img src='http://zippy.gfycat.com/SlowWhimsicalAnkolewatusi.gif' style='width: 48%'/>
 <!-- <img src='http://1.bp.blogspot.com/-_Cs5fqZNwdw/UdY2_rQcpbI/AAAAAAAAQ9o/WXomWUIxQ3c/s480/smg.gi' style='width: 24%'/> -->
-<img src='https://img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr02/10/12/anigif_enhanced-buzz-11094-1397145798-14.gif' style='width: 49%'/>
+<div>
+<img src='http://zippy.gfycat.com/SlowWhimsicalAnkolewatusi.gif' style='width: 48%'/>
+<img src='https://img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr02/10/12/anigif_enhanced-buzz-11094-1397145798-14.gif' style='width: 48.5%'/>
+<img src='../assets/dan-luvisi-world.jpg' style='width: 97%; margin-top: 3px; margin-bottom: 10px'/>
 </div>
-
-<img src='http://static1.fjcdn.com/comments/4322727+_4f39639cbf0918000f606fa6b4f8e2cf.jpg' style='width: 97.5%'/>
 
 <!-- 
 > Although the camera is an observation station, the act of photographing is more than passive observing.
 > –– Susan Sontag, *On Photography* -->
 
 <!-- <img src='http://i.telegraph.co.uk/multimedia/archive/02255/KeiraBeforeAfter_2255454b.jpg' style='float:right; width:400px; margin: 20px'/> -->
+
 
 The camera is not the only technology that has extended art beyond representations of the existing world. Photoshop allows us to modify the world around us or create entirely new worlds from scratch. Artists like Dan Luvisi create entire photorealistic worlds that otherwise couldn't exist. These tools enable us to mold worlds according to our fantasies, allowing us to play god.
 

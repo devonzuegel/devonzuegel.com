@@ -4,7 +4,8 @@ author: "Devon Zuegel"
 tags: ["mac", "fonts", "batch", "install", "command line"]
 collection: posts
 date_published: 2015-02-02
-img: http://i.stack.imgur.com/o76m6.png
+img: ../assets/headline-images/batch-installing-fonts.png
+<!-- img: http://i.stack.imgur.com/o76m6.png -->
 workflow: true
 ---
 

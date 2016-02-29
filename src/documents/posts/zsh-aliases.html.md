@@ -4,11 +4,12 @@ author: "Devon Zuegel"
 tags: []
 collection: posts
 date_published: 2015-03-18
-img: http://wallpoper.com/images/00/44/69/33/whelk-shell-3_00446933.jpg
+img: ../assets/headline-images/zsh-shell.jpg
+<!-- img: http://wallpoper.com/images/00/44/69/33/whelk-shell-3_00446933.jpg -->
 workflow: true
 ---
 
-<img src='../assets/l-alias.png' width='250px' style='margin:0 0 15px 15px; float:right'>
+<img src='../assets/zsh-aliases/l-alias.png' width='250px' style='margin:0 0 15px 15px; float:right'>
 
 Aliases are one of my favorite terminal customizations. They make the most frequently-used commands shorter and allow improvements on the standard ones, enabling you to tailor programming in the terminal to your individual needs and preferences. These aliases are stored in `~/.zshrc`.
 
@@ -30,7 +31,7 @@ alias l='ls -GF -lt | awk '\''{
 }'\'' | tail +2'  # Remove first line from output (formerly "total")
 ```
 
-<img src='../assets/lg-alias.png' width='240px' style='margin:5px 0 15px 15px; float:right'>
+<img src='../assets/zsh-aliases/lg-alias.png' width='240px' style='margin:5px 0 15px 15px; float:right'>
 
 When looking to filter through filenames quickly, I use `lg #{regex}`, which pipes the result of `l` to a case-insensitive `grep` command.
 

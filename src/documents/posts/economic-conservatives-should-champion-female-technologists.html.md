@@ -5,14 +5,15 @@ author: "Devon Zuegel, Joe Lonsdale"
 tags: ["women", "technology"]
 collection: posts
 date_published: 2014-10-18
-img: "//stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png"
+img: "../assets/headline-images/female-tech.png"
+<!-- img: "//stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png" -->
 ---
 
 As a student in the 90s, Marissa Mayer was <a href="http://www.businessinsider.com/marissa-mayer-called-a-stanford-campus-icon-for-being-a-blonde-in-computer-science-classes-2013-9">dubbed a campus icon</a> in a <i>Stanford Daily</i> column about distinctive individuals on campus. The article referred to her as “the blonde woman in the upper-division computer science classes” without a single mention of her name, yet those terse descriptors were more than enough to identify the now-CEO of Yahoo, as she was one of the small handful of women in the department at the time.
 
 When Mayer graduated in 1999, a mere 10 percent of Stanford bachelor’s degrees in computer science were awarded to women. Though the number of female CS majors at Stanford has since doubled to over 20 percent, <a href="http://www.iseek.org/careers/womenstem.html">men continue to far outnumber women</a> in most science, technology, engineering, and math (STEM) disciplines on college campuses and in industry nationwide.
 
-<b><a href="http://stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png"><img class="alignright wp-image-86855 size-full" style="margin: 15px" src="http://stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png" alt="Graphics by New York Times" width="340" /></a></b>
+<b><a href="../assets/headline-images/female-tech.png"><img class="alignright wp-image-86855 size-full" style="margin: 15px" src="http://stanfordreview.org/wp-content/uploads/economix-15womenstem-blog480.png" alt="Graphics by New York Times" width="340" /></a></b>
 
 Expanding women’s participation in technology is deeply tied to the social and economic future of our country. In the face of a widening gender gap and surging demand for talented technologists, the tech community has thankfully begun to make this issue a priority. Organizations ranging from private companies to university CS departments and non-profit groups have begun to tackle this issue through a variety of initiatives.
 
