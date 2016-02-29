@@ -27,7 +27,7 @@ Inspired by Brunelleschi's mirror, Alberti further embraced the rules of geometr
 It also played a key role in the then-emerging modern science. For hundreds of years, medieval astronomers had been puzzled by the light and dark patches on the moon, unable to even identify them as topography. Just a generation later, Galileo used the rules of perspective to accurately estimate the depth of these mountains and craters.
 
 
-<img src='http://phototechmag.com/wp-content/uploads/2012/09/edmuy.jpg' style='float:right; width:400px; margin: 20px'/>
+<img src='http://phototechmag.com/wp-content/uploads/2012/09/edmuy.jpg' style='float:right; width:350px; margin: 20px'/>
 
 #### Creation and a god complex ####
 
@@ -38,11 +38,13 @@ In the late 1800s, Eadweard Muybridge's stop-motion photographs famously answere
 However, photography is not simply another iteration in our understanding of reality. It is a superpower that allows us to control time. Cameras gave us the power to capture a moment –– to freeze it, share it, and study it at will. Further advancements brought us the time lapse, slow motion video, and long exposure photography, allowing us to capture the world on timescales inaccessible to our natural senses.
 
 <div>
-<img src='http://a1.files.blazepress.com/image/upload/MTI4OTkyNzU2NjcxNDg2NDMw.gif' style='width: 24%'/>
-<img src='http://zippy.gfycat.com/SlowWhimsicalAnkolewatusi.gif' style='width: 24%'/>
-<img src='http://1.bp.blogspot.com/-_Cs5fqZNwdw/UdY2_rQcpbI/AAAAAAAAQ9o/WXomWUIxQ3c/s480/smg.gi' style='width: 24%'/>
-<img src='https://img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr02/10/12/anigif_enhanced-buzz-11094-1397145798-14.gif' style='width: 24%'/>
+<!-- <img src='http://a1.files.blazepress.com/image/upload/MTI4OTkyNzU2NjcxNDg2NDMw.gif' style='width: 24%'/> -->
+<img src='http://zippy.gfycat.com/SlowWhimsicalAnkolewatusi.gif' style='width: 48%'/>
+<!-- <img src='http://1.bp.blogspot.com/-_Cs5fqZNwdw/UdY2_rQcpbI/AAAAAAAAQ9o/WXomWUIxQ3c/s480/smg.gi' style='width: 24%'/> -->
+<img src='https://img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr02/10/12/anigif_enhanced-buzz-11094-1397145798-14.gif' style='width: 49%'/>
 </div>
+
+<img src='http://static1.fjcdn.com/comments/4322727+_4f39639cbf0918000f606fa6b4f8e2cf.jpg' style='width: 97.5%'/>
 
 <!-- 
 > Although the camera is an observation station, the act of photographing is more than passive observing.
@@ -52,18 +54,8 @@ However, photography is not simply another iteration in our understanding of rea
 
 The camera is not the only technology that has extended art beyond representations of the existing world. Photoshop allows us to modify the world around us or create entirely new worlds from scratch. Artists like Dan Luvisi create entire photorealistic worlds that otherwise couldn't exist. These tools enable us to mold worlds according to our fantasies, allowing us to play god.
 
-<div class='col-sm-5 pull-right' style='margin: 20px'>    
-    <img src='http://static1.fjcdn.com/comments/4322727+_4f39639cbf0918000f606fa6b4f8e2cf.jpg' style='width:100%'/>
-    <img src='http://mapdesign.icaci.org/wp-content/uploads/2014/03/MapCarte79_vignelli_detail.png' style='width:100%; margin-top: 20px'/>
-</div>
-
-
-Maps are yet another way to warp spacetime. When wandering down a real life road, the earlier part of your journey physically stretches out behind you in time and space, while the path to come lies ahead. In contrast, the abstraction of a map allows you to hold all of that information in your mind at once. It makes the past, present, and future to melt into one. 
-
-
-Maps are not only a compression of reality but also often a distortion of it. Map designers frequently take geographical liberties, sacrificing accuracy for the sake of other goals. For example, Massimo Vignelli's map of New York City's subway system was famously inaccurate by design, instead surrendering to the beautiful aesthetics of smooth, colorful, and neatly labeled lines.
-
 As we live more of our lives online and through abstract representations, the illusions we create become all the more important. Visual media are no longer just representations of some outer world; increasingly, they *are* our entire world. And as its creators, we have developed a growing sense of self-importance and invincibility. Technology offers the tools to both understand and engineer reality, and over time that has fueled a god complex within humans. It is a major feature of modern, post-Enlightenment thought that progress is inevitable. Science historian George Sarton argued in 1936 that "the acquisition and systematization of positive knowledge is ... cumulative", and as a result human knowledge can only expand to infinity.
+
 
 <div class='col-sm-5 pull-right' style='margin: 20px'>    
     <img src='http://www.kheper.net/topics/planes/HubbleDeepFieldSouth.jpg' style='width: 100%' />
