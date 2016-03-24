@@ -5,9 +5,9 @@ tags: ["pdf", "automator", "workflow"]
 collection: posts
 date_published: 2015-03-20
 img: ../assets/headline-images/Automator_icon.png
-<!-- img: http://green-romp.com/blog/wp-content/uploads/2013/08/Automator_icon.png -->
 workflow: true
 ---
+<!-- img: http://green-romp.com/blog/wp-content/uploads/2013/08/Automator_icon.png -->
 
 <img src='../assets/automator-pdf/combine-pdfs.png' width='350px' style='float:right'>
 

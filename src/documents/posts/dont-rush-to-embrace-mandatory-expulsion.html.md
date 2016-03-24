@@ -6,8 +6,9 @@ tags: ["stanford", "rape", "arp", "sexual assault", "policy", "justice"]
 collection: posts
 date_published: 2014-06-05
 img: "../assets/headline-images/mandatory-expulsion.jpg"
-<!-- img: "//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg" -->
 ---
+
+<!-- img: "//www.slate.com/content/dam/slate/articles/double_x/doublex/2014/06/140606_DX_StanfordIX.jpg.CROP.promo-mediumlarge.jpg" -->
 
 ![](../assets/headline-images/mandatory-expulsion.jpg)
 

@@ -7,8 +7,8 @@ workflow: true
 collection: posts
 date_published: 2015-08-04
 img: ../assets/headline-images/pomodoro.jpg
-<!-- img: http://pomodororossonyc.com/wp-content/uploads/2014/06/photodune-680322-tomato-xs.jpg -->
 ---
+<!-- img: http://pomodororossonyc.com/wp-content/uploads/2014/06/photodune-680322-tomato-xs.jpg -->
 
 I love the feeling of flow, when I settle into my work and make steady, ruthless progress without distraction. Unfortunately, getting myself into this state is difficult. It usually happens when I am wearing my noise-cancelling headphones and I am at just at that point where my work is challenging but manageable and my mind is fully engaged but not overwhelmed. It also helps to have a bit of time pressure or a due date on the horizon.
 ![right-sm](//upload.wikimedia.org/wikipedia/commons/3/34/Il_pomodoro.jpg)

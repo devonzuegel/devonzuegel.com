@@ -5,9 +5,9 @@ tags: []
 collection: posts
 date_published: 2015-03-18
 img: ../assets/headline-images/zsh-shell.jpg
-<!-- img: http://wallpoper.com/images/00/44/69/33/whelk-shell-3_00446933.jpg -->
 workflow: true
 ---
+<!-- img: http://wallpoper.com/images/00/44/69/33/whelk-shell-3_00446933.jpg -->
 
 <img src='../assets/zsh-aliases/l-alias.png' width='250px' style='margin:0 0 15px 15px; float:right'>
 

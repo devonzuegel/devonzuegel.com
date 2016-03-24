@@ -5,9 +5,9 @@ tags: ['transit', 'BRT']
 collection: posts
 date_published: 2015-10-22
 img: ../assets/headline-images/Berlin-Rapid-Transit-Map.gif
-<!-- img: http://www.mappery.com/maps/Berlin-Rapid-Transit-Map.mediumthumb.gif -->
 highlight: true
 ---
+<!-- img: http://www.mappery.com/maps/Berlin-Rapid-Transit-Map.mediumthumb.gif -->
 
 It's a controversial question whether streetcar (also known as trams, trolleys) or bus rapid transit systems (BRT) are a better investment to solve cities' challenge of offering short-distance transit options. The two offer similar stop spacing, and both share the road with cars. However, they differ greatly in their cost structure, flexibility, and public image.
 

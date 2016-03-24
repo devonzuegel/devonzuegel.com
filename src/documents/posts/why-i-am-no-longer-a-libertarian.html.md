@@ -5,8 +5,8 @@ tags: ['libertarian', 'politics']
 collection: posts
 date_published: 2015-02-15
 img: ../assets/headline-images/no-longer-libertarian.jpg
-<!-- img: 'http://i.imgur.com/daE3UgZ.jpg' -->
 ---
+<!-- img: 'http://i.imgur.com/daE3UgZ.jpg' -->
 
 I no longer identify as a libertarian. Sure, I still believe that drug use and consensual prostitution ought to be legal, that expanded gun ownership for self defense would make our country safer, and that many forms of regulation stifle innovation.
 

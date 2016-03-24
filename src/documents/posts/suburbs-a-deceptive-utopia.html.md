@@ -5,8 +5,8 @@ tags: ["transit", "public transit", "buses", "streetcars", "suburbs", "cities"]
 collection: posts
 date_published: 2015-11-03
 img: ../assets/headline-images/suburbs.jpg
-<!-- img: http://graphics8.nytimes.com/images/2013/04/07/sunday-review/07DIVIDE/07DIVIDE-tmagArticle.jpg -->
 ---
+<!-- img: http://graphics8.nytimes.com/images/2013/04/07/sunday-review/07DIVIDE/07DIVIDE-tmagArticle.jpg -->
 
 **Suburbanization appears utopian at first glance, and that is why it is so dangerous**. All things equal, most people opt for more space and separation from their neighbors. An expansive, emerald green yard is a badge of status, and many parents prefer raising children in the controlled, predictable suburban environment. Property prices decline as you move further from city centers; for most families, more space in suburbia for the same price as a tiny city apartment seems like a no-brainer.
 

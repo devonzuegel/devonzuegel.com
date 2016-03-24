@@ -5,8 +5,8 @@ tags: ["media", "communication", "message", "information", "technology", "space"
 collection: posts
 date_published: 2016-02-25
 img: ../assets/headline-images/horsehead-nebula.jpg
-<!-- img: http://economictimes.indiatimes.com/thumb/msid-47130352,width-640,resizemode-4/horsehead-nebula.jpg -->
 ---
+<!-- img: http://economictimes.indiatimes.com/thumb/msid-47130352,width-640,resizemode-4/horsehead-nebula.jpg -->
 
 Technology enables us to see the world in ways inaccessible to our natural senses. In opening these new worlds to us, it encourages introspection and discovery, inflates our cosmic egos, and then puts us back in our place.
 

@@ -6,8 +6,8 @@ tags: ['intro','post', 'stanford', 'the stanford review']
 collection: posts
 date_published: 2014-06-02
 img: ../assets/headline-images/new-campus-radicals.png
-<!-- img: //lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw -->
 ---
+<!-- img: //lh5.googleusercontent.com/6eD-Z_roFJYhFrboXuXVy4Tptgn-RLajsc-kBYEFPqMwSGyHIdVtsa-G91-W6wNZQlQaLvslNQNixMEaAMPBfT2UOfDwyTzy-w6rP7xj1Fpe-tMN3cRN4tigiXdbsPl5Pw -->
 
 <img src='../assets/headline-images/new-campus-radicals.png' style='width:100%'/>
 
