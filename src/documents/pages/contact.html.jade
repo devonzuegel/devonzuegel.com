@@ -1,0 +1,28 @@
+---
+title: 'Contact'
+tags: []
+collection: pages
+---
+
+.row.contact
+  //- .circle.large: img(src='../assets/hackers_of_sv-thumb.jpg')
+  .contact-info
+    each c in resume.contact.social
+      h4 #{c.title}
+      a(href=c.url) #{c.address}
+
+    h4 Spotify
+    .space.triple
+    iframe( src='https://embed.spotify.com/?uri=spotify%3Auser%3A123589098%3Aplaylist%3A4qo0rRTKF8bFogGPWc7eJ3&theme=white'
+            width='300' height='380' frameborder='0' allowtransparency='true')
+    .space.triple
+
+//- .row.headlines
+//-   h5 Tweet tweet
+//-   .space.triple
+//-   ul.normal-line-height
+//-     a(class='twitter-timeline' href='https://twitter.com/devonzuegel'
+//-       data-widget-id='701927500104933376'
+//-       data-chrome='noheader noborders nofooter' style='margin:auto')
+//-       | Tweets by @devonzuegel
+//-   script !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

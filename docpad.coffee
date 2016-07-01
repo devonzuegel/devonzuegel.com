@@ -100,7 +100,7 @@ docpadConfig = {
 	      	model.setMetaDefaults({ layout: 'post' })
 
 	    pages: (db) ->
-	      db.findAllLive({ collection: 'pages' }, [pageOrder:1,title:1]).on "add", (model) ->
+	      db.findAllLive({ collection: 'pages' }, [ title: -1 ]).on "add", (model) ->
 	      	model.setMetaDefaults({ layout: 'page' })
 
 

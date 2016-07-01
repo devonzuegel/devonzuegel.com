@@ -2,6 +2,7 @@
 title: 'Projects'
 tags: []
 collection: pages
+featured: true
 ---
 
 #### TiddlyLisp ####

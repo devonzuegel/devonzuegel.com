@@ -1,8 +1,8 @@
 ---
 title: 'Links'
 tags: ['interesting']
-collection: pages
 ---
+<!-- collection: pages -->
 
 This is where I collect some of the ideas, historical facts, anecdotes, etc. that I would like more people to know about or just plain don't want to forget. I update it sporadically, and the process is not systematic in any way.
 
