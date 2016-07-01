@@ -11,7 +11,6 @@ body
             each p in getCollection('pages').toJSON()
               .simple-nav(class=(document.url === p.url) ? 'active' : null)
                 a(href=p.url) #{p.title}
-            .simple-nav: a(href='/assets/Devon_Zuegel--Resume.pdf') Resume
 
         .col-sm-10
           #main-content!= content

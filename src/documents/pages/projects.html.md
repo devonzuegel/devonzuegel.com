@@ -7,8 +7,7 @@ featured: true
 
 # Projects #
 
-<div class='space triple'></div>
-<div class='space triple'></div>
+<div class='space triple'></div><div class='space'></div>
 
 ## [Isostamp](//isostamp.org) ##
 <div class='project-time'><div class='time'>March - June 2016</div><br></div>
