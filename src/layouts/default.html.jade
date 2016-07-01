@@ -1,42 +1,22 @@
 include ../partials/_head.jade
 
 body
-  //if lt IE 7
-    p.browsehappy
-      | You are using an
-      strong
-        | outdated browser
-      |. Please
-      a(href="http://browsehappy.com/")
-        | upgrade your browser
-      | to improve your experience.
-
-  #nav-spacer
-  nav.navbar.navbar-default.navbar-fixed-top.custom(role='navigation')
-    .container-fluid
-
-      //- Brand and toggle get grouped for better mobile display
-      .navbar-header
-        button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1')
-          //- span.sr-only Toggle navigation
-          span: i.fa.fa-bars
-        a.navbar-brand(href='../../') Devon Zuegel
-
-      //- Collect the nav links, forms, and other content for toggling
-      #bs-example-navbar-collapse-1.collapse.navbar-collapse
-        ul.nav.navbar-nav
-          each p in getCollection('pages').toJSON()
-            li(class=(document.url === p.url) ? 'active' : null)
-              a(href=p.url)
-                | #{p.title}
-          li: a(href='/assets/Devon_Zuegel--Resume.pdf') Resume
-
   #wrapper
-
     #content
-      .col-md-8
-        #main-content!= content
-        br
+      .row
+        .col-sm-2
+          .col-sm-12
+            a(href='../../').simple-nav.brand Devon Zuegel
+          .col-sm-12
+            each p in getCollection('pages').toJSON()
+              .simple-nav(class=(document.url === p.url) ? 'active' : null)
+                a(href=p.url)
+                  | #{p.title}
+            .simple-nav: a(href='/assets/Devon_Zuegel--Resume.pdf') Resume
+
+        .col-sm-10
+          #main-content!= content
+          br
 
       .col-md-4: #side-bar
 

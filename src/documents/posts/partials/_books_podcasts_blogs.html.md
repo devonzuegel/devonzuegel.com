@@ -22,11 +22,21 @@ Recently I've shifted away from just reading text (paper or otherwise), as I'm a
 
 #### Blogs ####
 
-- Scott Alexander's [Slate Star Codex](http://slatestarcodex.com) has (benevolently) forced me to reconsider my views more than any other single source of information and thought. His background as a clinical phsychiatrist (he is currently finishing up his doctor's residency) is different from that of most of the people I talk to, and that alone is very refreshing. He comes to issues ranging from feminism to the state of pharmaceutical testing with extremely original perspectives. In particular he has piqued my interest in meta-analysis of science. Not only are his ideas fantastic, but I'm blown away how prolific he is. He blogs multiple times a week, bordering on every day, and yet each post consistently makes me totally reconsider the topic at hand. Scott also just seems like a genuinely good person who wants to make the world a better place with his work. My intellectual development over the past year would have been much, much slower without Slate Star Codex in my life. I hope you check it out!
+Many of the people I'm closest to I originally met because their personal websites and tweets were interesting and I figured they were probably pretty cool, too. I highly recommend it as a strategy for meeting cool people. Here are a few of the blogs that have influenced me the most:
 
-- I recently started reading through [Michael Nielsen's site](http://michaelnielsen.org/), and it's great! The blog spans topics like Machine Learning, digital explanations and representations, and incentive structures within academia.
+- Scott Alexander's [Slate Star Codex](http://slatestarcodex.com) has (benevolently) forced me to reconsider my views more than any other single source of information and thought. His background as a clinical phsychiatrist (he is currently finishing up his doctor's residency) is different from that of most of the people I talk to, and that alone is very refreshing. He comes to issues ranging from feminism to the state of pharmaceutical testing with extremely original perspectives. In particular he has piqued my interest in meta-analysis of science. Not only are his ideas fantastic, but I'm blown away how prolific he is. He blogs multiple times a week, bordering on every day, and yet each post consistently makes me totally reconsider the topic at hand. Scott also just seems like a genuinely good person who wants to make the world a better place with his work. My intellectual development over the past year would have been much, much slower without Slate Star Codex in my life. I hope you check it out!
+    + My friend Michael Nielsen described what's so wonderful about Scott's writing:
+    > Most essayists try to develop a story with a neat conclusion. But Scott develops 5 stories, all potentially the truth, all somewhat in conflict, and he tries to push them all through to the end as powerfully as possible.  So his essays aren’t about pushing a conclusion. Rather, they’re about exploring (and relating) several different ideas about where the truth may lie, to the best of his ability.  It’s a very powerful literary form.
+
+- Since we're already on the topic of Michael... [his site](http://michaelnielsen.org/) is also wonderful! The blog spans topics like Machine Learning, digital explanations and representations, and incentive structures within academia. When I first discovered it, I spent the better part of a weekend reading it all the way through and tweeting questions, comments, and my favorite quotes at him. Highly recommend!
 
 - [Bret Victor's site](http://worrydream.com/) is one of the most unique-in-a-good-way sites I've seen on the web. He is a great designer of media for thought, and his work has influenced my thinking and my projects immensely. I encourage everyone to go to the site and click through some of his demos. They are very fun as well as intellectually stimulating.
+
+Some others that I'll get around to writing descriptions of one day:
+
+- [Marginal Revolution](http://marginalrevolution.com)
+- [Streetsblog SF](http://sf.streetsblog.org)
+- [Fuzzy Notepad](http://me.vekun.com)
 
 #### Podcasts ####
 
@@ -47,6 +57,12 @@ Recently I've shifted away from just reading text (paper or otherwise), as I'm a
 
 And a few others (in no particular order) for which I'll (maybe) get around to writing descriptions later:
 
+- [*The Psychology of Attractiveness*](https://TODO)
+- [*Gastropod*](https://gastropod.com)
+- [*The History of Singapore*](http://thehistoryofsingapore.com/)
+- [*The New Yorker Radio Hour*](http://www.wnyc.org/shows/tnyradiohour)
+- [*The Bike Shed*](http://psychologyofattractivenesspodcast.blogspot.com/) –– Thoughtbot's podcast about programming and web design, particularly in Ruby
+- [*Tentative*](http://tentative.fm/) –– Thoughtbot's podcast about digital product design
 - [*Imaginary Worlds*](https://imaginaryworldspodcast.org)
 - [*Open Account*](https://itunes.apple.com/us/podcast/open-account-with-suchin-pak/id1037408626?mt=2)
 - [*EconTalk*](https://econtalk.org)

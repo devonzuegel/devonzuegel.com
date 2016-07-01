@@ -4,14 +4,14 @@ tags: []
 collection: pages
 ---
 
-## TiddlyLisp ##
+#### TiddlyLisp ####
 ###### <div class='time'>January 2016</div><br> ######
 
 To learn the fundamentals of Lisp, I built a little interpreter based on Michael Nielsen's fantastic blog post [*Lisp as the Maxwell's Equations of Software*](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/). I included extensions to resolve some of the challenge problems he mentioned at the end of the post, too.
 
 You can find the code for the interpreter on [Github](//github.com/devonzuegel/tiddly-lisp).
 
-## Instanote ##
+#### Instanote ####
 ###### <div class='time'>January 2016</div><br> ######
 
 About a month ago, I started using Instapaper obsessively. However, it left me with one major problem –– all of my Instapaper bookmarks and highlights were isolated from the knowledge that I (obsessively) store in Evernote, and I wanted to have them all in one place. After all, a [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base) is useless if it doesn't contain half of the things I read throughout the day.
@@ -20,7 +20,7 @@ Instanote solves this problem by syncing the text of my archived Instapaper book
 
 You can sign up at [instanote-archive.herokuapp.com](https://instanote-archive.herokuapp.com) and see the source code on [Github](https://github.com/devonzuegel/instanote-archive).
 
-## Congressional Bill Outcome Predictor ##
+#### Congressional Bill Outcome Predictor ####
 
 ###### <div class='time'>December 2015</div><br> ######
 
@@ -28,7 +28,7 @@ Emma Marriott, Arushi Jain, and I built a predictor that identifies which US bil
 
 You can learn more about our research and data [here](http://devonzuegel.com/bills/).
 
-## Affitto ##
+#### Affitto ####
 
 ###### <div class='time'>November 2015</div><br> ######
 
@@ -42,7 +42,7 @@ Here is a small version of one of our models. You may have to close the controls
 
 You can find the ABM code, housing data with which we initialized the model, and further information on the analysis we performed on the resulting network at [github.com/devonzuegel/affitto](//github.com/devonzuegel/affitto). You can see a larger version of the model [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/affitto/blob/master/models/model2/model.html).
 
-## My Evernote ##
+#### My Evernote ####
 ###### <div class='time'>July 2015</div><br> ######
 
 I love Evernote. On any given day I usually create about 15 notes, ranging from highlighted blog posts and articles to trip itineraries and to-do lists. The bulk of these notes are clippings from around the web that I've read and annotated with Evernote's [Clearly extension](//evernote.com/clearly/).
@@ -55,7 +55,7 @@ As a fun way to solve this little problem of mine and to teach myself more about
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
 
-## Zen Writer ##
+#### Zen Writer ####
 ###### <div class='time'>June 2015</div><br> ######
 
 The most difficult part of writing is that first draft. Putting your ideas to paper to generate that initial content is hard, because it's natural to edit your thoughts while translating them into words. However, this can severely hamper progress and creativity during early drafts. I've learned that I write better content faster if I don't censor myself initially and then only allow myself to revise and edit after I've exhausted my ideas. However, it's extremely difficult to contain that urge to filter out the less well-formed ideas.
@@ -70,14 +70,14 @@ I finished that first draft in just over 2 hours and spent another hour the foll
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/zen-writer) and the app at [zenwriter.io](//zenwriter.io).
 
-## OrigamiJS ##
+#### OrigamiJS ####
 ###### <div class='time'>March 2015</div><br> ######
 
 Over spring break I decided I wanted to play around with coffeescript, so I built a little script to hierarchically fold elements on a webpage. I originally built it so I could fold long blog posts and class notes I had written in Markdown. The idea was inspired by the great header folding in [Marked2](http://marked2app.com/), my favorite Markdown previewer, so by default Origamijs folds traditional `<h*>` and `<p>` elements as defined by Markdown. Origamijs also allows clients to define their own hierarchy, in the case that they're using unique tags or prefer to ignore certain levels of the traditional Markdown tag hierarchy.
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs) and example usage [here](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html).
 
-## Fiesta: Machine Translator ##
+#### Fiesta: Machine Translator ####
 ###### <div class='time'>March 2015</div><br> ######
 
 Zoe Robert, John Luttig, and I built a Spanish to English machine translator, which we called Fiesta. It is based on the IBM Model 1 algorithm and also implements several Spanish-specific strategies for improving results.
@@ -115,7 +115,7 @@ do until convergence
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/fiesta).
 
-## Octagon ##
+#### Octagon ####
 ###### <div class='time'>Summer 2014</div><br> ######
 
 ![right-sm](http://michaelandassociate.com/fifteen/wp-content/uploads/2014/11/formation8.jpg)
@@ -126,7 +126,7 @@ I was responsible for the full-stack of the app, though I was lucky enough for t
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/octagon).
 
-## Paper Trail ##
+#### Paper Trail ####
 ###### <div class='time'>March 2014 - present</div><br> ######
 
 Some of the greatest impact individuals can have on politics is driven by daily purchasing decisions. Any time an individual patronizes a corporation, (s)he is fueling the company's lobbying and donorship capabilities and is indirectly supporting their political causes. Unfortunately, the impact of corporate political contributions is largely opaque to the general public, and the research about corporations’ political activity is a tedious, complex task.
@@ -143,7 +143,7 @@ We decided that a browser extension would be far more effective than the origina
 
 The Paper Trail extension is currently under development. You can find an rough interactive prototype on [Invision](//invis.io/SZ1M1F6AJ) and the open source code for the actual extension on [Github](//github.com/devonzuegel/papertrail-extension).
 
-## In Other Words ##
+#### In Other Words ####
 ###### <div class='time'>January - May 2011</div><br> ######
 
 ![right-md](http://bookshow.blurb.com/bookshow/cache/P2866696/md/cover_2.jpeg)

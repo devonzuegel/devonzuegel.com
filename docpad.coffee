@@ -48,8 +48,6 @@ docpadConfig = {
 				'../css/vendor/highlightjs/hybrid.css'
 				'../css/vendor/main.css'
 				'//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'
-				# '../css/vendor/bootstrap/bootstrap-theme.css'
-				# '../css/vendor/bootstrap/bootstrap.css'
 			]
 
 			# The website's scripts
@@ -58,8 +56,6 @@ docpadConfig = {
 				'//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.js'
 				'//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'
 				'../js/google-analytics.js'
-				# '../js/plugins.js'
-				# '../js/main.js'
 			]
 
 
