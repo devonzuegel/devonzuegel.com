@@ -11,8 +11,10 @@ body
             each p in getCollection('pages').toJSON()
               .simple-nav(class=(document.url === p.url) ? 'active' : null)
                 a(href=p.url) #{p.title}
+            .space.triple
+            .space.triple
 
-        .col-sm-10
+        .col-sm-10: .col-sm-12
           #main-content!= content
           br
 
@@ -20,3 +22,4 @@ body
 
 
   != getBlock('scripts').add(site.scripts, {defer:false}).toHTML()
+  != getBlock('styles').add(site.styles, {defer:false}).toHTML()
