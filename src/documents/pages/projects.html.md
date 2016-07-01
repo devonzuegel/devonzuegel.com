@@ -5,33 +5,48 @@ collection: pages
 featured: true
 ---
 
-#### TiddlyLisp ####
-###### <div class='time'>January 2016</div><br> ######
+# Projects #
+
+<div class='space triple'></div>
+<div class='space triple'></div>
+
+## [Isostamp](//isostamp.org) ##
+<div class='project-time'><div class='time'>March - June 2016</div><br></div>
+
+[Isotopic signature transfer and mass pattern prediction](http://pubs.acs.org/doi/abs/10.1021/cb100338x) is an enabling technique for chemically-directed proteomics. It is an algorithm for the targeted detection and identification of modified species by mass spectrometry.
+
+[Will Byrd](http://webyrd.net/) and I helped [Carolyn Bertozzi](https://bertozzigroup.stanford.edu/members.htm) and [Christina Woo](https://people.stanford.edu/cmwoo/) to improve the Isostamp algorithm, open source the code, and make it possible to upload and analyze mass spec data through a web app rather than the original executable so users don't have to download and set up a OS-specific binary.
+
+You can find the code for the web app [here](https://github.com/devonzuegel/isostamp-web-v2). As soon as we release the core Isostamp C++ code I will link to it here too.
+
+
+## [TiddlyLisp](//github.com/devonzuegel/tiddly-lisp) ##
+<div class='project-time'><div class='time'>January 2016</div><br></div>
 
 To learn the fundamentals of Lisp, I built a little interpreter based on Michael Nielsen's fantastic blog post [*Lisp as the Maxwell's Equations of Software*](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/). I included extensions to resolve some of the challenge problems he mentioned at the end of the post, too.
 
 You can find the code for the interpreter on [Github](//github.com/devonzuegel/tiddly-lisp).
 
-#### Instanote ####
-###### <div class='time'>January 2016</div><br> ######
+## [Instanote](https://instanote-archive.herokuapp.com) ##
+<div class='project-time'><div class='time'>January 2016</div><br></div>
 
-About a month ago, I started using Instapaper obsessively. However, it left me with one major problem –– all of my Instapaper bookmarks and highlights were isolated from the knowledge that I (obsessively) store in Evernote, and I wanted to have them all in one place. After all, a [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base) is useless if it doesn't contain half of the things I read throughout the day.
+About a month ago, I started using Instapaper obsessively. However, it left me with one major problem – all of my Instapaper bookmarks and highlights were isolated from the knowledge that I (obsessively) store in Evernote, and I wanted to have them all in one place. After all, a [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base) is useless if it doesn't contain half of the things I read throughout the day.
 
 Instanote solves this problem by syncing the text of my archived Instapaper bookmarks with their respective highlights into Evernote every 10 minutes. I figured other people might have the same frustration with Instapaper, so I built out a little Heroku app that allows other people to sign up too rather than just hard-coding my login info into a hacky script.
 
 You can sign up at [instanote-archive.herokuapp.com](https://instanote-archive.herokuapp.com) and see the source code on [Github](https://github.com/devonzuegel/instanote-archive).
 
-#### Congressional Bill Outcome Predictor ####
+## [Congressional Bill Outcome Predictor](http://devonzuegel.com/bills/) ##
 
-###### <div class='time'>December 2015</div><br> ######
+<div class='project-time'><div class='time'>December 2015</div><br></div>
 
 Emma Marriott, Arushi Jain, and I built a predictor that identifies which US bills will succeed in the House & Senate. We tried several different prediction methods, including: Naive Bayes with and without Principal Component Analysis (PCA), Logistic Regression, Support Vector Machine (SVM) with PCA, and Perceptron with PCA. PCA identified the `500` most important features of a set of `11,000`. Each predictor was modeled on data from the 109th – 113th Congresses from a wide range of structured & unstructured sources, including lobbying information. SVM with PCA proved to be the best model. It predicted bill outcomes with `94%` precision & `87%` recall, resulting in an F-measure of `0.92`.
 
 You can learn more about our research and data [here](http://devonzuegel.com/bills/).
 
-#### Affitto ####
+## [Affitto](//github.com/devonzuegel/affitto) ##
 
-###### <div class='time'>November 2015</div><br> ######
+<div class='project-time'><div class='time'>November 2015</div><br></div>
 
 San Francisco and the greater Bay Area have been struggling with housing shortages and decisions about how to best serve the community with policies to deal with this situation. At a micro level, we have a fairly good understanding of how individuals make economic decisions such as where tenants choose to live and how much rent landlords choose to charge. However, we lack tools to model the complex interactions of millions of individuals simultaneously making decisions and the emergent phenomena that result from these interactions.
 
@@ -43,8 +58,8 @@ Here is a small version of one of our models. You may have to close the controls
 
 You can find the ABM code, housing data with which we initialized the model, and further information on the analysis we performed on the resulting network at [github.com/devonzuegel/affitto](//github.com/devonzuegel/affitto). You can see a larger version of the model [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/affitto/blob/master/models/model2/model.html).
 
-#### My Evernote ####
-###### <div class='time'>July 2015</div><br> ######
+## [My Evernote](//myevernote.co) ##
+<div class='project-time'><div class='time'>July 2015</div><br></div>
 
 I love Evernote. On any given day I usually create about 15 notes, ranging from highlighted blog posts and articles to trip itineraries and to-do lists. The bulk of these notes are clippings from around the web that I've read and annotated with Evernote's [Clearly extension](//evernote.com/clearly/).
 
@@ -56,8 +71,8 @@ As a fun way to solve this little problem of mine and to teach myself more about
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
 
-#### Zen Writer ####
-###### <div class='time'>June 2015</div><br> ######
+## [Zen Writer](//zenwriter.io) ##
+<div class='project-time'><div class='time'>June 2015</div><br></div>
 
 The most difficult part of writing is that first draft. Putting your ideas to paper to generate that initial content is hard, because it's natural to edit your thoughts while translating them into words. However, this can severely hamper progress and creativity during early drafts. I've learned that I write better content faster if I don't censor myself initially and then only allow myself to revise and edit after I've exhausted my ideas. However, it's extremely difficult to contain that urge to filter out the less well-formed ideas.
 
@@ -71,15 +86,17 @@ I finished that first draft in just over 2 hours and spent another hour the foll
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/zen-writer) and the app at [zenwriter.io](//zenwriter.io).
 
-#### OrigamiJS ####
-###### <div class='time'>March 2015</div><br> ######
+P.S. As a more robust solution to this problem, I now use the [First Draft](http://www.96problems.com/rough-draft/) Mac app from [96 Problems](http://www.96problems.com/). It offers all the features I built, planned to build, or never even realized I needed in ZenWriter. Ben and the whole team are super responsive and helpful too, so in short I highly recommend the app if you're looking for a tool to solve this problem!
+
+## [OrigamiJS](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html) ##
+<div class='project-time'><div class='time'>March 2015</div><br></div>
 
 Over spring break I decided I wanted to play around with coffeescript, so I built a little script to hierarchically fold elements on a webpage. I originally built it so I could fold long blog posts and class notes I had written in Markdown. The idea was inspired by the great header folding in [Marked2](http://marked2app.com/), my favorite Markdown previewer, so by default Origamijs folds traditional `<h*>` and `<p>` elements as defined by Markdown. Origamijs also allows clients to define their own hierarchy, in the case that they're using unique tags or prefer to ignore certain levels of the traditional Markdown tag hierarchy.
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs) and example usage [here](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html).
 
-#### Fiesta: Machine Translator ####
-###### <div class='time'>March 2015</div><br> ######
+## [Fiesta: Machine Translator](//github.com/devonzuegel/fiesta) ##
+<div class='project-time'><div class='time'>March 2015</div><br></div>
 
 Zoe Robert, John Luttig, and I built a Spanish to English machine translator, which we called Fiesta. It is based on the IBM Model 1 algorithm and also implements several Spanish-specific strategies for improving results.
 
@@ -116,8 +133,8 @@ do until convergence
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/fiesta).
 
-#### Octagon ####
-###### <div class='time'>Summer 2014</div><br> ######
+## Octagon ##
+<div class='project-time'><div class='time'>Summer 2014</div><br></div>
 
 ![right-sm](http://michaelandassociate.com/fifteen/wp-content/uploads/2014/11/formation8.jpg)
 
@@ -127,8 +144,8 @@ I was responsible for the full-stack of the app, though I was lucky enough for t
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/octagon).
 
-#### Paper Trail ####
-###### <div class='time'>March 2014 - present</div><br> ######
+## Paper Trail ##
+<div class='project-time'><div class='time'>March 2014 - present</div><br></div>
 
 Some of the greatest impact individuals can have on politics is driven by daily purchasing decisions. Any time an individual patronizes a corporation, (s)he is fueling the company's lobbying and donorship capabilities and is indirectly supporting their political causes. Unfortunately, the impact of corporate political contributions is largely opaque to the general public, and the research about corporations’ political activity is a tedious, complex task.
 
@@ -144,8 +161,8 @@ We decided that a browser extension would be far more effective than the origina
 
 The Paper Trail extension is currently under development. You can find an rough interactive prototype on [Invision](//invis.io/SZ1M1F6AJ) and the open source code for the actual extension on [Github](//github.com/devonzuegel/papertrail-extension).
 
-#### In Other Words ####
-###### <div class='time'>January - May 2011</div><br> ######
+## In Other Words ##
+<div class='project-time'><div class='time'>January - May 2011</div><br></div>
 
 ![right-md](http://bookshow.blurb.com/bookshow/cache/P2866696/md/cover_2.jpeg)
 
