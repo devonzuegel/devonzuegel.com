@@ -3,6 +3,7 @@ title: Bowling with People Who Are Actually Interesting
 author: Devon Zuegel
 tags: ["utopianism", "cultural fragmentation"]
 collection: posts
+inprogress: true
 date_published: 2016-06-10
 img: https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr01/2013/5/23/16/enhanced-buzz-27537-1369339213-16.jpg
 ---

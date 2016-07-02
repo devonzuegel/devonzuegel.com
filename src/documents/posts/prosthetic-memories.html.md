@@ -4,7 +4,7 @@ author: Devon Zuegel
 tags: ["memory"]
 collection: posts
 date_published: 2016-03-17
-published: false
+inprogress: true
 img: http://i.imgur.com/ny20a7u.jpg
 ---
 
