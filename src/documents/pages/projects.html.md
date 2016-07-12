@@ -9,15 +9,21 @@ featured: true
 
 <div class='space triple'></div><div class='space'></div>
 
-## [Isostamp](//isostamp.org) ##
-<div class='project-time'><div class='time'>March - June 2016</div><br></div>
+## [Mr. Schelling's Neighborhood](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html) ##
 
-[Isotopic signature transfer and mass pattern prediction](http://pubs.acs.org/doi/abs/10.1021/cb100338x) is an enabling technique for chemically-directed proteomics. It is an algorithm for the targeted detection and identification of modified species by mass spectrometry.
+<div class='project-time'><div class='time'>July 2016</div><br></div>
 
-[Will Byrd](http://webyrd.net/) and I helped [Carolyn Bertozzi](https://bertozzigroup.stanford.edu/members.htm) and [Christina Woo](https://people.stanford.edu/cmwoo/) to improve the Isostamp algorithm, open source the code, and make it possible to upload and analyze mass spec data through a web app rather than the original executable so users don't have to download and set up a OS-specific binary.
+Ever since reading about Schelling's ["general theory of tipping"](http://isites.harvard.edu/fs/docs/icb.topic185351.files/shelling1.pdf) in [*Seeing Around Corners*](http://www.theatlantic.com/magazine/archive/2002/04/seeing-around-corners/302471/), I've wanted to replicate some of his models and play around with agent-based modeling as a technique.
 
-You can find the code for the web app [here](https://github.com/devonzuegel/isostamp-web-v2). As soon as we release the core Isostamp C++ code I will link to it here too.
+Schelling's model of segregation found that if individuals have even just a slight preference to be surrounded by people of their own group or race, the emergent effect across a population can be total segregation, even if that is not the intention of any specific agent. This effect can be seen with a simple ABM, which I've implemented below.
 
+You are looking at a birds-eye view of a simulated neighborhood containing two groups, blue and red with a handful of blank spaces. To start, the blues and reds are randomly distributed. Then, frame after frame, the agents are allowed to move. The agent is happy with its position if its nearest neighbors include at least a certain number of its own color; otherwise, they move to a random open space on the map.
+
+The default number of same-colored neighbors required to make an agent satisfied with its location is the threshold, and the percent of "empty lost" on the map is the percent open. You can adjust these with the controls in the top right corner of the model.
+
+<iframe src='https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood-small.html' style='width:100%; height: 270px;' frameborder='no' border='0'></iframe>
+
+You can find the ABM code on [Github](//github.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.coffee), and you can see a larger version of the model [here](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html).
 
 ## [TiddlyLisp](//github.com/devonzuegel/tiddly-lisp) ##
 <div class='project-time'><div class='time'>January 2016</div><br></div>
