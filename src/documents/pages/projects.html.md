@@ -9,6 +9,19 @@ featured: true
 
 <div class='space triple'></div><div class='space'></div>
 
+## [Isostamp](https://isostamp.org)
+<div class='project-time'><div class='time'>March - July 2016</div><br></div>
+
+[Isotopic signature transfer and mass pattern prediction (Isostamp)](http://pubs.acs.org/doi/abs/10.1021/cb100338x) is an enabling technique for chemically-directed proteomics. Specifically, it is an algorithm for the targeted detection and identification of modified species by mass spectrometry (MS).
+
+Will Byrd and I worked with the Bertozzi Lab to develop their Isostamp algorithm. We also built a simple API so developers can run the executable in the cloud, and we built a web application that enables other labs to use Isostamp to upload and analyze their own data.
+
+You can find the code for the API at [github.com/devonzuegel/tagfinder-api](https://github.com/devonzuegel/tagfinder-api).
+
+You can upload your own data and learn more about Isostamp at [Isostamp.org](Isostamp.org), and you can find the code for the web app at [github.com/devonzuegel/Isostamp-web-v2](https://github.com/devonzuegel/Isostamp-web-v2).
+
+We will be open-sourcing the C++ code for the algorithm soon.
+
 ## [Mr. Schelling's Neighborhood](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html) ##
 
 <div class='project-time'><div class='time'>July 2016</div><br></div>
