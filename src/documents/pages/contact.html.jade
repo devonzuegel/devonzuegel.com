@@ -4,7 +4,7 @@ tags: []
 collection: pages
 ---
 
-.contact
+.contact.col-sm-4
   //- .circle.large: img(src='../assets/hackers_of_sv-thumb.jpg')
 
   each c in resume.contact.social
@@ -14,10 +14,19 @@ collection: pages
   h4 Resume
   a(href='/assets/Devon_Zuegel--Resume.pdf') PDF
 
+.col-sm-8
+  :markdown
+    This site is where I can riff on ideas, be wrong, and learn from those mistakes. Of course I try to be correct, and I always write what I believe to be true, but the greatest value most often comes from someone messaging me to point out a body of research I missed or angle I misinterpreted.
+
+    In this vein, please don't hesitate to let me know what you think! The whole point is to share what I know and to learn the rest.
+
+
+.col-xs-12
   h4 Spotify
   .space.triple
   iframe( src='https://embed.spotify.com/?uri=spotify%3Auser%3A123589098%3Aplaylist%3A4qo0rRTKF8bFogGPWc7eJ3&theme=white'
           width='300' height='380' frameborder='0' allowtransparency='true')
+
   .space.triple
 
 //- .row.headlines
