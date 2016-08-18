@@ -7,9 +7,9 @@ date_published: 2016-08-16
 img: http://i.imgur.com/gfx2zyn.jpg
 ---
 
-*The way we live is shaped by our received infrastructure – the public spaces, building codes, and utilities that serve a city or region. It can act as the foundation for thriving communities, but it can also establish unhealthy patterns when designed poorly.*
+*The way we live is shaped by our infrastructure – the public spaces, building codes, and utilities that serve a city or region. It can act as the foundation for thriving communities, but it can also establish unhealthy patterns when designed poorly.*
 
-<a href='http://www.upout.com/blog/wp-content/uploads/san-fran.jpg?cdb29b'><img src='http://www.upout.com/blog/wp-content/uploads/san-fran.jpg?cdb29b' style='float: right; max-width: 400px; width: 92%; margin: 0 20px 20px'/></a>
+<a href='https://cdn-images-1.medium.com/max/1440/0*DXaSMD2jMdfPF85N.'><img src='https://cdn-images-1.medium.com/max/1440/0*DXaSMD2jMdfPF85N.' style='float: right; max-width: 400px; width: 92%; margin: 0 20px 20px'/></a>
 
 American cities have inherited infrastructure that constrains our transportation options. Urban planners spent the 20th century building cities for cars, not people, and alternatives to driving have been systemically undervalued. This has resulted in substandard health outcomes, missed economic opportunities, and a shortage of affordable housing. 
 
@@ -30,7 +30,9 @@ Despite its costs, driving remains the most common mode of travel in the US, at 
 
 People choose to drive despite its costs because they lack reasonable alternatives. Unfortunately, this isn't an accident of history. Our transportation system has been overly focused on automobile traffic flow as its metric of success. This single-minded focus has come at the cost of infrastructure that supports alternative ways to travel. Traffic flow should instead be one goal out of many. Communities would be far healthier if our infrastructure actively encouraged walking, cycling, and other forms of transportation rather than subsidizing driving and ignoring alternatives.
 
-![](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2013/04/la-traffic.jpg)
+<a href='https://cdn-images-1.medium.com/max/1440/0*WFon_pfmpPIqVLG-.jpg'>
+![](https://cdn-images-1.medium.com/max/1440/0*WFon_pfmpPIqVLG-.jpg)
+</a>
 
 ## Walkability has major economic benefits
 
@@ -40,7 +42,7 @@ Having a critical mass of pedestrians signals that a neighborhood is safe and in
 
 In contrast to most American cities, Portland has invested in multiple modes of transportation for decades. As a result, its residents drive 20% less than other major metropolitan areas. The city has experienced economic benefits beyond just a rise in property values. "Portlanders save a bundle on cars and gas, [so] residents have more money to spend on other things they value, which in turn stimulates the local economy," said economist Joe Cortright in **[Portland’s Green Dividend](http://blog.oregonlive.com/commuting/2009/09/pdxgreendividend.pdf)**. Less driving leads to greater savings, and those savings flow to the local economy rather than distant oil producers.
 
-![](http://www.cclr.org/sites/default/files/styles/blog/public/embarcadero-beforeafterr_blog.jpg?itok=NscqweiM)
+<a href='https://cdn-images-1.medium.com/max/1440/1*AL-V9AcCwlKgXqdS3T-1Sg.jpeg'>![](https://cdn-images-1.medium.com/max/1440/1*AL-V9AcCwlKgXqdS3T-1Sg.jpeg)</a>
 
 The Embarcadero in San Francisco is a perfect example of how transitioning away from car-centric infrastructure can revitalize a neighborhood. For decades, the city's waterfront was dominated by a massive highway connecting the Bay Bridge to the Golden Gate. Local writer William Thompson [said](https://books.google.com/books?id=-ywDBAAAQBAJ&lpg=PA144&ots=uB1n9Xv9K3&dq=William%20Thompson%20%20%22shunted%20pedestrians%20through%20a%20dark%2C%20sooty%20gauntlet%20between%20downtown%20and%20the%20San%20Francisco%20Bay%22&pg=PA145#v=onepage&q=William%20Thompson%20%20%22shunted%20pedestrians%20through%20a%20dark,%20sooty%20gauntlet%20between%20downtown%20and%20the%20San%20Francisco%20Bay%22&f=false) that the freeway “shunted pedestrians through a dark, sooty gauntlet between downtown and the San Francisco Bay”. Then, in 2002 the highway was replaced with a palm-lined boulevard with a streetcar line down the middle, and [the area saw massive economic boost](https://reclaimingoldwestbroad.files.wordpress.com/2014/04/chapter-9-appendix-1-related-articles-and-case-studies.pdf). Within four years, housing in the area increased by 51% and jobs increased by 23%. The Embarcadero was transformed from a fading industrial zone into a center of tourism and leisure once it was no longer in the grungy shadow of the highway overpass. By freeing up land for development, the highway removal has also increased the city's tax base. Reduced car capacity and investment in pedestrian infrastructure made the Embarcadero a destination rather than just a place to pass through.
 
@@ -54,7 +56,7 @@ This calculation is even more clear when you also consider the opportunity cost 
 
 Affordable housing would be far more attainable if our infrastructure encouraged walking and alternative forms of transportation. Parking minimums are one example of how car-centric infrastructure works against this goal. A standard parking spot occupies as much square footage as a small studio apartment, and that's without factoring in the driveway space required for maneuvering into the spot. All in all, shops in California are required to provide 288 square feet of parking space for every 250 square feet of retail space – 115% more space is required to accommodate the parking for any new retail development. In Los Angeles, [3.3 spaces exist for every car in the city](http://www.citylab.com/commute/2015/12/parking-los-angeles-maps-study/418593/). Other states have similar or worse requirements. As a result, acreage devoted to parking hovers around [30% of the ground area in the core of the average sun belt city](http://www.autolife.umd.umich.edu/Environment/E_Casestudy/E_casestudy2.htm). This is area that could otherwise be used for some other productive use. If we could make even a tiny dent in the amount of space consumed by parking, we could greatly improve the affordability of cities.
 
-![](http://streets.mn/wp-content/uploads/2014/01/DTE.jpg)
+![](https://cdn-images-1.medium.com/max/2000/0*YhHCvKpom-cE5v-L.jpg)
 
 These parking minimums not only consume valuable space – they also induce more driving. With so much area devoted to parking, the distance between destinations increases, which in turn increases the necessity of driving. With more drivers doing more traveling, more parking spots are needed to accommodate their cars, continuing this vicious cycle. On the bright side, this also means that the benefits of changing these requirements are compounding. If we loosen requirements, we would also see a reduction in demand for parking spots, because the demand for driving itself would decrease as destinations cluster closer together.
 
@@ -65,7 +67,9 @@ These parking minimums not only consume valuable space – they also induce more
 
 It is feasible - both financially and politically - to make cities more walkable. Simple, low-cost improvements to features like [painted bike lanes](http://usa.streetsblog.org/2015/04/20/which-matters-more-a-bike-networks-connectivity-or-its-density/), [wayfinding signs](http://onlinepubs.trb.org/onlinepubs/conferences/2015/ActiveTransportation/Presentations/Janet%20Fulton.pdf), [curb cuts](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=0ahUKEwjo2cnFj7rOAhXI7xQKHeZhDtgQFghUMAo&url=http%3A%2F%2Famericanhistory.si.edu%2Fblog%2Fsmashing-barriers-access-disability-activism-and-curb-cuts&usg=AFQjCNHKLn48DZJb37DQR_F8yjDJT9bGdQ&sig2=uriDBv2RDJNjBOTcmsBdUA&cad=rja), and [tree coverage](https://catalog.data.gov/dataset/enviroatlas-des-moines-ia-estimated-percent-tree-cover-along-walkable-roads) have an disproportionate impact in transforming a car-dependent metropolis into human-scale, walkable neighborhoods. It is rare that cities find a goal that is both worthwhile and attainable, so urban planners should jump on this opportunity.
 
-<a href='http://static1.businessinsider.com/image/549490f66da811b87b912928-1200-924/polk-street-bike-lane.jpg'><img src='http://static1.businessinsider.com/image/549490f66da811b87b912928-1200-924/polk-street-bike-lane.jpg' style='float: right; max-width: 400px; width: 92%; margin: 20px'/></a>
+<a href='https://cdn-images-1.medium.com/max/1080/1*qYhfrhl1lCxwGfyRurN25g.jpeg'><img src='https://cdn-images-1.medium.com/max/1080/1*qYhfrhl1lCxwGfyRurN25g.jpeg' style='float: right; max-width: 400px; width: 92%; margin: 20px'/></a>
+
+<a href='https://cdn-images-1.medium.com/max/1080/0*LTmewp_KlaOECcpa.jpg'><img src='https://cdn-images-1.medium.com/max/1080/0*LTmewp_KlaOECcpa.jpg' style='float: right; max-width: 400px; width: 92%; margin: 20px'/></a>
 
 Concentrated efforts to revitalize a small area can have a massive impact on an entire city. Mountain View, where I grew up, is a great example of this. When I was a kid, the town's suburban sprawl required a car ride to get anywhere. However, in the past few years, resources have been directed towards making specific areas in and around downtown more walkable, and residents all over town have seen the benefits. In the summer, the main street is closed for weekly street festivals. Downtown parking spots have been replaced with cafe seating, separated from the road by planter beds. The Stevens Creek Trail connects otherwise isolated neighborhoods to these walkable zones, providing a corridor extending from the marshlands at the edge of the city into the heart of Mountain View and through three other neighboring cities. This corridor lets residents all over town benefit from efforts concentrated in a few small areas of the city. Most streets are still oriented towards cars, but few neighborhoods are more than a short stroll away from a connection to pedestrian-friendly zone. When used strategically, limited resources can revitalize the walkability of an entire community.
 
