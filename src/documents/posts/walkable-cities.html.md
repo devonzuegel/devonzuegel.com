@@ -1,5 +1,5 @@
 ---
-title: Cities Should Make Walkability a Top Priority
+title: We Should Be Building Cities for People, Not Cars
 author: Devon Zuegel
 tags: ["walkable", "city", "bike", "cycling"]
 collection: posts
