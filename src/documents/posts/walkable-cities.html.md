@@ -1,5 +1,5 @@
 ---
-title: We Should Be Building Cities for People, Not Cars
+title: We Should Be Building Cities For People, Not Cars
 author: Devon Zuegel
 tags: ["walkable", "city", "bike", "cycling"]
 collection: posts
