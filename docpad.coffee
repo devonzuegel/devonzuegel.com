@@ -136,6 +136,12 @@ docpadConfig = {
     ghpages:
       deployBranch: 'master'
       deployRemote: 'pages'
+	  rss:
+	    default:
+	      collection: 'posts'
+	      url: '/rss.xml'
+	      title: "Devon's Personal Site" # optional, default to site title
+
 
   regenerateDelay: 0    # default
 	watchOptions: preferredMethods: ['watchFile', 'watch']

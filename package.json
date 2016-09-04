@@ -17,6 +17,7 @@
     "docpad-plugin-marked": "~2.2.1",
     "docpad-plugin-moment": "~2.0.2",
     "docpad-plugin-multimarkdown": "~2.0.0",
+    "docpad-plugin-rss": "^2.3.1",
     "moment": "^2.8.3"
   },
   "main": "node_modules/docpad/bin/docpad-server",
