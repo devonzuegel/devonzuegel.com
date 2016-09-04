@@ -138,7 +138,7 @@ docpadConfig = {
       deployRemote: 'pages'
 	  rss:
 	    default:
-	      collection: 'posts'
+	      collection: 'all'
 	      url: '/rss.xml'
 	      title: "Devon's Personal Site" # optional, default to site title
 
