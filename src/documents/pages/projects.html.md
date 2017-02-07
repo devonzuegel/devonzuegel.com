@@ -5,10 +5,58 @@ collection: pages
 featured: true
 ---
 
+<script type="text/javascript"> // Hack to fix scrolling to Mr Schelling's Neighborhood 
+  document.body.scrollTop = document.documentElement.scrollTop = 0;
+</script>
+
 # Projects #
+
+- [MyFitnessPal API](#mfp-api)
+- [Isostamp](#isostamp)
+- [Mr. Schelling's Neighborhood](#schelling-neighborhood)
+- [TiddlyLisp](#tiddly-lisp)
+- [Instanote](#instanote)
+- [Congressional Bill Outcome Predictor](#congressional-bills)
+- [Affitto](#affitto)
+- [My Evernote](#my-evernote)
+- [Zen Writer](#zen-writer)
+- [OrigamiJS](#origami-js)
+- [Fiesta: Machine Translator](#fiesta)
+- [Octagon](#octagon)
+- [Paper Trail](#paper-trail)
+- [In Other Words](#in-other-words)
 
 <div class='space triple'></div><div class='space'></div>
 
+<a name='mfp-api' class='anchor' />
+## MyFitnessPal API ##
+<div class='project-time'><div class='time'>August - September 2016</div><br></div>
+
+I've tracked my eating habits for the past eight years, and I've since added other health and productivity metrics. Data have piled up in the spreadsheets, services, and other tools I've used to collect these measurements. So far I've done little with it, but I always imagined that they would one day uncover some pattern that would suggest changes in the way I eat, work, or exercise.
+
+So in 2016 when I started experiencing extreme fatigue nearly every afternoon, I decided to investigate whether there was a connection between the food I was eating and my energy levels. My hypothesis was that eating carbohydrates was making me “crash” in the afternoon, because I tended to feel better those days I stuck with just veggies and protein for lunch.
+
+To test this hypothesis, I went to MyFitnessPal (MFP), where I'd been collecting data about my eating habits since high school. To my dismay, they did not have a public API or even a tool that would let me export more than a few months of data at a time. I found a few third-party tools that let me cobble together the logs, but they felt as if they were duct-taped together.
+
+At this point, any reasonable person would have just accepted this fact and used the manual workarounds to export the data. After all, my goal was to find data to confirm or falsify my hypothesis, not to have a beautiful REST API from which I could continuously pull my food logs.
+
+Instead of being reasonable person, I decided to build a little service that would pull all of my logs each day, persist it to a separate database, and then surface the data with a JSON API. I initially planned to write a simple web scraper to do the retrieval work. With a bit more digging through Github's less-than-spectacular search (and encouragement from John <3), I found a project by someone even less reasonable than me that inspired the approach I ended up taking.
+
+Nathan Reynolds ([nathforge](https://github.com/nathforge) on Github) had figured out that in fact MyFitnessPal *did* have an API, it just was for internal use in the official iPhone app only. Not only was the API completely undocumented, but the MFP team had created a custom byte encoding by which to send the data. I still have no idea how he figured out the spec of this encoding, because a lot of the design choices made appear completely random. However he did it, Nathan had built up this codec that took the stream of bytes and parsed them into a human-readable form.
+
+Nathan's [`myfitnesspal-sync`](https://github.com/nathforge/myfitnesspal-sync) was a goldmine for understanding MFP's arcane encoding, but it had some drawbacks. The package didn't support every type of packet, which mean I would have had to extend his code to be able to sync all of my data from MFP. Also, I didn't particularly like the interface he'd designed, and it was completely untested. It also had to be manually run from the command line, whereas I wanted something that would continuously sync the data. On top of all this, I'd be looking for a reason to write some Ruby this summer, so I figured this was a good excuse to do that.
+
+I first wrote a package to decode the MFP packets and the encode human-readable data back into the byte form. All the while I was plagiarizing Nathan's detective work (yay open source!). Thanks Nathan, you are a hero.
+
+Once I was satisfied with my Ruby implementation of the codec, I built a tiny Sinatra API to surface the data. This part is still a work-in-progress. It *works*, but it isn't particularly robust. There's still a bit more work to do.
+
+I still haven't gotten around to a significant amount of data analysis. I did use Metabase to analyze the data in my Heroku Postgres instance over the holidays, but there's definitely more to dig into.
+
+You can find the code for the full API [on Github](https://github.com/devonzuegel/myfitnesspal-ruby). The module for just the codec implementation is in that repository in the [`lib`](https://github.com/devonzuegel/myfitnesspal-ruby/tree/master/lib) directory. Once the API itself is stable, I'll make it available to anyone who wants to sync and retrieve their MFP data.
+
+
+
+<a name='isostamp' class='anchor' />
 ## [Isostamp](https://isostamp.org)
 <div class='project-time'><div class='time'>March - July 2016</div><br></div>
 
@@ -22,6 +70,8 @@ You can upload your own data and learn more about Isostamp at [Isostamp.org](Iso
 
 We will be open-sourcing the C++ code for the algorithm soon.
 
+
+<a name='schelling-neighborhood' class='anchor' />
 ## [Mr. Schelling's Neighborhood](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html) ##
 
 <div class='project-time'><div class='time'>July 2016</div><br></div>
@@ -38,6 +88,8 @@ The default number of same-colored neighbors required to make an agent satisfied
 
 You can find the ABM code on [Github](//github.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.coffee), and you can see a larger version of the model [here](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html).
 
+
+<a name='tiddly-lisp' class='anchor' />
 ## [TiddlyLisp](//github.com/devonzuegel/tiddly-lisp) ##
 <div class='project-time'><div class='time'>January 2016</div><br></div>
 
@@ -45,6 +97,8 @@ To learn the fundamentals of Lisp, I built a little interpreter based on Michael
 
 You can find the code for the interpreter on [Github](//github.com/devonzuegel/tiddly-lisp).
 
+
+<a name='instanote' class='anchor' />
 ## [Instanote](https://instanote-archive.herokuapp.com) ##
 <div class='project-time'><div class='time'>January 2016</div><br></div>
 
@@ -54,6 +108,8 @@ Instanote solves this problem by syncing the text of my archived Instapaper book
 
 You can sign up at [instanote-archive.herokuapp.com](https://instanote-archive.herokuapp.com) and see the source code on [Github](https://github.com/devonzuegel/instanote-archive).
 
+
+<a name='congressional-bills' class='anchor' />
 ## [Congressional Bill Outcome Predictor](http://devonzuegel.com/bills/) ##
 
 <div class='project-time'><div class='time'>December 2015</div><br></div>
@@ -62,6 +118,8 @@ Emma Marriott, Arushi Jain, and I built a predictor that identifies which US bil
 
 You can learn more about our research and data [here](http://devonzuegel.com/bills/).
 
+
+<a name='affitto' class='anchor' />
 ## [Affitto](//github.com/devonzuegel/affitto) ##
 
 <div class='project-time'><div class='time'>November 2015</div><br></div>
@@ -76,6 +134,8 @@ Here is a small version of one of our models. You may have to close the controls
 
 You can find the ABM code, housing data with which we initialized the model, and further information on the analysis we performed on the resulting network at [github.com/devonzuegel/affitto](//github.com/devonzuegel/affitto). You can see a larger version of the model [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/affitto/blob/master/models/model2/model.html).
 
+
+<a name='my-evernote' class='anchor' />
 ## [My Evernote](//myevernote.co) ##
 <div class='project-time'><div class='time'>July 2015</div><br></div>
 
@@ -89,6 +149,8 @@ As a fun way to solve this little problem of mine and to teach myself more about
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
 
+
+<a name='zen-writer' class='anchor' />
 ## [Zen Writer](//zenwriter.io) ##
 <div class='project-time'><div class='time'>June 2015</div><br></div>
 
@@ -106,6 +168,8 @@ You can find the open source code for the project on [Github](//github.com/devon
 
 P.S. As a more robust solution to this problem, I now use the [First Draft](http://www.96problems.com/rough-draft/) Mac app from [96 Problems](http://www.96problems.com/). It offers all the features I built, planned to build, or never even realized I needed in ZenWriter. Ben and the whole team are super responsive and helpful too, so in short I highly recommend the app if you're looking for a tool to solve this problem!
 
+
+<a name='origami-js' class='anchor' />
 ## [OrigamiJS](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html) ##
 <div class='project-time'><div class='time'>March 2015</div><br></div>
 
@@ -113,6 +177,8 @@ Over spring break I decided I wanted to play around with coffeescript, so I buil
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs) and example usage [here](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html).
 
+
+<a name='fiesta' class='anchor' />
 ## [Fiesta: Machine Translator](//github.com/devonzuegel/fiesta) ##
 <div class='project-time'><div class='time'>March 2015</div><br></div>
 
@@ -151,6 +217,8 @@ do until convergence
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/fiesta).
 
+
+<a name='octagon' class='anchor' />
 ## Octagon ##
 <div class='project-time'><div class='time'>Summer 2014</div><br></div>
 
@@ -162,6 +230,8 @@ I was responsible for the full-stack of the app, though I was lucky enough for t
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/octagon).
 
+
+<a name='paper-trail' class='anchor' />
 ## Paper Trail ##
 <div class='project-time'><div class='time'>March 2014 - present</div><br></div>
 
@@ -179,6 +249,8 @@ We decided that a browser extension would be far more effective than the origina
 
 The Paper Trail extension is currently under development. You can find an rough interactive prototype on [Invision](//invis.io/SZ1M1F6AJ) and the open source code for the actual extension on [Github](//github.com/devonzuegel/papertrail-extension).
 
+
+<a name='in-other-words' class='anchor' />
 ## In Other Words ##
 <div class='project-time'><div class='time'>January - May 2011</div><br></div>
 
