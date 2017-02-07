@@ -4,24 +4,26 @@ title: 'Home'
 ---
 
 .col-sm-7
- p Hello! My name is Devon. I am a senior studying Computer Science with a concentration in artificial intelligence at <a href='http://www.stanford.edu'>Stanford University</a>. In my free time, I read weird blogs, complete miscellaneous internet tutorials, hike with my dogs, &amp; train for triathlons. I love reasoning about, improving, and designing systems and infrastructure.
+ p Hello! My name is Devon. I am a software engineer at <a href='http://www.affirm.com'>Affirm</a>. In my free time, I read weird blogs, work on side projects, take public transit, &amp; train for triathlons. I love reasoning about, improving, and designing systems and infrastructure.
 
 .col-sm-5
   h4(style='margin-top:15px') Navigation
   ul.no-bullet.paragr-line-height
-    li: a(href='#professional') Work &amp; Professional
     li: a(href='#interests')    Interests
+    li: a(href='#professional') Work &amp; Professional
     li: a(href='#media')        My favorite books, blogs, &amp; podcasts
     li: a(href='#other')        Other things that I like
 
 .col-sm-12
   //- .circle.with-margin.pull-right: img(src='../assets/hackers_of_sv-thumb.jpg')
 
-  a(name='professional').anchor
-  include ./posts/partials/_work_and_professional.html.md
-
   a(name='interests').anchor
   include ./posts/partials/_interests.html.md
+
+  br
+
+  a(name='professional').anchor
+  include ./posts/partials/_work_and_professional.html.md
 
   br
 

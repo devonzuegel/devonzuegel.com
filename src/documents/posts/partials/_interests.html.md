@@ -3,6 +3,7 @@
 An abridged list of things I want to learn more about and related links to interesting articles, essays, and studies on those topics. You can find a more long-form set of links [here](../pages/links).
 
 - Urban planning and transporation
+- Coordination problems
 - Digital visualization tools (and generally any tools that help people think and create)
   + Bret Victor's [Ladder of Abstraction](http://worrydream.com/#!2/LadderOfAbstraction)
   + Michael Nielsen's [call](http://michaelnielsen.org/reinventing_explanation) to incorporate emotional impact, change habits of mind, and reduce the burden on people's short-term working memory
