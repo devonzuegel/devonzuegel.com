@@ -5,10 +5,10 @@ author: "Devon Zuegel"
 tags: ["healthcare", "obamacare", "aca"]
 collection: posts
 date_published: 2013-12-06
-img: "//iis-db.stanford.edu/news/3405/3405-small_jay_square..jpg"
+img: ../assets/headline-images/bhattacharya-square.png
 ---
 
-![](//stanfordreview.org/wp-content/uploads/battacharya.png)
+![](../assets/headline-images/bhattacharya.png)
 
 *Jay Bhattacharya is an associate professor of Medicine at Stanford and, by courtesy, of Economics. He has been studying the healthcare market for 20 years. He received a BA in economics, an MD and a PhD from Stanford University, where he has taught since 2001.* 
 

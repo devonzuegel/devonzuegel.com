@@ -5,7 +5,7 @@ author: "Devon Zuegel"
 tags: ["taxes", "tax day", "fair tax"]
 collection: posts
 date_published: 2013-02-18
-img: "//stanfordreview.org/wp-content/uploads/Screen-Shot-2013-02-19-at-11.19.11-AM-300x164.png"
+img: http://s.hswstatic.com/gif/write-tax-code1.jpg
 ---
 
 > _“Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius to move in the opposite direction.”_

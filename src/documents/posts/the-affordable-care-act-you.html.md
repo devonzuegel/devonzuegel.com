@@ -5,7 +5,7 @@ author: 'Devon Zuegel'
 tags: ['healthcare', 'aca', 'medicare', 'obamacare', 'vaden health center']
 collection: posts
 date_published: 2013-12-09
-img: '//stanfordreview.org/wp-content/uploads/obamacare_survey_pie_chart.png'
+img: http://www-cdn.sciencebuddies.org/Files/7234/6/medicines-and-syringe.jpg
 ---
 
 While we were busy cramming for midterms, the rollout of Healthcare.gov faced some serious issues. In the 24 hours following its October 1 launch, only 6 people managed to enroll on the federal healthcare exchange, according to the House Oversight and Government Reform Committee. In the first week, that number had grown to only 1 percent of the 3.7 million people who tried to register due to massive wait times, according to consulting firm Millward Brown Digital.

@@ -145,7 +145,7 @@ Evernote has lots of great sharing capabilities, including joint notebooks, publ
 
 As a fun way to solve this little problem of mine and to teach myself more about Rails testing frameworks, I'm working on a little app called [My Evernote](//myevernote.co). When I'm done, it'll automatically sync all of your notes except those you especially tag `#private`. Then each evening you receive an email asking which of the synced notes you want to "publish" on your feed. It's a simple app, but I quickly learned that the Evernote documentation for Rails is basically non-existent, so it's also been a fun way to add to that.
 
-![](../assets/my-evernote.png)
+![](../assets/my-evernote.jpg)
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
 

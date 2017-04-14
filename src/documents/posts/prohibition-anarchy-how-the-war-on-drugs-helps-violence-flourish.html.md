@@ -5,7 +5,7 @@ author: 'Devon Zuegel'
 tags: ['prohibition', 'war on drugs', 'violence']
 collection: posts
 date_published: 2014-05-23
-img: '//stanfordreview.org/wp-content/uploads/Mexico-articleLarge.jpg'
+img: http://blogs.uww.edu/introtolatinamerica/files/2011/10/zetas-drug-cartel.jpg
 ---
 
 ![](//stanfordreview.org/wp-content/uploads/Mexico-articleLarge.jpg)

@@ -5,7 +5,7 @@ author: 'Devon Zuegel'
 tags: ['mt gox', 'bitcoin', 'exchange']
 collection: posts
 date_published: 2014-04-23
-img: '//stanfordreview.org/wp-content/uploads/mtgox_where_is_our_money-1024x682.jpg'
+img: https://cdn3.sbnation.com/assets/4023651/DSCF4053.jpg
 ---
 
 Only a year ago, MtGox was the largest Bitcoin (BTC) exchange in the world, handling 70 percent of all Bitcoin transactions. The exchange ground to a halt on February 7 when it was announced that all BTC withdrawals from customer accounts were indefinitely suspended. Left in the dark, thousands of Bitcoin owners found their assets frozen as the exchange shut down. To ease growing concern, MtGox stated that “the increase in withdrawal traffic [was] hindering [their] efforts on a technical level” and they needed the system to be in a “static state ... to obtain a clear technical view of the current processes.”

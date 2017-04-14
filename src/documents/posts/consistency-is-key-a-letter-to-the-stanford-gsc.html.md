@@ -5,7 +5,7 @@ tags: ["justice", "stanford"]
 author: "Devon Zuegel"
 collection: posts
 date_published: 2014-04-20
-img: "//lh4.googleusercontent.com/hRaaxxtSKdKqWXwZ2uF88RvKJElTK21Yr8NzbMAoQ6Fz77936SC28eDZMGZKH9Fv1hm7vhJqTzR3XiXf7U6XnrTfd1KZiCOmto3JA72OexeLXKFcwCg6ughP4PpGZSH6qA"
+img: http://www.slingshotpower.com/wp-content/uploads/2015/09/bigstock-Stanford-University-Tower-30803042.jpg
 ---
 
 Richard Dawkins is very clear on his opinion of creationism and its supporters. In an article published by The Guardian, he stated, “Any science teacher who denies that the world is billions ... of years old is teaching children a preposterous, mind-shrinking falsehood.” He continues, “Ignorant, closed-minded, false teachers who stand in their way come as close as I can reckon to committing true sacrilege.”
