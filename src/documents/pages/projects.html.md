@@ -25,6 +25,7 @@ featured: true
 - [Octagon](#octagon)
 - [Paper Trail](#paper-trail)
 - [In Other Words](#in-other-words)
+- [Bubble](#bubble)
 
 <div class='space triple'></div><div class='space'></div>
 
@@ -261,3 +262,11 @@ My brother Jeffrey was born with Cerebral Palsy and is on the autistic spectrum.
 In my junior year in high school, I became fascinated with his growing ability to communicate in non-conventional ways and decided to devote several months to learning more about this process. After conducting extensive interviews and reading further into psychology and cognitive science, I published a documentary book called In Other Words about how he and his team discovers and develops those alternatives.
 
 You can find the book on [Blurb.com](http://www.blurb.com/b/2092327-in-other-words).
+
+<a name='bubble' class='anchor' />
+## Bubble ##
+<div class='project-time'><div class='time'>January 2012</div><br></div>
+
+
+
+![](../assets/bubble.jpg)
