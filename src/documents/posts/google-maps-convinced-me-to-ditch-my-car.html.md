@@ -4,7 +4,7 @@ author: Devon Zuegel
 tags: ["memory"]
 collection: posts
 date_published: 2016-07-01
-img: http://www.geospatialworld.net/wp-content/uploads/2016/06/Google.jpeg
+img: ../assets/headline-images/map.jpg
 ---
 
 I am always a little embarrassed when people find out that I had a car in college. I'm a transit geek after all, and I always encourage friends to take public and on-demand transit rather than generate congestion and consume parking spots. Despite all this, I drove multiple times each week last year, because I felt like it was my only real option to get to places I needed to go around the Bay Area.
