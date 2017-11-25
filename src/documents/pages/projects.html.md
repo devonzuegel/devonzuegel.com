@@ -5,12 +5,15 @@ collection: pages
 featured: true
 ---
 
-<script type="text/javascript"> // Hack to fix scrolling to Mr Schelling's Neighborhood 
+<script type="text/javascript"> // Hack to fix scrolling to Mr Schelling's Neighborhood
   document.body.scrollTop = document.documentElement.scrollTop = 0;
 </script>
 
 # Projects #
 
+- [Computing Pioneers video series](#computing-pioneers)
+- [Clarity](#clarity)
+- [Aldine: syntax highlighting for English](#aldine)
 - [MyFitnessPal API](#mfp-api)
 - [Isostamp](#isostamp)
 - [Mr. Schelling's Neighborhood](#schelling-neighborhood)
@@ -29,9 +32,40 @@ featured: true
 
 <div class='space triple'></div><div class='space'></div>
 
-<a name='mfp-api' class='anchor' />
+
+<a name='computing-pioneers' class='anchor'></a>
+
+## Computing Pioneers video series ##
+<div class='project-time'><div class='time'>November 2017 - now</div><br/></div>
+
+More info to come!
+
+
+<a name='clarity' class='anchor'></a>
+
+## Clarity ##
+<div class='project-time'><div class='time'>June - August 2017</div><br/></div>
+
+
+You can find the source code on [Github](//github.com/devonzuegel/clarity).
+
+
+<a name='aldine' class='anchor'></a>
+
+## Aldine: syntax highlighting for English ##
+<div class='project-time'><div class='time'>December 2016 - January 2017</div><br/></div>
+
+A while back, I learned Rob Pike believes that code shouldn't be syntax highlighted. He argues that we get along just fine without it in English, so it's just a distraction. That made me think, "Well why don't we have it English?" It seems like more of an accident of history rather than an intentional design decision. Anyways, what are **bolding** and *italicizing* if not a limited form of syntax highlighting?
+
+Years ago, I developed a method of reading where I focus on verbs to “anchor” clauses and then attach the rest of the sentence to those anchor points. I found it helps me to read faster and with better comprehension. Similarly, I realized that I understand just as much when I all but ignore articles and other filler words (e.g. “a”, “the”).
+
+These experiences made me wonder what changes we could make to text to improve the experience of reading. I tried a few different syntax highlighting schemes, with some interesting results. You can find the collection of these experiments on [Github](//github.com/devonzuegel/aldine). I never got around to finally deploying the final project, but it shouldn't be too hard to get it running locally from the README in the repo.
+
+
+<a name='mfp-api' class='anchor'></a>
+
 ## MyFitnessPal API ##
-<div class='project-time'><div class='time'>August - September 2016</div><br></div>
+<div class='project-time'><div class='time'>August - September 2016</div><br/></div>
 
 I've tracked my eating habits for the past eight years, and I've since added other health and productivity metrics. Data have piled up in the spreadsheets, services, and other tools I've used to collect these measurements. So far I've done little with it, but I always imagined that they would one day uncover some pattern that would suggest changes in the way I eat, work, or exercise.
 
@@ -57,9 +91,11 @@ You can find the code for the full API [on Github](https://github.com/devonzuege
 
 
 
-<a name='isostamp' class='anchor' />
+
+<a name='isostamp' class='anchor'></a>
+
 ## [Isostamp](https://isostamp.org)
-<div class='project-time'><div class='time'>March - July 2016</div><br></div>
+<div class='project-time'><div class='time'>March - July 2016</div><br/></div>
 
 [Isotopic signature transfer and mass pattern prediction (Isostamp)](http://pubs.acs.org/doi/abs/10.1021/cb100338x) is an enabling technique for chemically-directed proteomics. Specifically, it is an algorithm for the targeted detection and identification of modified species by mass spectrometry (MS).
 
@@ -72,10 +108,12 @@ You can upload your own data and learn more about Isostamp at [Isostamp.org](Iso
 We will be open-sourcing the C++ code for the algorithm soon.
 
 
-<a name='schelling-neighborhood' class='anchor' />
+
+<a name='schelling-neighborhood' class='anchor'></a>
+
 ## [Mr. Schelling's Neighborhood](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html) ##
 
-<div class='project-time'><div class='time'>July 2016</div><br></div>
+<div class='project-time'><div class='time'>July 2016</div><br/></div>
 
 Ever since reading about Schelling's ["general theory of tipping"](http://isites.harvard.edu/fs/docs/icb.topic185351.files/shelling1.pdf) in [*Seeing Around Corners*](http://www.theatlantic.com/magazine/archive/2002/04/seeing-around-corners/302471/), I've wanted to replicate some of his models and play around with agent-based modeling as a technique.
 
@@ -90,18 +128,22 @@ The default number of same-colored neighbors required to make an agent satisfied
 You can find the ABM code on [Github](//github.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.coffee), and you can see a larger version of the model [here](https://rawgit.com/devonzuegel/affitto/master/models/mr-schellings-neighborhood/mr-schellings-neighborhood.html).
 
 
-<a name='tiddly-lisp' class='anchor' />
+
+<a name='tiddly-lisp' class='anchor'></a>
+
 ## [TiddlyLisp](//github.com/devonzuegel/tiddly-lisp) ##
-<div class='project-time'><div class='time'>January 2016</div><br></div>
+<div class='project-time'><div class='time'>January 2016</div><br/></div>
 
 To learn the fundamentals of Lisp, I built a little interpreter based on Michael Nielsen's fantastic blog post [*Lisp as the Maxwell's Equations of Software*](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/). I included extensions to resolve some of the challenge problems he mentioned at the end of the post, too.
 
 You can find the code for the interpreter on [Github](//github.com/devonzuegel/tiddly-lisp).
 
 
-<a name='instanote' class='anchor' />
+
+<a name='instanote' class='anchor'></a>
+
 ## [Instanote](https://instanote-archive.herokuapp.com) ##
-<div class='project-time'><div class='time'>January 2016</div><br></div>
+<div class='project-time'><div class='time'>January 2016</div><br/></div>
 
 About a month ago, I started using Instapaper obsessively. However, it left me with one major problem – all of my Instapaper bookmarks and highlights were isolated from the knowledge that I (obsessively) store in Evernote, and I wanted to have them all in one place. After all, a [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base) is useless if it doesn't contain half of the things I read throughout the day.
 
@@ -110,20 +152,24 @@ Instanote solves this problem by syncing the text of my archived Instapaper book
 You can sign up at [instanote-archive.herokuapp.com](https://instanote-archive.herokuapp.com) and see the source code on [Github](https://github.com/devonzuegel/instanote-archive).
 
 
-<a name='congressional-bills' class='anchor' />
+
+<a name='congressional-bills' class='anchor'></a>
+
 ## [Congressional Bill Outcome Predictor](http://devonzuegel.com/bills/) ##
 
-<div class='project-time'><div class='time'>December 2015</div><br></div>
+<div class='project-time'><div class='time'>December 2015</div><br/></div>
 
 Emma Marriott, Arushi Jain, and I built a predictor that identifies which US bills will succeed in the House & Senate. We tried several different prediction methods, including: Naive Bayes with and without Principal Component Analysis (PCA), Logistic Regression, Support Vector Machine (SVM) with PCA, and Perceptron with PCA. PCA identified the `500` most important features of a set of `11,000`. Each predictor was modeled on data from the 109th – 113th Congresses from a wide range of structured & unstructured sources, including lobbying information. SVM with PCA proved to be the best model. It predicted bill outcomes with `94%` precision & `87%` recall, resulting in an F-measure of `0.92`.
 
 You can learn more about our research and data [here](http://devonzuegel.com/bills/).
 
 
-<a name='affitto' class='anchor' />
+
+<a name='affitto' class='anchor'></a>
+
 ## [Affitto](//github.com/devonzuegel/affitto) ##
 
-<div class='project-time'><div class='time'>November 2015</div><br></div>
+<div class='project-time'><div class='time'>November 2015</div><br/></div>
 
 San Francisco and the greater Bay Area have been struggling with housing shortages and decisions about how to best serve the community with policies to deal with this situation. At a micro level, we have a fairly good understanding of how individuals make economic decisions such as where tenants choose to live and how much rent landlords choose to charge. However, we lack tools to model the complex interactions of millions of individuals simultaneously making decisions and the emergent phenomena that result from these interactions.
 
@@ -136,9 +182,11 @@ Here is a small version of one of our models. You may have to close the controls
 You can find the ABM code, housing data with which we initialized the model, and further information on the analysis we performed on the resulting network at [github.com/devonzuegel/affitto](//github.com/devonzuegel/affitto). You can see a larger version of the model [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/affitto/blob/master/models/model2/model.html).
 
 
-<a name='my-evernote' class='anchor' />
+
+<a name='my-evernote' class='anchor'></a>
+
 ## [My Evernote](//myevernote.co) ##
-<div class='project-time'><div class='time'>July 2015</div><br></div>
+<div class='project-time'><div class='time'>July 2015</div><br/></div>
 
 I love Evernote. On any given day I usually create about 15 notes, ranging from highlighted blog posts and articles to trip itineraries and to-do lists. The bulk of these notes are clippings from around the web that I've read and annotated with Evernote's [Clearly extension](//evernote.com/clearly/).
 
@@ -151,9 +199,11 @@ As a fun way to solve this little problem of mine and to teach myself more about
 You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
 
 
-<a name='zen-writer' class='anchor' />
+
+<a name='zen-writer' class='anchor'></a>
+
 ## [Zen Writer](//zenwriter.io) ##
-<div class='project-time'><div class='time'>June 2015</div><br></div>
+<div class='project-time'><div class='time'>June 2015</div><br/></div>
 
 The most difficult part of writing is that first draft. Putting your ideas to paper to generate that initial content is hard, because it's natural to edit your thoughts while translating them into words. However, this can severely hamper progress and creativity during early drafts. I've learned that I write better content faster if I don't censor myself initially and then only allow myself to revise and edit after I've exhausted my ideas. However, it's extremely difficult to contain that urge to filter out the less well-formed ideas.
 
@@ -170,18 +220,22 @@ You can find the open source code for the project on [Github](//github.com/devon
 P.S. As a more robust solution to this problem, I now use the [First Draft](http://www.96problems.com/rough-draft/) Mac app from [96 Problems](http://www.96problems.com/). It offers all the features I built, planned to build, or never even realized I needed in ZenWriter. Ben and the whole team are super responsive and helpful too, so in short I highly recommend the app if you're looking for a tool to solve this problem!
 
 
-<a name='origami-js' class='anchor' />
+
+<a name='origami-js' class='anchor'></a>
+
 ## [OrigamiJS](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html) ##
-<div class='project-time'><div class='time'>March 2015</div><br></div>
+<div class='project-time'><div class='time'>March 2015</div><br/></div>
 
 Over spring break I decided I wanted to play around with coffeescript, so I built a little script to hierarchically fold elements on a webpage. I originally built it so I could fold long blog posts and class notes I had written in Markdown. The idea was inspired by the great header folding in [Marked2](http://marked2app.com/), my favorite Markdown previewer, so by default Origamijs folds traditional `<h*>` and `<p>` elements as defined by Markdown. Origamijs also allows clients to define their own hierarchy, in the case that they're using unique tags or prefer to ignore certain levels of the traditional Markdown tag hierarchy.
 
 You can find the open source code for the project on [Github](//github.com/devonzuegel/origamijs) and example usage [here](//htmlpreview.github.io/?https://raw.githubusercontent.com/devonzuegel/origamijs/master/example-coffee.html).
 
 
-<a name='fiesta' class='anchor' />
+
+<a name='fiesta' class='anchor'></a>
+
 ## [Fiesta: Machine Translator](//github.com/devonzuegel/fiesta) ##
-<div class='project-time'><div class='time'>March 2015</div><br></div>
+<div class='project-time'><div class='time'>March 2015</div><br/></div>
 
 Zoe Robert, John Luttig, and I built a Spanish to English machine translator, which we called Fiesta. It is based on the IBM Model 1 algorithm and also implements several Spanish-specific strategies for improving results.
 
@@ -219,9 +273,11 @@ do until convergence
 You can find the open source code for the project on [Github](//github.com/devonzuegel/fiesta).
 
 
-<a name='octagon' class='anchor' />
+
+<a name='octagon' class='anchor'></a>
+
 ## Octagon ##
-<div class='project-time'><div class='time'>Summer 2014</div><br></div>
+<div class='project-time'><div class='time'>Summer 2014</div><br/></div>
 
 ![right-sm](http://michaelandassociate.com/fifteen/wp-content/uploads/2014/11/formation8.jpg)
 
@@ -232,9 +288,11 @@ I was responsible for the full-stack of the app, though I was lucky enough for t
 You can find the open source code for the project on [Github](//github.com/devonzuegel/octagon).
 
 
-<a name='paper-trail' class='anchor' />
+
+<a name='paper-trail' class='anchor'></a>
+
 ## Paper Trail ##
-<div class='project-time'><div class='time'>March 2014 - present</div><br></div>
+<div class='project-time'><div class='time'>March 2014 - present</div><br/></div>
 
 Some of the greatest impact individuals can have on politics is driven by daily purchasing decisions. Any time an individual patronizes a corporation, (s)he is fueling the company's lobbying and donorship capabilities and is indirectly supporting their political causes. Unfortunately, the impact of corporate political contributions is largely opaque to the general public, and the research about corporations’ political activity is a tedious, complex task.
 
@@ -246,14 +304,16 @@ You can find this initial prototype [here](//stanford.edu/~devonz/paper_trail/ab
 
 Last month, I decided to completely refactor and improve upon Paper Trail with the help of a few friends. We realized that it was unlikely that users would consistently use the app alongside real-life spending, because it would require the tedious process of pulling their phone out of their pocket, typing in the company name, and analyzing the results. We had to find a way to integrate Paper Trail more seamlessly into the users' existing workflow.
 
-We decided that a browser extension would be far more effective than the original idea of a standalone website. Our extension lies on top of Amazon and automatically alerts users of the political activities of the manufacturers of the items in the user's cart. Beyond solving the problem of relying on users to take action, our new strategy also narrowed our focus to a single site — Amazon — and its users. This had the benefit of leveraging our own experience as Amazon customers, using Amazon's fantastic API, and generally focusing our energy on specific goals rather than broad ones. 
+We decided that a browser extension would be far more effective than the original idea of a standalone website. Our extension lies on top of Amazon and automatically alerts users of the political activities of the manufacturers of the items in the user's cart. Beyond solving the problem of relying on users to take action, our new strategy also narrowed our focus to a single site — Amazon — and its users. This had the benefit of leveraging our own experience as Amazon customers, using Amazon's fantastic API, and generally focusing our energy on specific goals rather than broad ones.
 
 The Paper Trail extension is currently under development. You can find an rough interactive prototype on [Invision](//invis.io/SZ1M1F6AJ) and the open source code for the actual extension on [Github](//github.com/devonzuegel/papertrail-extension).
 
 
-<a name='in-other-words' class='anchor' />
+
+<a name='in-other-words' class='anchor'></a>
+
 ## In Other Words ##
-<div class='project-time'><div class='time'>January - May 2011</div><br></div>
+<div class='project-time'><div class='time'>January - May 2011</div><br/></div>
 
 ![right-md](http://bookshow.blurb.com/bookshow/cache/P2866696/md/cover_2.jpeg)
 
@@ -263,9 +323,11 @@ In my junior year in high school, I became fascinated with his growing ability t
 
 You can find the book on [Blurb.com](http://www.blurb.com/b/2092327-in-other-words).
 
-<a name='bubble' class='anchor' />
+
+<a name='bubble' class='anchor'></a>
+
 ## Bubble ##
-<div class='project-time'><div class='time'>January 2012</div><br></div>
+<div class='project-time'><div class='time'>January 2012</div><br/></div>
 
 
 
