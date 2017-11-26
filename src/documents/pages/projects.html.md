@@ -216,18 +216,18 @@ You can find the ABM code, housing data with which we initialized the model, and
 
 <a name='my-evernote' class='anchor'></a>
 
-## [My Evernote](//myevernote.co) ##
+## [My Evernote](//myevernote.herokuapp.com) ##
 <div class='project-time'><div class='time'>July 2015</div><br/></div>
 
 I love Evernote. On any given day I usually create about 15 notes, ranging from highlighted blog posts and articles to trip itineraries and to-do lists. The bulk of these notes are clippings from around the web that I've read and annotated with Evernote's [Clearly extension](//evernote.com/clearly/).
 
 Evernote has lots of great sharing capabilities, including joint notebooks, public links, and social sharing. However, I've always wanted to publish a sort of feed that shares a select set from my annotated notes and displays what my friends have read. What I want is a bit like Medium, but where the posts aren't necessarily from that platform, simply clipped with Evernote into a notebook.
 
-As a fun way to solve this little problem of mine and to teach myself more about Rails testing frameworks, I'm working on a little app called [My Evernote](//myevernote.co). When I'm done, it'll automatically sync all of your notes except those you especially tag `#private`. Then each evening you receive an email asking which of the synced notes you want to "publish" on your feed. It's a simple app, but I quickly learned that the Evernote documentation for Rails is basically non-existent, so it's also been a fun way to add to that.
+As a fun way to solve this little problem of mine and to teach myself more about Rails testing frameworks, I'm working on a little app called [My Evernote](//myevernote.herokuapp.com). When I'm done, it'll automatically sync all of your notes except those you especially tag `#private`. Then each evening you receive an email asking which of the synced notes you want to "publish" on your feed. It's a simple app, but I quickly learned that the Evernote documentation for Rails is basically non-existent, so it's also been a fun way to add to that.
 
 ![](../assets/my-evernote.jpg)
 
-You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.co](//myevernote.co).
+You can find the open source code for the project on [Github](//github.com/devonzuegel/my-evernote) and the app at [myevernote.herokuapp.com](//myevernote.herokuapp.com).
 
 
 
