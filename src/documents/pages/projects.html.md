@@ -12,6 +12,7 @@ featured: true
 # Projects #
 
 - [Computing Pioneers video series](#computing-pioneers)
+- [Curios](#curios)
 - [Clarity](#clarity)
 - [Aldine: syntax highlighting for English](#aldine)
 - [MyFitnessPal API](#mfp-api)
@@ -39,6 +40,27 @@ featured: true
 <div class='project-time'><div class='time'>November 2017 - now</div><br/></div>
 
 More info to come!
+
+
+<a name='curios' class='anchor'></a>
+
+## Curios ##
+<div class='project-time'><div class='time'>November 2017 - now</div><br/></div>
+
+Curios is like Quora, but for urban infrastructure projects.
+
+Answering questions about big urban construction projects usually requires a Google search and then digging through a bunch of information, but what I'd like to be able to do is just geolocate myself on a map and see a little marker for the project, to click on it, and learn whatever key facts I want about the project.
+
+For example, the Transbay Terminal has been under construction as long as I've lived in San Francisco. Whenever I walk past it, I wonder "when are the buses going to start running?". I wonder other questions too, like how much it cost, who lobbied for it at City Hall, what its capacity will be, and so on. It's surprisingly hard to get information about these questions, and even more so for less prominent projects going on around the city.
+
+Over time, I've developed a detailed mental map of infrastructure changes going on in the city. I've always wanted these reflected in a single place, as a way to both better remember this information and share it with others. Curios is that map — even if no one ends up using it
+
+Infrastructure is often underappreciated. It's expensive, the victim of tragedies of the commons, and all too easy to take for granted. Most people only notice infrastructure when it isn't working for them — great infrastructure tends to disappear when it's doing its job right. My hope with this project is to bring a little more hope and positive attention to the infrastructure that's being created and maintained around us.
+
+And even if no one else uses it, I'll have a place to keep my own personal notes about cool projects going on around me. :)
+
+You can find Curios at [curios.city](//curios.city), and the source code is on [Github](//github.com/devonzuegel/curios).
+
 
 
 <a name='clarity' class='anchor'></a>
@@ -301,7 +323,7 @@ You can find the open source code for the project on [Github](//github.com/devon
 ## Paper Trail ##
 <div class='project-time'><div class='time'>March 2014 - present</div><br/></div>
 
-Some of the greatest impact individuals can have on politics is driven by daily purchasing decisions. Any time an individual patronizes a corporation, (s)he is fueling the company's lobbying and donorship capabilities and is indirectly supporting their political causes. Unfortunately, the impact of corporate political contributions is largely opaque to the general public, and the research about corporations’ political activity is a tedious, complex task.
+Some of the greatest impact individuals can have on politics is driven by daily purchasing decisions. Any time an individual patronizes a corporation, (s)he is fueling the company's lobbying and donorship capabilities and is indirectly supporting their political causes. Unfortunately, the impact of corporate political contributions is largely opaque to the general public, and the research about corporations' political activity is a tedious, complex task.
 
 In early 2014, I set out to solve this problem with a project called Paper Trail. The web app provides users access to political profiles of companies and manufacturers. Visualizations and statistics about companies political contributions and lobbying behavior help consumers make informed choices about where their money is going. In turn, consumers' more thoughtful choices empower those corporations that represent their values.
 
@@ -324,7 +346,7 @@ The Paper Trail extension is currently under development. You can find an rough 
 
 ![right-md](http://bookshow.blurb.com/bookshow/cache/P2866696/md/cover_2.jpeg)
 
-My brother Jeffrey was born with Cerebral Palsy and is on the autistic spectrum. Life with Jeffrey is challenging for both of us because he doesn’t always communicate effectively in the conventional way, in “English.” However, he has found alternative modes with the help of his team of teachers, therapists, family, and friends.
+My brother Jeffrey was born with Cerebral Palsy and is on the autistic spectrum. Life with Jeffrey is challenging for both of us because he doesn't always communicate effectively in the conventional way, in “English.” However, he has found alternative modes with the help of his team of teachers, therapists, family, and friends.
 
 In my junior year in high school, I became fascinated with his growing ability to communicate in non-conventional ways and decided to devote several months to learning more about this process. After conducting extensive interviews and reading further into psychology and cognitive science, I published a documentary book called In Other Words about how he and his team discovers and develops those alternatives.
 
