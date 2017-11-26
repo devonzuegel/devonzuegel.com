@@ -46,6 +46,13 @@ More info to come!
 ## Clarity ##
 <div class='project-time'><div class='time'>June - August 2017</div><br/></div>
 
+"Science is a way of thinking more than it is a body of knowledge," said Carl Sagan. Writing is similar—it is a process, not a position. It's as much about challenging and polishing an idea as it is about the idea itself. When I've written something, I'm suspicious when my view _doesn't_ change at least a little before I share it with the world.
+
+Almost everything I publish is radically different from its original draft. Discussion, feedback, and reflection mark the most valuable stage of the writing cycle, because they might uncover a neglected argument, produce a stronger rhetorical structure, or cause me to question my assumptions all together. This process can continue after publishing, too. Writing is just a snapshot in time of the author's thoughts, and it can get out of date as they learn more. Some of the biggest updates I've had in my worldview occurred _after_ (and in some cases because!) I published an essay on the topic.
+
+Most writers describe a similar process, but it is hidden from the reader. Writers constantly make decisions about what to say and how to articulate it, but we only see the result. The margins of my Google docs are filled with comments from friends, and it's fascinating to see how these conversations, questions, and disagreements inform the final result. But in the end, they are resolved into oblivion, and the final version contains no trace of the commentary. A lot of work happens before the writer hits "publish", but that process is invisible.
+
+With Clarity, I played around with some workflow ideas for bringing the revision process to the forefront, without drowning the reader in the detail that the author intentionally (and rightfully) abstracts away from them. I still haven't figured out great solutions for these problems, and Clarity is very much in the not-yet-usable, "shitty prototype" stage, but I'll continue testing out ideas in here over time.
 
 You can find the source code on [Github](//github.com/devonzuegel/clarity).
 
