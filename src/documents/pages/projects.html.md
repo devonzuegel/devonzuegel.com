@@ -39,12 +39,14 @@ featured: true
 ## Computing Pioneers video series ##
 <div class='project-time'><div class='time'>November 2017 - now</div><br/></div>
 
+Like Chef's Table, but for computing pioneers / engineers rather than chefs.
+
 More info to come!
 
 
 <a name='curios' class='anchor'></a>
 
-## Curios ##
+## Curios — `[curios.city](//curios.city)` ##
 <div class='project-time'><div class='time'>November 2017 - now</div><br/></div>
 
 Curios is like Quora, but for urban infrastructure projects.
@@ -53,7 +55,7 @@ Answering questions about big urban construction projects usually requires a Goo
 
 For example, the Transbay Terminal has been under construction as long as I've lived in San Francisco. Whenever I walk past it, I wonder "when are the buses going to start running?". I wonder other questions too, like how much it cost, who lobbied for it at City Hall, what its capacity will be, and so on. It's surprisingly hard to get information about these questions, and even more so for less prominent projects going on around the city.
 
-Over time, I've developed a detailed mental map of infrastructure changes going on in the city. I've always wanted these reflected in a single place, as a way to both better remember this information and share it with others. Curios is that map — even if no one ends up using it
+Over time, I've developed a detailed mental map of infrastructure changes going on in the city. I've always wanted these reflected in a single place, as a way to both better remember this information and share it with others. Also, when I'm in another less familiar city, I'd also love to be able to explore
 
 Infrastructure is often underappreciated. It's expensive, the victim of tragedies of the commons, and all too easy to take for granted. Most people only notice infrastructure when it isn't working for them — great infrastructure tends to disappear when it's doing its job right. My hope with this project is to bring a little more hope and positive attention to the infrastructure that's being created and maintained around us.
 
@@ -123,7 +125,7 @@ You can find the code for the full API [on Github](https://github.com/devonzuege
 
 <a name='isostamp' class='anchor'></a>
 
-## [Isostamp](https://isostamp.org)
+## Isostamp — `[isostamp.org](https://isostamp.org)`
 <div class='project-time'><div class='time'>March - July 2016</div><br/></div>
 
 [Isotopic signature transfer and mass pattern prediction (Isostamp)](http://pubs.acs.org/doi/abs/10.1021/cb100338x) is an enabling technique for chemically-directed proteomics. Specifically, it is an algorithm for the targeted detection and identification of modified species by mass spectrometry (MS).
@@ -231,20 +233,20 @@ You can find the open source code for the project on [Github](//github.com/devon
 
 <a name='zen-writer' class='anchor'></a>
 
-## [Zen Writer](//zenwriter.io) ##
+## Zen Writer — `[zenwriter.herokuapp.com](//zenwriter.herokuapp.com)` ##
 <div class='project-time'><div class='time'>June 2015</div><br/></div>
 
 The most difficult part of writing is that first draft. Putting your ideas to paper to generate that initial content is hard, because it's natural to edit your thoughts while translating them into words. However, this can severely hamper progress and creativity during early drafts. I've learned that I write better content faster if I don't censor myself initially and then only allow myself to revise and edit after I've exhausted my ideas. However, it's extremely difficult to contain that urge to filter out the less well-formed ideas.
 
 During spring quarter finals, I was assigned a 10 page paper. Just three days before it was due I had a one page draft despite hours of research and staring at a blank screen. I had lots of ideas in my head, but every time I started typing I ended up using the delete button almost as much as all my other keys combined.
 
-Since I wasn't making any progress anyways, I decided to take a break and built a tiny text editor called [Zen Writer](//zenwriter.io). It disables the delete button, highlights the current line, and fades out past content so that your attention is focused on moving forward and generating more content.
+Since I wasn't making any progress anyways, I decided to take a break and built a tiny text editor called [Zen Writer](//zenwriter.herokuapp.com). It disables the delete button, highlights the current line, and fades out past content so that your attention is focused on moving forward and generating more content.
 
 It didn't take much work to build a rough version, and as soon as I finished I was back to writing that first draft of my paper. In the first 15 minutes, I generated about 600 words. When I went back to revise what I'd written, I was surprised to find that most of my changes were to fix minor typos rather than large, conceptual revisions.
 
 I finished that first draft in just over 2 hours and spent another hour the following day to revise my work, and the resulting paper was among the best I've written in my time at Stanford. Since then, I use Zen Writer every time I get stuck writing, from emails to blog posts to READMEs. I hope other people find it useful too, though I will warn you that it's still very rough and simple!
 
-You can find the open source code for the project on [Github](//github.com/devonzuegel/zen-writer) and the app at [zenwriter.io](//zenwriter.io).
+You can find the open source code for the project on [Github](//github.com/devonzuegel/zen-writer) and the app at [zenwriter.herokuapp.com](//zenwriter.herokuapp.com).
 
 P.S. As a more robust solution to this problem, I now use the [First Draft](http://www.96problems.com/rough-draft/) Mac app from [96 Problems](http://www.96problems.com/). It offers all the features I built, planned to build, or never even realized I needed in ZenWriter. Ben and the whole team are super responsive and helpful too, so in short I highly recommend the app if you're looking for a tool to solve this problem!
 
